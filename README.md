@@ -1,3 +1,1 @@
-# space.diamo.iol.nixel-distr
-
-1
+Distributives and shares of NiXel app
