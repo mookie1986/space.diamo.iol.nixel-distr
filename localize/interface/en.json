@@ -1,5 +1,5 @@
 [
-  {"ifi": 0, "text": "", "bigText": false},
+  {"ifi": 0, "text": " ", "bigText": false},
   {"ifi": 1, "text": "NiXeL", "bigText": false},
   {"ifi": 2, "text": "Log In", "bigText": false},
   {"ifi": 3, "text": "Profile", "bigText": false},
@@ -27,7 +27,7 @@
   {"ifi": 25, "text": "New password", "bigText": false},
   {"ifi": 26, "text": "Inner balance", "bigText": false},
   {"ifi": 27, "text": "<b>iol </b> as a global unemployment problem solution", "bigText": false},
-  {"ifi": 28, "text": "!https://raw.githubusercontent.com/Distributed-Digital-Nomads/nixel/main/docs/en/contractT0.htm", "bigText": true},
+  {"ifi": 28, "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/nixel/main/docs/en/contractT0.htm", "bigText": true},
   {"ifi": 29, "text": "Please, before sign up read carefully User Agreement that includes Terms of use, Privacy policy and other conditions", "bigText": false},
   {"ifi": 30, "text": "I agree to the User Agreement", "bigText": false},
   {"ifi": 31, "text": "Content of the contract", "bigText": false},
