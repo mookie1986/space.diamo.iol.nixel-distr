@@ -411,6 +411,7 @@
   {"ifi": 534, "text": "Account holder/Recipient/Organisation", "bigText": false},
   {"ifi": 535, "text": "You must specify the category of payment as a Donation or Charity, because you trensfer currency on your NiXeL balance, you do not make a purchase of goods or services. NiXeL is an internal non-commercial application for digital nomads and it does not provide financial services. You can translate funds from the NiXeL balance to your bank accounts. This is your income", "bigText": false},
   {"ifi": 536, "text": "You will not receive push notifications when the app is not open", "bigText": false},
+  {"ifi": 537, "text": "Delete document", "bigText": false},
   {"ifi": 1000, "text": "3-50 symbols a-z and 0-9", "bigText": false},
   {"ifi": 1001, "text": "8-50 symbols", "bigText": false},
   {"ifi": 1002, "text": "Would you like try again?", "bigText": false},
