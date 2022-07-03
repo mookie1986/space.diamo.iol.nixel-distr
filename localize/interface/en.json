@@ -415,6 +415,7 @@
   {"ifi": 538, "text": "From gallery", "bigText": false},
   {"ifi": 539, "text": "Take a photo", "bigText": false},
   {"ifi": 540, "text": "Set time", "bigText": false},
+  {"ifi": 541, "text": "Choose date", "bigText": false},
   {"ifi": 1000, "text": "3-50 symbols a-z and 0-9", "bigText": false},
   {"ifi": 1001, "text": "8-50 symbols", "bigText": false},
   {"ifi": 1002, "text": "Would you like try again?", "bigText": false},
