@@ -529,5 +529,14 @@
   {"ifi": 2014, "text": "Architect", "bigText": false},
   {"ifi": 2015, "text": "Architect", "bigText": false},
   {"ifi": 2016, "text": "Architect", "bigText": false},
-  {"ifi": 2017, "text": "Architect", "bigText": false}
+  {"ifi": 2017, "text": "Architect", "bigText": false},
+  {"ifi": 2300, "text": "User", "bigText": false, "note":  "from 2300 to 2399 chat roles are role/specialisation names"},
+  {"ifi": 2301, "text": "Поддержка пользователей", "bigText": false},
+  {"ifi": 2302, "text": "Техническая поддержка", "bigText": false},
+  {"ifi": 2303, "text": "Модератор", "bigText": false},
+  {"ifi": 2304, "text": "Финансовая поддержка", "bigText": false},
+  {"ifi": 2305, "text": "Правовая поддержка", "bigText": false},
+  {"ifi": 2306, "text": "Системный администратор", "bigText": false},
+  {"ifi": 2307, "text": "Инженер ПО", "bigText": false},
+  {"ifi": 2308, "text": "Архитектор", "bigText": false}
 ]
