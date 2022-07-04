@@ -420,7 +420,7 @@
   {"ifi": 543, "text": "Send as", "bigText": false},
   {"ifi": 544, "text": "Hide this message from other users", "bigText": false},
   {"ifi": 545, "text": "Hide all this user's messages from other users", "bigText": false},
-  {"ifi": 546, "text": "Disallow the user to message in this chat", "bigText": false},
+  {"ifi": 546, "text": "Disallow the user to message to this chat", "bigText": false},
   {"ifi": 1000, "text": "3-50 symbols a-z and 0-9", "bigText": false},
   {"ifi": 1001, "text": "8-50 symbols", "bigText": false},
   {"ifi": 1002, "text": "Would you like try again?", "bigText": false},
