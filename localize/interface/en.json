@@ -441,7 +441,7 @@
   {"ifi": 1004, "text": "Encrypt/Decrypt error in the stirrup", "bigText": false},
   {"ifi": 1005, "text": "Password and password confirmation are not the same", "bigText": false},
   {"ifi": 1006, "text": "seconds left", "bigText": false},
-  {"ifi": 1007, "text": "Сaptcha expression equals", "bigText": false},
+  {"ifi": 1007, "text": "Captcha expression equals", "bigText": false},
   {"ifi": 1008, "text": "Turing test", "bigText": false},
   {"ifi": 1009, "text": "Must much password", "bigText": false},
   {"ifi": 1010, "text": "Registering in the the app you agree with \"Terms and Use Conditions\" of the app", "bigText": false},
