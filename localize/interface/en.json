@@ -434,6 +434,8 @@
   {"ifi": 557, "text": "Locked", "bigText": false},
   {"ifi": 558, "text": "Unocked", "bigText": false},
   {"ifi": 559, "text": "Rejected/Sent back", "bigText": false},
+  {"ifi": 560, "text": "Open crowdfund project", "bigText": false},
+  {"ifi": 561, "text": "Crowdfund project", "bigText": false},
   {"ifi": 1000, "text": "3-50 symbols a-z and 0-9", "bigText": false},
   {"ifi": 1001, "text": "8-50 symbols", "bigText": false},
   {"ifi": 1002, "text": "Would you like try again?", "bigText": false},
