@@ -10,5 +10,11 @@
     "localizeFileName": "ru",
     "englishName": "Russian",
     "localName": "Русский"
+  },
+  {
+    "isoCode": "th",
+    "localizeFileName": "th",
+    "englishName": "Thai",
+    "localName": "ภาษาไทย"
   } 
 ]
