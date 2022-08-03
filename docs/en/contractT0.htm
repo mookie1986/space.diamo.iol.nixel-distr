@@ -81,7 +81,7 @@ Workers are able to open profile of the customer who created Smart Order for job
 All users receive 40 IOU in their balance after profile activation. Activation requires to provided in profile at least First name, Family name, Birth date and 1 identification document (ID cartd, driver license or passport) with 2 pictures.<br>
 <br>
 <b>Verification</b> is a manual verification, in which the user support moderator matches the data provided by the user upon activation.<br>
-Verification is intended for additional protection of user balance. Providing false or other people's information may lead to the blocking of the user's account in accordance with this Smart Contract T0.<br>
+Verification is intended for additional protection of user balance. Providing false or other people's information may lead to the user's account lockout in accordance with this Smart Contract T0.<br>
 <br>
 <b>IOU</b> — “I Owe You” of the Internet of Labor iol-ecosystem/platform»: The idea of IOU comes from that any job has been done in some place must cost the same as the same job is done in another place. For instance, you have done some job in a country for 1 IOU. It means that you can order the same job in another country for 1 IOU. But a problem arise here: a job costs different amount in different countries. iol has a solution: 1 IOU must equal 1 hour minimal wage of the country where the job has been done.<br>
 The architecture of iol allows pay for job by IOU. Also, it can temporary partly solve local and global economic problems.<br>
@@ -131,159 +131,159 @@ For example, in an iol provider for painters some user got a job order to paint 
 <br>
 <b>1. Private data protection</b><br>
 <br>
-1.1. Любые данные предоставляемые в NiXeL являются публичными. И могут быть не удалены по желанию пользователя.<br>
+1.1. All data provided in NiXeL are public and cannot be removed at the request of the user.<br>
 <br>
-1.2. Пользователь может скрыть документ от других пользователь в своём профиле используя переключатель «Показать другим пользователям».<br>
+1.2. The user can hide the document from other users in his profile using the “Show other users” toggle.<br>
 <br>
-1.3. Идентификационные документы, предоставленные для активации/верификации рекомендуются скрывать от других пользователей. Однако, они будут доступны модераторам iol для ручной верификации пользователя.<br>
+1.3. Identification documents provided for activation/verification are recommended to be hidden from other users. However, they will be available to iol moderators for manual user verification.<br>
 <br>
-1.4. Дополнительные рекомендации по защите персональных данных предоставлены в разделе <b>«Советы и рекомендации»</b> данного Смарт-контракта T0.<br>
+1.4. Additional recommendations on the protection of personal data are provided in the section <b>"Tips and Recommendations"</b> of this Smart Contract T0.<br>
 <br>
 <b>2. Order of payment for job</b><br>
 <br>
-2.1. При совершении сделки между заказчиком и исполнителем (стороны) в каком либо iol-провайдере, т. е. найме исполнителя, NiXeL просчитывает предварительную сумму (=Psum) работ исходя из настроек iol-провайдера и переводит смарт-контракт заказа в состояние «Принято сторонами».<br>
+2.1. When a customer and a contractor (parties) in any iol provider have a dial, i.e. hiring a job performer, NiXeL calculates the preparatory cost for the job (=Psum) based on the settings of the iol provider. The state of the Smart Contract of the job will be set to "Accepted by the parties ".<br>
 <br>
-2.2. Если в сделке не был выбран расчёт наличными, то предварительная сумма в балансе заказчика переходит в «Ожидание».<br>
+2.2. If payment for job is not in cash then the amount equal Psum of the customer’s balance goes to "Pending".<br>
 <br>
-2.3. За время, определённое в настройках iol-провайдера, стороны получают уведомление в NiXeL о ожидаемом исполнении заказа на работу и предлагается поделиться своим местонахождением в реальном времени. Это поможет быстрой встрече сторон на месте работы.<br>
+2.3. Parties are notified in NiXeL abot pending job performance and are offered to share their real-time location. The notification is sent before job start time for the time specified in the settings of the iol provider. This will help to quickly meet the parties at the job place.<br>
 <br>
-2.4. Любая из сторон может сообщить системе о начале работ, нажимая соответствующую кнопку. При этом система отправляет другой стороне уведомление о начале работ и начинает учёт в соответствии с настройками iol-провайдера.<br>
+2.4. The parties can inform the system about the start of job by pressing the appropriate button. At the same time, the system sends a notification to the other party that the job performance just began and starts counting according the settings of the iol provider.<br>
 <br>
-2.5. Исполнитель работ может сообщить системе о паузе (временном приостановлении) работ, нажимая соответствующую кнопку. При этом система отправляет заказчику уведомление об этом и приостанавливает учёт оплаты.<br>
+2.5. The worker can inform the system about the pause (temporary suspension) of job by pressing the appropriate button. At the same time, the system sends a notification to the customer about this and suspends counting job cost.<br>
 <br>
-2.6. Любая из сторон может сообщить системе о завершении работ, нажимая соответствующую кнопку. При этом система выполняет следующее:<br>
-- отправляет другой стороне уведомление о завершении работ;<br>
-- производит окончательный расчёт фактической суммы (=Fsum) в соответствии с настройками iol-провайдера;<br>
-- если Psum равна Fsum, то Psum сумма вычитается из «Ожидание» баланса заказчика и зачисляется на баланс исполнителя работ;<br>
-- если Psum больше Fsum, то Fsum сумма вычитается из «Ожидание» баланса заказчика и зачисляется на баланс исполнителя работ. Psum-Fsum из «Ожидание» баланса заказчика возвращается в «Доступные»;<br>
-- если Psum меньше Fsum, то Fsum сумма вычитается из «Ожидание» баланса заказчика и зачисляется на баланс исполнителя работ. Fsum-Psum вычитается из баланса заказчика зачисляется на баланс исполнителя работ. При этом, если Fsum-Psum меньше, чем доступно на балансе заказчика, то списывается только доступная сумма, доступный баланс становится нулевым, а у заказчика образуется долг перед исполнителем, связанная с этим смарт-контрактом.<br>
+2.6. Parties can inform the system about the completion of job by pressing the appropriate button. After this event the system does the following:<br>
+- sends a notification to the other party that the job has been done;<br>
+- calculates actual cost (=Fsum) of the job according settings of the iol provider;<br>
+- if Psum equals to Fsum then the amount equal Psum is deducted from the “Pending” balance of the customer and put to the worker's balance;<br>
+- if Psum is greater than Fsum then Fsum is deducted from the “Pending” balance of the customer and put to the worker's balance. Amont equal Psum minus Fsum returns from customer's "Pending" to "Available";<br>
+- if Psum is less than Fsum then Fsum is deducted from the customer's “Pending” and put to the worker's balance. Amount equal Fsum minus Psum is deducted from the customer's balance and pit to the worker's balance. At the same time, if amount equal Fsum minus Psum is less than the customer have in balance then only the available amount is dedecated. The customer has a debt to the worker that associated with the job Smart Contract.<br>
 <br>
-2.7. Комиссионные<br>
-2.7.1. При окончательном расчёте за работу может взиматься комиссия от сторон, если это предусмотрено в настройках iol-провайдера, где был получен заказ.<br>
-2.7.2. Размер комиссии указываются в смарт-контракте и вычитаются из Fsum после расчётов с исполнителем работ.<br>
-2.7.3. 80% от комиссионных за работы, оплачиваемых не по обмену на SINHRO и IOU, начисляются на балансы пользователей пропорционально количеству вложенным в этот iol-провайдер. 20% начисляется на баланс пользователя, который запустил этот iol-провайдер.<br>
-2.7.3. Взамен на вычтенные комиссии iol генерирует SINHRO в количестве, равному вычтенных комиссий по текущему курсу SINHRO этой валюты расчёта за работу. Если, эта валюта не имеет своего курса относительно SINHRO, то используется кросс-расчет относительно существующих курсов используя курсы валют ПФУ.<br>
-2.7.4. Число SINHRO соответствующее комиссии добавляется к рейтингу этого iol-провайдера.<br>
-2.7.5. Если сторонами заказа был выбран SINHRO или IOU, как в обмен на работу, то число SINHRO соответствующее комиссии изымается из iol и добавляется к рейтингу этого iol-провайдера.<br>
+2.7. Fees<br>
+2.7.1. If the iol provider has settings to charge fees the system will charge that fees from parties.<br>
+2.7.2. The amount of the fees is indicated in the job smart contract and deducted from Fsum after payment for job.<br>
+2.7.3. 80% of the fees for jobs that has been done not for SINHRO or IOU are put to user balances in proportion to the amount invested in this iol provider. 20% is put to the balance of the user that created this iol provider.<br>
+2.7.3. iol generates SINHRO equal to the fee that has been deducted at the current SINHRO rate of job payment currency. If this currency does not have current exchange rate relative to SINHRO then a cross-calculation is used relative to existing rates using FSP exchange rates.<br>
+2.7.4. Amount equal SINHRO corresponding to the fee is added to the rating of the iol provider where the job has been done.<br>
+2.7.5. If the job has been done for SINHRO or IOU then the amount of SINHRO corresponding to the fee is withdrawn from the iol and added to the iol provider rating.<br>
 <br>
-2.8. Royalty/Donation вычитается от сторон после выплаты комиссионных.<br>
+2.8. Royalty/Donation is deducted from the parties after fee payment.<br>
 <br>
-2.9. Комиссионные и Royalty выплачиваются в валюте, в котором был произведён расчёт за работу. Если такой валюты нет у получателей, то система открывает баланс в этой валюте автоматический.<br>
+2.9. Fees and Royalty are paid in the job payment currency. If recipients do not have such the currency balance then the system opens a balance in the currency automatically.<br>
 <br>
-<b>3. Права</b><br>
-Пользователь имеет право на действия и в порядках описанных в следующих подпунктах:<br>
+<b>3. Freedom</b><br>
+The user has rights to actions described in the following sub-paragraphs:<br>
 <br>
-3.1. Установить NiXeL на любом принадлежащем ему/ей оборудовании, которая позволяет это сделать.<br>
+3.1. to install NiXeL on any own hardware that allows it;<br>
 <br>
-3.2. Зарегистрировать своё имя пользователя, аккаунт, учётную запись.<br>
+3.2. to register own username, account;<br>
 <br>
-3.3. Пользоваться всеми доступным функционалом NiXeL, если прочитал, понял и принимает данный Смарт-контракт T0.<br>
+3.3. to use all the available features of NiXeL if the user have read, understood and accept this Smart Contract T0;<br>
 <br>
-3.4. Участвовать в промо акциях и получать бонусы в соответствии с условиями акций.<br>
+3.4. to participate in promotions and receive bonuses according the conditions of the promotions;<br>
 <br>
-3.5. Обращаться в группы поддержки исполняя правила этих групп.<br>
+3.5. to send messages in support groups according the rules of those groups;<br>
 <br>
-3.6. Прекратить пользоваться NiXeL в любое время.<br>
+3.6. to stop using NiXeL at any time;<br>
 <br>
-3.7. Обратиться за снятием блокировки аккаунта в NiXeL только в нерегулируемый арбитраж авторов по адресу https://github.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/issues.<br>
+3.7. to apply for unlock own account in NiXeL only in unregulated author arbitration at https://github.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/issues.<br>
 <br>
-3.8. Иметь 336 часов на вывод своих средств в случае блокировки его имени пользователя.<br>
+3.8. to withdraw funds from own balance in NiXeL within 336 hours after a message about account lockout has been sent to him in NiXeL.<br>
 <br>
-<b>4. Ограничения и обязанности</b><br>
+<b>4. Restrictions and Obligations</b><br>
 <br>
-4.1. Имя пользователя, аккаунт, учётная запись.<br>
-4.1.1. Пользователь обязан использовать только своё имя и документы в своём профиле, учётной записи.<br>
-4.1.2. Пользователь не имеет права давать другим людям свои пароль к NiXeL или иным способом пользоваться своим именем пользователя, аккаунтом, учётной записью от своего имени.<br>
-4.1.3. Пользователь не имеет права входить или использовать NiXeL под чужим именем пользователя, аккаунтом, учётной записью.<br>
-4.1.4. При продаже или другой передаче права пользования своего оборудования с установленным NiXeL пользователь обязан произвести Выход из своего имени пользователя.<br>
-4.1.5. Пользователь, если не Автор NiXeL, то не имеет права регистрировать более одного имени пользователя.<br>
+4.1. Username, account.<br>
+4.1.1. The user must to use only self name and own documents in his profile, account.<br>
+4.1.2. The user must do not give the password of own username to other people and let other users to use NiXeL under his/her own account.<br>
+4.1.3. The user must do not log in or use NiXeL under other's username.<br>
+4.1.4. If the user sells or gives device ownership to someone with  installed NiXeL then the user must log out in NiXeL.<br>
+4.1.5. The user that is not Author of NiXeL must not register more than one username.<br>
 <br>
-4.2. Документы.<br>
-4.2.1. Пользователь должен обновлять идентификационные документы, у которых истёк срок действия самостоятельно.<br>
-4.2.2. Пользователям с истекшим сроком действия идентификационных документов могут ограничиваться функционал экосистемы iol.<br>
-4.2.3. Пользователь не имеет права использовать чужие или поддельные документы.<br>
+4.2. Documents.<br>
+4.2.1. The user must renew identification documents that have expired on their own.<br>
+4.2.2. Users with expired identification documents may be limited in use some features of the iol ecosystem.<br>
+4.2.3. The user must do not use someone else's or fake documents.<br>
 <br>
-4.3. Законодательство и государственная регуляция.<br>
-NiXeL — глобальное многоязычное приложение без единственного юридического лица созданное пользователями для пользователей и не может быть регулирована законодательством какой-либо одной страны или организации. Поэтому, каждый пользователь берет на себя личную ответственность за свои действия в приложении NiXeL и других составных частей iol.<br>
-4.3.1. Пользователь обязан не использовать тот функционал NiXeL, которые противоречат законодательству страны своего места жительства, пребывания и гражданства.<br>
-4.3.2. Пользователь использует NiXeL как есть на свой страх и риск и не может иметь претензий к кому либо по функционалу и возможностям NiXeL. Некоторые возможные риски описаны в разделе <b>Риски</b> данного Смарт-контракта T0.<br>
-4.3.3. Пользователь самостоятельно отчитываться по налогам в свой налоговый орган по доходам полученным при использовании NiXeL и других составных частей iol.<br>
-4.3.4. Пользователь может минимум за 2 рабочих или банковских дня до окончания налогового периода вывести свои денежные средства из баланса NiXeL на свои банковские счета. Налоговые периоды для разных валют могут разными. Это не касается SINHRO и IOU, если они не принимаются в государстве пользователя в виде налога.<br>
-4.3.5. В первую минуту нового налогового периода (время 00:00 AEST) с остатка на счетах ПФУ уплачивается налог и другие обязательные государственные выплаты по месту налоговой резиденции регистратора в ПФУ. После этого с балансов пользователей списывается сумма пропорциональная уплаченным выплатам.<br>
-4.3.6. Пункты 4.3.4 и 4.3.5 даёт пользователям убедиться в сохранности и доступности валютных балансов. Так же это позволяет экосистеме быстро перейти на другой ПФУ.<br>
+4.3. Legislation and state regulation.<br>
+NiXeL is a global multilingual application without a single company registration. It created by users for users and cannot be regulated by any country or organization. Therefore, each user takes personal responsibility for self actions in the NiXeL application and other parts of iol.<br>
+4.3.1. The user must do not use features of NiXeL that is contrary to the laws of the country of user residence, stay and citizenship.<br>
+4.3.2. The user uses NiXeL as is at his own risk and cannot have claims to anyone regarding the features and capabilities of NiXeL. Some possible risks are described in the <b>Risks</b> section of this Smart Contract T0.<br>
+4.3.3. The user independently reports on taxes to his tax authority on income received from the use of NiXeL and other iol parts.<br>
+4.3.4. The user can withdraw his funds from the NiXeL balance to his own bank accounts at least two working or banking days before the end of the tax period. Tax periods for different currencies may be different. This does not apply to SINHRO and IOU if they are not accepted in the user's contry as a tax.<br>
+4.3.5. In the first minute of the new tax period (00:00 AEST time), tax and other obligatory state payments are paid from the balance of the FSP accounts at the place of the tax residence of the registrar in the FSP. After that, an amount proportional to the paid tax and state payments is deducted from the balances of users.<br>
+4.3.6. Paragraphs 4.3.4 and 4.3.5 gives users the opportunity to verify the safety and availability of currency balances. It also allows the ecosystem to quickly switch to another FSP.<br>
 <br>
-4.4. Групповые переписки.<br>
-4.4.1. Пользователь должен следить за объявлениями от официальных участников  в группах поддержки пользователей и применять меры в соответствии с объявлениями.<br>
-4.4.2. Сообщения официальных участников в группах поддержки пользователей, не противоречащие данному Смарт-контракту T0, могут являться дополнением к данному Смарт-контракту T0.<br>
-4.4.3. Пользователь обязан не нарушать правила групповых переписок.<br>
+4.4. Group correspondences.<br>
+4.4.1. The user must follow announcements in the user support groups and take action according to the announcements.<br>
+4.4.2. Messages of official participants in the user support groups that do not contradict this T0 Smart Contract may be an addition to this T0 Smart Contract.<br>
+4.4.3. The user must do not to break the rules of that groups.<br>
 <br>
-4.5. Банковский счёт пользователя.<br>
-4.5.1. Пользователь обязан использовать только свой банковский счёт при пополнении баланса в NiXeL.<br>
-4.5.2. Пользователь может выводить валюту с баланса NiXeL только на свои банковские счета.<br>
+4.5. User bank account.<br>
+4.5.1. The user must use only own bank accounts for refill balance in NiXeL.<br>
+4.5.2. The user can withdraw currency from self NiXeL balance only to own bank accounts.<br>
 <br>
-4.6. Пользователь не имеет права изменять каким-либо способом логику приложения NiXeL (код, библиотеки, модули, компоненты, знаки, внешний вид, кэш, локальные данные и т. п.). Пользователь может изменить исходный код в ресурсах приложения и запросить применить изменения в последующих версиях по адресу приватного репозитория доступного для пользователей-авторов https://github.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-source.<br>
+4.6. The user must do not change in any way the logic of the NiXeL application (code, libraries, modules, components, logos, appearance, cache, local data, etc.). The user can change the source code in the application resources and request that changes be applied in subsequent versions on https://github.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-source that is available to user-authors.<br>
 <br>
-4.7. Пользователь должен внимательно читать названия полей приложения, подсказки, комментарии, инструкции и вводить только истинную требуемую информацию в приложении.<br>
+4.7. The user must carefully read the names of the application fields, tips, descriptions, instructions and enter only truth information required in the application.<br>
 <br>
-4.8. Пользователь должен не выражать и не распространять негативную информацию или мнение где бы ни было и каким-либо способом. Ошибки, баги, советы, пожелания и т. п. должны сообщаться в группах поддержки пользователей.<br>
+4.8. The user must not express or spread negative information or opinion anywhere and in any way. Bugs, advises, wishes etc. should be reported in user support groups.<br>
 <br>
-4.9. Дополнительные ограничения NiXeL и iol могут сообщаться пользователя в процессе пользования приложением в зависимости от разных состояний данных и действий пользователя.<br>
+4.9. Additional NiXeL and iol restrictions may be communicated to the user while using the application, depending on different data states and user actions.<br>
 <br>
-4.10. Автоматическая блокировка аккаунта на 100 лет происходит в случае не использования пользователем NiXeL в течении 356 суток.<br>
+4.10. Automatic account lockout for 100 years occurs if the user has not used the NiXeL app for 356 days.<br>
 <br>
-4.11. Прекращение пользования NiXeL.<br>
-В случае решения решения не пользоваться далее приложением NiXeL пользователь должен выполнить следующие шаги:<br>
-4.11.1. Отменить все свои предложения в NiXeL.<br>
-4.11.2. Вывести все валюты из баланса на свой банковский счёт.<br>
-4.11.3. Произвести выход на всех оборудованиях, где был произведён вход со своим именем пользователя.<br>
-4.11.4. Не производить вход в NiXeL более 356 суток. После чего будет выполнен пункт 4.10.<br>
+4.11. Stoping use of NiXeL.<br>
+If the user decided to do not use the NiXeL application further then the user must do the following acts:<br>
+4.11.1. To cancel all own offers in NiXeL and take back all own SINHROs invested in iol providers.<br>
+4.11.2. To send all currencies from own balance in NiXeL to own bank account.<br>
+4.11.3. To log out NiXeL on all devices where the user have logged in.<br>
+4.11.4. To do not log into NiXeL for more than 356 days. After that the paragraph 4.10 will be executed.<br>
 <br>
-4.12. Любые споры связанные с функционалом NiXeL должны решаться только в группах поддержки пользователей или арбитраже авторов по адресу https://github.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/issues.<br>
+4.12. Any disputes related to NiXeL features must be resolved only in user support groups or author arbitration at https://github.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/issues in the case of the user lockout.<br>
 <br>
-4.13. Пользователь должен следить за обновлениями данного Смарт-контракта T0. В случае не принятия изменений пользователь должен пройти процедуры из пункта 4.11.<br>
+4.13. The user must follow the updates of this Smart Contract T0. If the user does not accepting the changes then the user must stop use NiXeL according to paragraph 4.11.<br>
 <br>
-4.14. Пользователь должен не приносить вред другим пользователям NiXeL и частей iol.<br>
+4.14. The user must do not harm other users of NiXeL and iol parts.<br>
 <br>
-<b>5. Ответственность</b><br>
+<b>5. Responsibility</b><br>
 <br>
-5.1. Блокировка учётной записи пользователя.<br>
-5.1.1. В случаях нарушений условий данного Смарт-контракта T0 пользователь может предупрежден, оштрафован в соответствии с предупреждением, ограничен в использовании некоторого функционала системы, а также может быть заблокирована учётная запись пользователя на некоторый срок.<br>
-5.1.2. Блокировка учётной записи не приводит к блокировке пользователя в экосистеме iol, а делает невозможным вход в свою учётную запись в NiXeL. При этом другие специальные iol-провайдеры с имеющие доступ к API авторизации iol могут позволять их пользование.<br>
-5.1.3. Разблокировка происходит автоматический при наступлении срока блокировки пользователя.<br>
-5.1.4. При решении о блокировке пользователю будет отправлено приватное сообщение о нарушении. После чего пользователь должен успеть отменить свои предложения и вывести свои средства на свой банковский счёт в течении 336 часов. Баланс оставшийся после 336 часов распределяется по авторам пропорционально их долям в приложении.<br>
-5.1.5. Разблокировка, с малой вероятностью, может быть осуществлена по решению группы описанной в пункте 3.6 данного Смарт-контракта T0.<br>
-5.1.6. Блокировка пользователя NiXeL лишает пользователя возможности пользоваться другими iol-провайдерами, которые используют вход через NiXeL и регистрировать другое имя пользователя.<br>
+5.1. User account lockout.<br>
+5.1.1. In cases of violation of the terms of this Smart Contract T0 the user may be warned, fined in accordance with the warning, limited in the use of some system features, and the user account may also be blocked for a certain period.<br>
+5.1.2. Account lockout does not lead to blocking the user in the iol ecosystem but makes it impossible to log into  NiXeL with the user's username. At the same time, other special iol providers with access to the iol authorization API can allow log into that iol providers.<br>
+5.1.3. Unblocking occurs automatically when lockout period is expired.<br>
+5.1.4. A private message about the violation will be sent to the user when a decision about user lockout is made. After that, the user must to cancel all own offers in NiXeL, take back all own SINHROs invested in iol providers and withdraw own funds in NiXeL to own bank account within 336 hours. The balance remaining after 336 hours is distributed among the authors in proportion to their shares in the NiXeL. The user's SINHROs that left in iol providers will be removed from the iol and that amount added to the iol providers' ratings.<br>
+5.1.5. Unblocking unlikely may be carried out by decision of the group described in paragraph 3.6 of this Smart Contract T0.<br>
+5.1.6. A NiXeL user lockout prevents the user from using other iol providers that use login with NiXeL. The blocked user cannot register a new username in NiXeL because it is restricted by paragraph 4.1.5.<br>
 <br>
-5.2. В случае использования приложения в преступных целях данные могут быть поделены с официальными органами расследования при их официальном запросе в ПФУ.<br>
+5.2. In cases that the application is used for criminal purposes the data may be shared with the official investigation authorities upon their official request to the FSP.<br>
 <br>
-5.3. Нарушение условий пункта 4.6 приравнивается хакерской атаке.<br>
+5.3. Violation of the conditions of paragraph 4.6  equates to a hacker attack.<br>
 <br>
-5.4. Хакерские атаки на NiXeL или систему iol привлёкшие к утечке, искажению или несанкционированным изменениям данных, причинение материальных и финансовых ущербов пользователям, повлиявшие на работоспособность систем расследуются с привлечением ПФУ и компаний, предоставляющих облачные сервисы, таких как Google, Microsoft, AWS, Alibaba и т. п., которые в свою очередь, могут привлечь международные и государственные следственные службы.<br>
+5.4. Cyber attacks on NiXeL or the iol system that leads to data leakage, distortion or unauthorized changes, causing material and financial harm to users, reduce the performance of systems are investigated involving FSP and companies providing cloud services such as Google, Microsoft, Amazon, Alibaba etc. The companies may involve the international and regional investigation services.<br>
 <br>
-5.5. Пароль, приватные ключи.<br>
-5.5.1. Пользователь несёт личную ответственность за сохранность и секретность пароля для своего имени пользователя. Система не хранить пароли пользователей. Система сохраняет результат специальной хеш функции от пароля при регистрации имени пользователя или смене пароля. По результату хеш функции невозможно обратно восстановить пароль. Вы можете посмотреть как работают хеш функции, такие как sha, например.<br>
-5.5.2. Система даёт возможность сброса пароля пользователя. Для использования этого функционала пользователь должен в своём профиле создать три вопроса с ответами. Ответы на вопросы должны быть известны только самому пользователю. Пользователь лично несёт ответственность за запоминание и секретность этих ответов.<br>
-5.5.3. При сбросе пароля пользователь может дать неверные ответы только три раза. После трёх не верных ответов возможность сброса пароля для этого имени пользователя блокируется на 24 часа.<br>
-5.5.3. При предоставлении верных ответов на свои вопросы пользователю выдаётся временный случайный пароль. Пользователь обязан войти в учётную запись используя этот временный пароль и сразу сменить этот пароль на пароль известный только ему.<br>
-5.5.3. Пользователь, потерявший доступ к своему имени пользователя не имеет права регистрировать новое имя пользователя согласно 4.1.5 данного Смарт-контракта T0.<br>
+5.5. Password and private keys.<br>
+5.5.1. The user is personally responsible for the security and secrecy of the password for his/her username. The system does not store user passwords. The system saves the result (hash) of a special hash function from the password when registering a username or changing a password. It is impossible to recover the password back from the hash. You can see how hash functions like SHA work in the internet.<br>
+5.5.2. The user can use password reset feature if he/she forgot password to own account. The user must create three questions with answers in self profile to be able to use the feature in the future. Answers to questions should be known only to the user himself. The user is personally responsible for remember and secrecy of these answers.<br>
+5.5.3. The user can give incorrect answers only three times when uses password reset. If the user gave three incorrect answers the feature to reset the password for this username is blocked for 24 hours.<br>
+5.5.3. If the user gave correct answers to the all questions the system provides temporary random password. The user must log into the own account using this temporary password and immediately change this password to a new password.<br>
+5.5.3. A user that has lost access to his username has no right to register a new username according paragraph 4.1.5 of this Smart Contract T0.<br>
 <br>
-5.6. Каждый пользователь берет на себя личную ответственность за свои действия в приложении NiXeL и других составных частей iol.<br>
+5.6. Each user takes personal responsibility for their actions in the NiXeL application and other parts of iol.<br>
 <br>
-<b>Риски</b><br>
+<b>Risks</b><br>
 <br>
-Все пользователи принимают одинаковые риски, и они связанные с форс-мажорными обстоятельствами, т. е. обстоятельствами непреодолимой пользователями силы или обстоятельства не зависящие от воли пользователей. К ним обычно относятся: войны, военные действия, наводнения, пожары, землетрясения и прочие стихийные бедствия, забастовки, изменения действующего законодательства или любые другие обстоятельства, на которые затронутый ими пользователь не может реально воздействовать и которые пользователь не мог разумно предвидеть.<br>
+All users accept the same risks, and they are associated with force majeure, i.e. circumstances when users cannot do something that they should do and when users do something but must not do. These typically include: wars, hostilities, floods, fires, earthquakes and other natural disasters, strikes, changes in applicable laws, or any other circumstances that the affected user cannot realistically control and which the user could not reasonably foresee.<br>
 <br>
-Так как NiXeL и вся экосистема/платформа iol построена на многочисленных платных, бесплатных программных продуктах, программ с открытым исходным кодом третьих сторон, услугах ПФУ, облачных сервисах, систем управления версиями, систем управления базами данных, блокчейн сетях и, пользователи-авторы это распределенные люди которые работают над своими частями системы удалённо, то к рискам, на ровне с форс-мажорными обстоятельствами относятся: баги программного обеспечения (операционных систем, сервисов, фреймворков, библиотек и т.п.), сбои ПФУ, связи и интернет, болезнь и/или уход некоторых авторов, ограничения банковских систем и услуг (такие как SWIFT, Visa, MasterCard, UnionPay и т. п.), несовместимость версий ранее использовавшихся составных частей системы, ограничения и/или недоступность ресурсов для установки и обновления приложений (Google Play, Apple AppStore и др.), ограничения доступа к ресурсам из государств и регионов, хакерские атаки.
+Since NiXeL and the entire iol ecosystem/platform is built on numerous paid, free software products, third party open source programs, FSP services, cloud services, version control systems, database management systems, blockchain networks and, user-authors are distributed people who work on their parts of the system remotely, then the risks, along with force majeure, include: software bugs (operating systems, services, frameworks, libraries, etc.), failures of devices, equipment, FSPs, communications and the Internet, illness and / or departure of some authors , limitations of banking systems and services (such as SWIFT, Visa, MasterCard, UnionPay, etc.), incompatibility of versions of previously used system components, restrictions and / or unavailability of resources for installing and updating applications (Google Play, Apple AppStore, etc. .), restrictions on access to resources from states and regions and cyber attacks.
 <br>
-Пользователи-авторы больше всех заинтересованы в долгосрочной работоспособности  NiXeL и всей системы iol и совершенствовании их функционала. Они за свой счёт ведут свои части систем и по всей возможности стремятся предотвратить вышеописанные риски или исправить возникшую ситуацию. Для попыток исправления последствий хакерских атак могут приниматься меры указанные в пункте 5.4.<br>
+User-authors are most interested in the long-term existing of NiXeL and the entire iol system and the improvement of their functionalities. They maintain their parts of the systems at their own expense and, to the best of their ability, seek to prevent the risks described above or correct the situation that has arisen. To attempt to correct the consequences of cyber attacks may be used paragraph 5.4 of this Smart Contract T0.<br>
 <br>
-<b>Советы и рекомендации</b><br>
+<b>Tips and Recommendations</b><br>
 <br>
-Не рекомендуется использовать основной гражданский паспорт в загружаемых документах. Используйте публичные документы такие как: водительские права, идентификационная карта, заграничный паспорт и т.п.<br>
+It is not recommended to use the main civil passport in the uploaded documents. Use public documents such as: driver license, ID card, travel passport etc.<br>
 <br>
-Немедленно обновляйте документы при истечении их срока действия.<br>
+Renew documents immediately when they expire.<br>
 <br>
-Данный Смарт-контракта T0 разработан группой авторов NiXeL совместно с авторами iol, советниками и переводчиками. Может быть редактирован и подан на применение любым пользователем на в публичном репозиторий NiXeL. Подпишитесь на обновления данного Смарт-контракта T0, который находится в публичном репозиторий на https://github.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr.<br>
+This Smart Contract T0 was developed by a group of NiXeL authors with the authors of iol, advisers and translators. It can be edited and submitted for use by any user in the public repository of NiXeL app. Subscribe to updates of this Smart Contract T0 at https://github.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr: the public repository.<br>
 
 
 
