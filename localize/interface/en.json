@@ -541,7 +541,7 @@
   {"ifi": 1325, "text": "Finished", "bigText": false},
   {"ifi": 2000, "text": "Solutions architect", "bigText": false, "note":  "from 2000 to 2299 are role/specialisation names"},
   {"ifi": 2001, "text": "Software developer", "bigText": false},
-  {"ifi": 2002, "text": "Academic", "bigText": false},
+  {"ifi": 2002, "text": "Academician", "bigText": false},
   {"ifi": 2003, "text": "Inventor", "bigText": false},
   {"ifi": 2004, "text": "Banking", "bigText": false},
   {"ifi": 2005, "text": "Credit expert", "bigText": false},

@@ -541,7 +541,7 @@
   {"ifi": 1325, "text": "ที่เสร็จเรียบร้อย", "bigText": false},
   {"ifi": 2000, "text": "Solutions architect", "bigText": false, "note":  "from 2000 to 2299 are role/specialisation names"},
   {"ifi": 2001, "text": "นักพัฒนาซอฟต์แวร์", "bigText": false},
-  {"ifi": 2002, "text": "Academic", "bigText": false},
+  {"ifi": 2002, "text": "Academician", "bigText": false},
   {"ifi": 2003, "text": "นักประดิษฐ์", "bigText": false},
   {"ifi": 2004, "text": "การธนาคาร", "bigText": false},
   {"ifi": 2005, "text": "ผู้เชี่ยวชาญด้านสินเชื่อ", "bigText": false},
