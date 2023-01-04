@@ -567,11 +567,11 @@
   {"ifi": 2306, "text": "ผู้ดูแลระบบ", "bigText": false},
   {"ifi": 2307, "text": "วิศวกรรมซอฟต์แวร์", "bigText": false},
   {"ifi": 2308, "text": "สถาปนิก", "bigText": false},
-  {"ifi": 2400, "text": "Created", "bigText": false, "note": "from 2400 2599 any state and condition names"},
+  {"ifi": 2400, "text": "Created", "bigText": false, "note": "from 2400 2499 iol app states"},
   {"ifi": 2401, "text": "Generated", "bigText": false},
   {"ifi": 2402, "text": "Internal test", "bigText": false},
-  {"ifi": 2403, "text": "Registered", "bigText": false},
-  {"ifi": 2404, "text": "Registered", "bigText": false},
+  {"ifi": 2403, "text": "Public test", "bigText": false},
+  {"ifi": 2404, "text": "Production", "bigText": false},
   {"ifi": 2405, "text": "Registered", "bigText": false},
   {"ifi": 2406, "text": "Registered", "bigText": false},
   {"ifi": 2407, "text": "Registered", "bigText": false},
@@ -587,6 +587,5 @@
   {"ifi": 2417, "text": "Registered", "bigText": false},
   {"ifi": 2418, "text": "Registered", "bigText": false},
   {"ifi": 2419, "text": "Registered", "bigText": false},
-  {"ifi": 2420, "text": "Registered", "bigText": false},
-  {"ifi": 2421, "text": "Registered", "bigText": false}
+  {"ifi": 2420, "text": "Registered", "bigText": false}
 ]

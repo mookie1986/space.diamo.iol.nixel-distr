@@ -567,11 +567,11 @@
   {"ifi": 2306, "text": "Системный администратор", "bigText": false},
   {"ifi": 2307, "text": "Инженер ПО", "bigText": false},
   {"ifi": 2308, "text": "Архитектор", "bigText": false},
-  {"ifi": 2400, "text": "Создано", "bigText": false, "note": "from 2400 2599 any state and condition names"},
+  {"ifi": 2400, "text": "Создано", "bigText": false, "note": "from 2400 2499 iol app states"},
   {"ifi": 2401, "text": "Сгенерировано", "bigText": false},
   {"ifi": 2402, "text": "Внутренний тест", "bigText": false},
-  {"ifi": 2403, "text": "Зарегестрировано", "bigText": false},
-  {"ifi": 2404, "text": "Registered", "bigText": false},
+  {"ifi": 2403, "text": "Публичный тест", "bigText": false},
+  {"ifi": 2404, "text": "Продукция", "bigText": false},
   {"ifi": 2405, "text": "Registered", "bigText": false},
   {"ifi": 2406, "text": "Registered", "bigText": false},
   {"ifi": 2407, "text": "Registered", "bigText": false},
@@ -587,6 +587,5 @@
   {"ifi": 2417, "text": "Registered", "bigText": false},
   {"ifi": 2418, "text": "Registered", "bigText": false},
   {"ifi": 2419, "text": "Registered", "bigText": false},
-  {"ifi": 2420, "text": "Registered", "bigText": false},
-  {"ifi": 2421, "text": "Registered", "bigText": false}
+  {"ifi": 2420, "text": "Registered", "bigText": false}
 ]
