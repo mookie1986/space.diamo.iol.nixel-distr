@@ -443,6 +443,7 @@
   {"ifi": 566, "text": "Воспользуйтесь настольным приложением iol-builder, который сгенерирует для Вас приложение с Вашими параметрами. Просмотрите видео как это делается на https://www.youtube.com/@nixelapp/playlists", "bigText": false},
   {"ifi": 567, "text": "Простой режим", "bigText": false},
   {"ifi": 568, "text": "Видео инструкции пользования", "bigText": false},
+  {"ifi": 569, "text": "Мы ищем владельца продукта или автора этой функции, который будет управлять, модерировать и объяснять видение функции техническим специалистам. Пожалуйста, отправьте сообщение на имя пользователя diamo", "bigText": false},
   {"ifi": 800, "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/docs/ru/ppsinfo.htm", "bigText": true},
   {"ifi": 1000, "text": "3-50 букв a-z цифр 0-9", "bigText": false},
   {"ifi": 1001, "text": "8-50 знаков", "bigText": false},
