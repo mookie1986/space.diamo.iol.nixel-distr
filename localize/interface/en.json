@@ -14,7 +14,7 @@
   {"ifi": 12, "text": "Password", "bigText": false},
   {"ifi": 13, "text": "Sign Up", "bigText": false},
   {"ifi": 14, "text": "App language", "bigText": false},
- {"ifi": 15, "text": "Repeat password", "bigText": false},
+  {"ifi": 15, "text": "Repeat password", "bigText": false},
   {"ifi": 16, "text": "Home screen", "bigText": false},
   {"ifi": 17, "text": "Find user by username", "bigText": false},
   {"ifi": 18, "text": "PIN", "bigText": false},
@@ -26,14 +26,8 @@
   {"ifi": 24, "text": "Current password", "bigText": false},
   {"ifi": 25, "text": "New password", "bigText": false},
   {"ifi": 26, "text": "Inner balance", "bigText": false},
-
-
-
-
-
-
-
-
+  {"ifi": 27, "text": "<b>iol </b> as a global unemployment problem solution", "bigText": false},
+  {"ifi": 28, "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.NiXeL-distr/main/docs/en/contractT0.htm", "bigText": true},
   {"ifi": 29, "text": "Please, before sign up read carefully the \"Terms and Use Conditions\"", "bigText": false},
   {"ifi": 30, "text": "I agree to the \"Terms and Use Conditions\"", "bigText": false},
   {"ifi": 31, "text": "Content of the contract", "bigText": false},
