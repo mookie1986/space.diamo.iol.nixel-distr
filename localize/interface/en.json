@@ -596,10 +596,12 @@
   {"ifi": 2418, "text": "Registered", "bigText": false},
   {"ifi": 2419, "text": "Registered", "bigText": false},
   {"ifi": 2420, "text": "Registered", "bigText": false},
-  {"ifi": 2500, "text": "Card system", "bigText": false, "notes":  "from 2500 to 2599 card systems"},
-  {"ifi": 2501, "text": "MasterCard", "bigText": false, "notes":  "from 2500 to 2599 card systems"},
-  {"ifi": 2502, "text": "Visa", "bigText": false},
-  {"ifi": 2503, "text": "American Express", "bigText": false},
-  {"ifi": 2504, "text": "UnionPay", "bigText": false},
-  {"ifi": 2505, "text": "МИР", "bigText": false}
+  {"ifi": 2500, "text": "Card system", "bigText": false, "notes":  "from 2500 to 2599 cards related"},
+  {"ifi": 2501, "text": "Ordered", "bigText": false},
+  {"ifi": 2502, "text": "Declined", "bigText": false},
+  {"ifi": 2503, "text": "Issued", "bigText": false},
+  {"ifi": 2504, "text": "Active", "bigText": false},
+  {"ifi": 2505, "text": "Suspended", "bigText": false},
+  {"ifi": 2506, "text": "Canceled", "bigText": false},
+  {"ifi": 2507, "text": "Expired", "bigText": false}
 ]
