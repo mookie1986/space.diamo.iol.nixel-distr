@@ -446,7 +446,7 @@
   {"ifi": 569, "text": "We are looking for a product owner or author of this feature that will manenge, moderate and explain the feature vision to technicals. Please, message to username diamo", "bigText": false},
   {"ifi": 570, "text": "Digital cards", "bigText": false},
   {"ifi": 571, "text": "This option is currently unavailable", "bigText": false},
-  {"ifi": 572, "text": "Issue card", "bigText": false},
+  {"ifi": 572, "text": "Issue new card", "bigText": false},
   {"ifi": 573, "text": "This feature is not available in RC (Release Candidate or open test) versions", "bigText": false},
   {"ifi": 574, "text": "With the Digital card you will be able to make online payments, link it to Google Pay, Apple Pay etc. Also, pay in shops that accept contactless cards if your device supports NFC", "bigText": false},
   {"ifi": 575, "text": "Fee for issuing", "bigText": false},
