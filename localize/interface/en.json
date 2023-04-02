@@ -444,6 +444,10 @@
   {"ifi": 567, "text": "Simple mode", "bigText": false},
   {"ifi": 568, "text": "Usage video guides", "bigText": false},
   {"ifi": 569, "text": "We are looking for a product owner or author of this feature that will manenge, moderate and explain the feature vision to technicals. Please, message to username diamo", "bigText": false},
+  {"ifi": 570, "text": "Digital cards", "bigText": false},
+  {"ifi": 571, "text": "This option is currently unavailable", "bigText": false},
+  {"ifi": 572, "text": "Issue card", "bigText": false},
+  {"ifi": 573, "text": "This feature is not available in RC (Release Candidate or open test) versions", "bigText": false},
   {"ifi": 800, "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/docs/en/ppsinfo.htm", "bigText": true, "notes":  "from 800 for documents bigtext links"},
   {"ifi": 1000, "text": "3-50 symbols a-z and 0-9", "bigText": false},
   {"ifi": 1001, "text": "8-50 symbols", "bigText": false},
@@ -588,5 +592,10 @@
   {"ifi": 2417, "text": "Registered", "bigText": false},
   {"ifi": 2418, "text": "Registered", "bigText": false},
   {"ifi": 2419, "text": "Registered", "bigText": false},
-  {"ifi": 2420, "text": "Registered", "bigText": false}
+  {"ifi": 2420, "text": "Registered", "bigText": false},
+  {"ifi": 2500, "text": "MasterCard", "bigText": false, "notes":  "from 2500 to 2599 card types"},
+  {"ifi": 2501, "text": "Visa", "bigText": false},
+  {"ifi": 2502, "text": "American Express", "bigText": false},
+  {"ifi": 2503, "text": "UnionPay", "bigText": false},
+  {"ifi": 2504, "text": "МИР", "bigText": false}
 ]

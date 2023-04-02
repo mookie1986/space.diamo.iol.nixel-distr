@@ -588,5 +588,10 @@
   {"ifi": 2417, "text": "Registered", "bigText": false},
   {"ifi": 2418, "text": "Registered", "bigText": false},
   {"ifi": 2419, "text": "Registered", "bigText": false},
-  {"ifi": 2420, "text": "Registered", "bigText": false}
+  {"ifi": 2420, "text": "Registered", "bigText": false},
+  {"ifi": 2500, "text": "MasterCard", "bigText": false, "notes":  "from 2500 to 2599 card types"},
+  {"ifi": 2501, "text": "Visa", "bigText": false},
+  {"ifi": 2502, "text": "American Express", "bigText": false},
+  {"ifi": 2503, "text": "UnionPay", "bigText": false},
+  {"ifi": 2504, "text": "МИР", "bigText": false}
 ]
