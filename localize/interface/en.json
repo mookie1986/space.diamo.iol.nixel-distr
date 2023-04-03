@@ -604,5 +604,9 @@
   {"ifi": 2508, "text": "Issue new card", "bigText": false},
   {"ifi": 2509, "text": "With the Digital cards you will be able to make online payments, link them to Google Pay, Apple Pay etc. Also, pay in shops that accept contactless cards if your device supports NFC", "bigText": false},
   {"ifi": 2510, "text": "Fee for issuing", "bigText": false},
-  {"ifi": 2511, "text": "Annual fee", "bigText": false}
+  {"ifi": 2511, "text": "Annual fee", "bigText": false},
+  {"ifi": 2512, "text": "Show CVC/CVV", "bigText": false},
+  {"ifi": 2513, "text": "Freeze", "bigText": false},
+  {"ifi": 2514, "text": "Unfreeze", "bigText": false},
+  {"ifi": 2515, "text": "Destroy", "bigText": false}
 ]
