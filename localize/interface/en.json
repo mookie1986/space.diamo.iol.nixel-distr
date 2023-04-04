@@ -446,7 +446,7 @@
   {"ifi": 569, "text": "We are looking for a product owner or author of this feature that will manenge, moderate and explain the feature vision to technicals. Please, message to username diamo", "bigText": false},
   {"ifi": 570, "text": "Digital cards", "bigText": false},
   {"ifi": 571, "text": "This option is currently unavailable", "bigText": false},
-  {"ifi": 572, "text": "This feature is not available in RC (Release Candidate or open test) versions", "bigText": false},
+  {"ifi": 572, "text": "This feature is not available in RC (Release Candidate or open test) versions. Please, use \"FAQ & Support\" if you have any question", "bigText": false},
   {"ifi": 573, "text": "Accept", "bigText": false},
   {"ifi": 574, "text": "Digital Nomad", "bigText": false},
   {"ifi": 575, "text": "Your device doesn't support NFC", "bigText": false},
