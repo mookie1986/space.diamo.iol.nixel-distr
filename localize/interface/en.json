@@ -610,5 +610,6 @@
   {"ifi": 2512, "text": "Show CVC/CVV", "bigText": false},
   {"ifi": 2513, "text": "Freeze", "bigText": false},
   {"ifi": 2514, "text": "Unfreeze", "bigText": false},
-  {"ifi": 2515, "text": "Destroy", "bigText": false}
+  {"ifi": 2515, "text": "Destroy", "bigText": false},
+  {"ifi": 2516, "text": "Our digital cards are served by different FSP that internal balance FSP. Transfers between FSPs may take up to 5 banking days", "bigText": false}
 ]
