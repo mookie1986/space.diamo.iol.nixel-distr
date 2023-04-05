@@ -604,7 +604,7 @@
   {"ifi": 2506, "text": "Destroyed", "bigText": false},
   {"ifi": 2507, "text": "Expired", "bigText": false},
   {"ifi": 2508, "text": "Issue new card", "bigText": false},
-  {"ifi": 2509, "text": "With the Digital cards you will be able to make online payments, link them to Google Pay, Apple Pay etc. Also, pay in shops that accept contactless cards if your device supports NFC", "bigText": false},
+  {"ifi": 2509, "text": "With the Digital cards you will be able to make online payments, link them to Google Pay, Apple Pay etc. Also, you can use them for in-store purchases in shops that accept contactless cards if your device supports NFC", "bigText": false},
   {"ifi": 2510, "text": "Fee for issuing", "bigText": false},
   {"ifi": 2511, "text": "Annual fee", "bigText": false},
   {"ifi": 2512, "text": "Show CVC/CVV", "bigText": false},
