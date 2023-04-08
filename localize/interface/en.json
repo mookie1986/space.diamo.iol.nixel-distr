@@ -355,7 +355,7 @@
   {"ifi": 478, "text": "Call", "bigText": false},
   {"ifi": 479, "text": "Mail boxes", "bigText": false},
   {"ifi": 480, "text": "Attach image", "bigText": false},
-  {"ifi": 481, "text": "Pseudonym", "bigText": false},
+  {"ifi": 481, "text": "Name in different language (Pseudonym)", "bigText": false},
   {"ifi": 482, "text": "If set other users will see this pseudonym instead of your fullname. It can be useful when you need to use your name in different languages. You can change it anytime", "bigText": false},
   {"ifi": 483, "text": "Set my full name for this mail box", "bigText": false},
   {"ifi": 484, "text": "Set my pseudonym for this mail box", "bigText": false},
