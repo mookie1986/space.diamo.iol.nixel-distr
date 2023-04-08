@@ -355,7 +355,7 @@
   {"ifi": 478, "text": "โทร", "bigText": false},
   {"ifi": 479, "text": "กล่องจดหมาย", "bigText": false},
   {"ifi": 480, "text": "แนบรูปภาพ", "bigText": false},
-  {"ifi": 481, "text": "นามแฝง", "bigText": false},
+  {"ifi": 481, "text": "Name in different language (นามแฝง)", "bigText": false},
   {"ifi": 482, "text": "หากตั้งค่าผู้ใช้รายอื่นจะเห็นนามแฝงนี้แทนชื่อเต็มของคุณ อาจมีประโยชน์เมื่อคุณต้องใช้ชื่อของคุณในภาษาต่างๆ เปลี่ยนได้ตลอดเวลา", "bigText": false},
   {"ifi": 483, "text": "ตั้งชื่อเต็มของฉันสำหรับกล่องจดหมายนี้", "bigText": false},
   {"ifi": 484, "text": "ตั้งนามแฝงของฉันสำหรับกล่องจดหมายนี้", "bigText": false},
