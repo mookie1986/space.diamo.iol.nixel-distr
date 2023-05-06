@@ -382,7 +382,7 @@
   {"ifi": 505, "text": "เป็นลูกค้า", "bigText": false},
   {"ifi": 506, "text": "เอกสาร", "bigText": false},
   {"ifi": 507, "text": "รายชื่อผู้ติดต่อ", "bigText": false},
-  {"ifi": 508, "text": "{{appName}} กำหนดให้คุณต้องยอมรับการเข้าสู่ระบบด้วย {{iolMsgAppName}}<br>คุณเห็นด้วยหรือไม่", "bigText": false},
+  {"ifi": 508, "text": "{{appName}} กำหนดให้คุณต้องยอมรับการเข้าสู่ระบบด้วย NiXeL", "bigText": false},
   {"ifi": 509, "text": "ในขณะนี้ {{country}} ยังไม่ได้รับการสนับสนุนใน iol เพื่อจัดการการตั้งค่างาน ค่าจ้างขั้นต่ำ (พื้น) จริงต่อเดือนใน {{country}}", "bigText": false},
   {"ifi": 510, "text": "ค่าแรงขั้นต่ำ", "bigText": false},
   {"ifi": 511, "text": "แหล่งข้อมูล (เช่น ลิงค์)", "bigText": false},

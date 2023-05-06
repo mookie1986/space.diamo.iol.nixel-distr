@@ -382,7 +382,7 @@
   {"ifi": 505, "text": "as customer", "bigText": false},
   {"ifi": 506, "text": "Document", "bigText": false},
   {"ifi": 507, "text": "Provided contacts", "bigText": false},
-  {"ifi": 508, "text": "{{appName}} requires your log in acceptance with {{iolMsgAppName}}.<br>Are you agree?", "bigText": false},
+  {"ifi": 508, "text": "{{appName}} requires your acceptance to log in with NiXeL", "bigText": false},
   {"ifi": 509, "text": "Currently, {{country}} hasn't been invoved in iol. To handle the task setup ACTUAL minimum (floor) wage per MONTH in {{country}}", "bigText": false},
   {"ifi": 510, "text": "Minimum wage", "bigText": false},
   {"ifi": 511, "text": "Information source (eg. link)", "bigText": false},
