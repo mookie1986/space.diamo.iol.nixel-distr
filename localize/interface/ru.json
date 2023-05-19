@@ -456,6 +456,7 @@
     "bigText": false
   },
   {"ifi": 577, "text": "Выберите храничлище приложений", "bigText": false},
+  {"ifi": 578, "text": "Баллы", "bigText": false},
   {"ifi": 800, "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/docs/ru/ppsinfo.htm", "bigText": true},
   {"ifi": 1000, "text": "3-50 букв a-z цифр 0-9", "bigText": false},
   {"ifi": 1001, "text": "8-50 знаков", "bigText": false},
