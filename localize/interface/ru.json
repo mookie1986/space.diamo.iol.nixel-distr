@@ -573,6 +573,7 @@
   {"ifi": 2015, "text": "Советник", "bigText": false},
   {"ifi": 2016, "text": "Местный бухгалтер", "bigText": false},
   {"ifi": 2017, "text": "Фронтэнд разработчик", "bigText": false},
+  {"ifi": 2018, "text": "Разработчик мобильных приложений", "bigText": false},
   {"ifi": 2300, "text": "User", "bigText": false, "note":  "from 2300 to 2399 chat roles are role/specialisation names"},
   {"ifi": 2301, "text": "Поддержка пользователей", "bigText": false},
   {"ifi": 2302, "text": "Техническая поддержка", "bigText": false},

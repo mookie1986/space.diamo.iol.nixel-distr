@@ -573,6 +573,7 @@
   {"ifi": 2015, "text": "Advisor", "bigText": false},
   {"ifi": 2016, "text": "Local accountant", "bigText": false},
   {"ifi": 2017, "text": "Frontend developer", "bigText": false},
+  {"ifi": 2018, "text": "Mobile app developer", "bigText": false},
   {"ifi": 2300, "text": "User", "bigText": false, "note":  "from 2300 to 2399 chat roles are role/specialisation names"},
   {"ifi": 2301, "text": "Users' support", "bigText": false},
   {"ifi": 2302, "text": "Tech support", "bigText": false},
