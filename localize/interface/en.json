@@ -35,6 +35,7 @@
   {"ifi": 33, "text": "local currency by cash", "bigText": false},
   {"ifi": 34, "text": "IOU in NiXeL", "bigText": false},
   {"ifi": 35, "text": "SINHRO in NiXeL", "bigText": false},
+  {"ifi": 36, "text": "A new edition of the BomEbo app is available. Please, update the app", "bigText": false},
   {"ifi": 99, "text": "The feature is coming soon", "bigText": false},
   {"ifi": 100, "text": "Yes", "bigText": false},
   {"ifi": 101, "text": "No", "bigText": false},

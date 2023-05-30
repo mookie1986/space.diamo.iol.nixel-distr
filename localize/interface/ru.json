@@ -35,6 +35,7 @@
   {"ifi": 33, "text": "местной валютой наличными", "bigText": false},
   {"ifi": 34, "text": "IOU в NiXeL", "bigText": false},
   {"ifi": 35, "text": "SINHRO в NiXeL", "bigText": false},
+  {"ifi": 36, "text": "Доступна новая редакция NiXeL. Пожалуйста, обновите апп", "bigText": false},
   {"ifi": 99, "text": "Это функция скоро будет доступна ", "bigText": false},
   {"ifi": 100, "text": "Да", "bigText": false},
   {"ifi": 101, "text": "Нет", "bigText": false},
