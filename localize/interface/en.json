@@ -483,7 +483,7 @@
   {"ifi": 1020, "text": "Show to other users", "bigText": false},
   {"ifi": 1021, "text": "Password recovery questions", "bigText": false},
   {"ifi": 1022, "text": "Please, come up with 3 questions and set answers to them. You may need them if you forced to recover your account, eg when you forgot password. Required section.", "bigText": false},
-  {"ifi": 1023, "text": "Question", "bigText": false},
+  {"ifi": 1023, "text": "Your email", "bigText": false},
   {"ifi": 1024, "text": "Answer", "bigText": false},
   {"ifi": 1025, "text": "Your photos", "bigText": false},
   {"ifi": 1026, "text": "Please, fill all the required sections and fields", "bigText": false},
