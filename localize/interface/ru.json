@@ -461,6 +461,7 @@
   {"ifi": 579, "text": "Команда", "bigText": false},
   {"ifi": 580, "text": "Емайл не совпадает с тем, который установил этот пользователь для востановления пароля", "bigText": false},
   {"ifi": 581, "text": "На указанный Вами емайл отправлен емайл с кодом сброса пароля и короткой инструкцией. Пожалуста, проверте емайл ящик. Проверьте папки для спама и хлама, если не получили емайл в течении 10 минут", "bigText": false},
+  {"ifi": 582, "text": "Для восстановления пароля", "bigText": false},
   {"ifi": 800, "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/docs/ru/ppsinfo.htm", "bigText": true},
   {"ifi": 1000, "text": "3-50 букв a-z цифр 0-9", "bigText": false},
   {"ifi": 1001, "text": "8-50 знаков", "bigText": false},
