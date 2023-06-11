@@ -211,7 +211,7 @@
   },
   {
     "ifi": 104,
-    "text": "IOL'ye kaydolun",
+    "text": "iol'ye kaydolun",
     "bigText": false
   },
   {
@@ -496,12 +496,12 @@
   },
   {
     "ifi": 223,
-    "text": "IOL-Apps Siparişleri",
+    "text": "iol-apps Siparişleri",
     "bigText": false
   },
   {
     "ifi": 224,
-    "text": "IOL-Apps'de Akıllı Sözleşmeler",
+    "text": "iol-apps'de Akıllı Sözleşmeler",
     "bigText": false
   },
   {
@@ -821,7 +821,7 @@
   },
   {
     "ifi": 288,
-    "text": "Hesabınızda 40 iou var. İşlemi \"Şartlar ve Kullanım Koşulları\" nda görebilirsiniz. Onları IOL-Apps'de harcamanın tadını çıkarın",
+    "text": "Hesabınızda 40 iou var. İşlemi \"Şartlar ve Kullanım Koşulları\" nda görebilirsiniz. Onları iol-apps'de harcamanın tadını çıkarın",
     "bigText": false
   },
   {
@@ -1041,7 +1041,7 @@
   },
   {
     "ifi": 332,
-    "text": "IOL-APP'de Akıllı Sözleşme",
+    "text": "iol-APP'de Akıllı Sözleşme",
     "bigText": false
   },
   {
@@ -1456,12 +1456,12 @@
   },
   {
     "ifi": 415,
-    "text": "{{fromSum}} {{fromCurrCode}} için {{toSum}} {{toCurrCode}} satın alacaksınız. Teklif oranınız {{rate}}. Miktarlar, GİB değişimindeki para birimleri için minimum adım koşullarına göre düzeltilir. Ticaret Zemin Kimliği: {{floorId}}. IOL'de teklifi duyuruyor musunuz?",
+    "text": "{{fromSum}} {{fromCurrCode}} için {{toSum}} {{toCurrCode}} satın alacaksınız. Teklif oranınız {{rate}}. Miktarlar, GİB değişimindeki para birimleri için minimum adım koşullarına göre düzeltilir. Ticaret Zemin Kimliği: {{floorId}}. iol'de teklifi duyuruyor musunuz?",
     "bigText": false
   },
   {
     "ifi": 416,
-    "text": "{{toSum}} {{toCurrCode}} için {{fromSum}} {{fromCurrCode}} satacaksınız. Teklif oranınız {{rate}}. Miktarlar, GİB değişimindeki para birimleri için minimum adım koşullarına göre düzeltilir. Ticaret Zemin Kimliği: {{floorId}}. IOL'de teklifi duyuruyor musunuz?",
+    "text": "{{toSum}} {{toCurrCode}} için {{fromSum}} {{fromCurrCode}} satacaksınız. Teklif oranınız {{rate}}. Miktarlar, GİB değişimindeki para birimleri için minimum adım koşullarına göre düzeltilir. Ticaret Zemin Kimliği: {{floorId}}. iol'de teklifi duyuruyor musunuz?",
     "bigText": false
   },
   {
@@ -1471,7 +1471,7 @@
   },
   {
     "ifi": 418,
-    "text": "Teklifi IOL'den kaldırmak ister misiniz?",
+    "text": "Teklifi iol'den kaldırmak ister misiniz?",
     "bigText": false
   },
   {
@@ -1856,7 +1856,7 @@
   },
   {
     "ifi": 495,
-    "text": "IOL-Apps'den İş/Siparişler",
+    "text": "iol-apps'den İş/Siparişler",
     "bigText": false
   },
   {
@@ -1926,7 +1926,7 @@
   },
   {
     "ifi": 509,
-    "text": "Şu anda, {{country}} IOL'de davet edilmemiştir. Görev kurulumunu ele almak için {{country}}",
+    "text": "Şu anda, {{country}} iol'de davet edilmemiştir. Görev kurulumunu ele almak için {{country}}",
     "bigText": false
   },
   {
@@ -2211,7 +2211,7 @@
   },
   {
     "ifi": 566,
-    "text": "Yapılandırmalarınızla uygulamanızı oluşturmak için masaüstü uygulaması IOL-Builder kullanın. https://www.youtube.com/@nixelapp/playlists adresindeki talimatları izleyin.",
+    "text": "Yapılandırmalarınızla uygulamanızı oluşturmak için masaüstü uygulaması iol-Builder kullanın. https://www.youtube.com/@nixelapp/playlists adresindeki talimatları izleyin.",
     "bigText": false
   },
   {
