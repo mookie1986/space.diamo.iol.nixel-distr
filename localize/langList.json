@@ -11,7 +11,7 @@
     "localizeFileName": "tr",
     "englishName": "Turkish",
     "localName": "Türkçe",
-    "exclude": true
+    "exclude": false
   },
   {
     "isoCode": "tt",
