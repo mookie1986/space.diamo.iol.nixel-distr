@@ -3,30 +3,35 @@
     "isoCode": "en",
     "localizeFileName": "english",
     "englishName": "English",
-    "localName": "English"
+    "localName": "English",
+    "exclude": false
   },
   {
     "isoCode": "tr",
     "localizeFileName": "tr",
     "englishName": "Turkish",
-    "localName": "Türkçe"
+    "localName": "Türkçe",
+    "exclude": true
   },
   {
     "isoCode": "tt",
     "localizeFileName": "tt",
     "englishName": "Tatar",
-    "localName": "Tatarca"
+    "localName": "Tatarca",
+    "exclude": true
   },
   {
     "isoCode": "th",
     "localizeFileName": "th",
     "englishName": "Thai",
-    "localName": "ภาษาไทย"
+    "localName": "ภาษาไทย",
+    "exclude": false
   },
   {
     "isoCode": "ru",
     "localizeFileName": "ru",
     "englishName": "Russian",
-    "localName": "Русский"
+    "localName": "Русский",
+    "exclude": false
   }
 ]
