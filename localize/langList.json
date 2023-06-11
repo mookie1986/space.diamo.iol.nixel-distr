@@ -6,15 +6,27 @@
     "localName": "English"
   },
   {
-    "isoCode": "ru",
-    "localizeFileName": "ru",
-    "englishName": "Russian",
-    "localName": "Русский"
+    "isoCode": "tr",
+    "localizeFileName": "tr",
+    "englishName": "Turkish",
+    "localName": "Türkçe"
+  },
+  {
+    "isoCode": "tt",
+    "localizeFileName": "tt",
+    "englishName": "Tatar",
+    "localName": "Tatarca"
   },
   {
     "isoCode": "th",
     "localizeFileName": "th",
     "englishName": "Thai",
     "localName": "ภาษาไทย"
-  } 
+  },
+  {
+    "isoCode": "ru",
+    "localizeFileName": "ru",
+    "englishName": "Russian",
+    "localName": "Русский"
+  }
 ]
