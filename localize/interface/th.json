@@ -439,7 +439,7 @@
   {"ifi": 561, "text": "โครงการระดมทุน", "bigText": false},
   {"ifi": 562, "text": "ไม่สามารถเชื่อมต่อกับเครือข่าย iol จะพยายามไม่กี่วินาทีต่อมา..", "bigText": false},
   {"ifi": 563, "text": "กรุณารอการเชื่อมต่อ!", "bigText": false},
-  {"ifi": 564, "text": "คุณสามารถเพิ่ม แก้ไข ภาษาใดๆ ให้กับอินเทอร์เฟซของแอปในทรัพยากรแบบเปิดของแอปได้ https://github.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr. ดูคำแนะนำใน https://www.youtube.com/@nixelapp/playlists", "bigText": false},
+  {"ifi": 564, "text": "https://youtu.be/Vr5TZUcp-dA", "bigText": false},
   {"ifi": 565, "text": "เพิ่มแอปของคุณเอง", "bigText": false},
   {"ifi": 566, "text": "ใช้ iol-builder แอปเดสก์ท็อปเพื่อสร้างแอปของคุณด้วยการกำหนดค่าของคุณ ดูคำแนะนำใน https://www.youtube.com/@nixelapp/playlists", "bigText": false},
   {"ifi": 567, "text": "โหมดง่าย", "bigText": false},
