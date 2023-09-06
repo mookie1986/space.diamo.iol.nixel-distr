@@ -1926,7 +1926,7 @@
   },
   {
     "ifi": 509,
-    "text": "Currently, {{country}} hasn't been invoved in iol. To handle the task setup ACTUAL minimum (floor) wage per MONTH in {{country}}",
+    "text": "Currently, {{country}} hasn't been involved in iol yet. To handle the task setup ACTUAL minimum (floor) wage per MONTH in {{country}}",
     "bigText": false
   },
   {
@@ -2284,6 +2284,11 @@
   {
     "ifi": 582,
     "text": "For password recovery",
+    "bigText": false
+  },
+  {
+    "ifi": 583,
+    "text": "Hour",
     "bigText": false
   },
   {

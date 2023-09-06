@@ -2295,6 +2295,11 @@
     "bigText": false
   },
   {
+    "ifi": 583,
+    "text": "Hour",
+    "bigText": false
+  },
+  {
     "ifi": 800,
     "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/docs/th/ppsinfo.htm",
     "bigText": true,
