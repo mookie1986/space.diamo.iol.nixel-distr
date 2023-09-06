@@ -2069,16 +2069,8 @@
     "text": "Delete document",
     "bigText": false
   },
-  {
-    "ifi": 538,
-    "text": "From gallery",
-    "bigText": false
-  },
-  {
-    "ifi": 539,
-    "text": "Take a photo",
-    "bigText": false
-  },
+  {"ifi": 538, "text": "From gallery", "bigText": false},
+  {"ifi": 539, "text": "Take a photo", "bigText": false},
   {
     "ifi": 540,
     "text": "Set time",
@@ -2924,108 +2916,108 @@
   },
   {
     "ifi": 2400,
-    "text": "Created",
+    "text": "Configuring in the iolBuilder",
     "bigText": false,
     "note": "from 2400 2499 iol app states"
   },
   {
     "ifi": 2401,
-    "text": "Generated",
+    "text": "Saved in the iolBuilder",
     "bigText": false
   },
   {
     "ifi": 2402,
-    "text": "Internal test",
+    "text": "",
     "bigText": false
   },
   {
     "ifi": 2403,
-    "text": "Public test",
+    "text": "",
     "bigText": false
   },
   {
     "ifi": 2404,
-    "text": "Production",
+    "text": "",
     "bigText": false
   },
   {
     "ifi": 2405,
-    "text": "Registered",
+    "text": "Generated in the iolBuilder",
     "bigText": false
   },
   {
     "ifi": 2406,
-    "text": "Registered",
+    "text": "Under development",
     "bigText": false
   },
   {
     "ifi": 2407,
-    "text": "Registered",
+    "text": "",
     "bigText": false
   },
   {
     "ifi": 2408,
-    "text": "Registered",
+    "text": "",
     "bigText": false
   },
   {
     "ifi": 2409,
-    "text": "Registered",
+    "text": "",
     "bigText": false
   },
   {
     "ifi": 2410,
-    "text": "Registered",
+    "text": "Internal test",
     "bigText": false
   },
   {
     "ifi": 2411,
-    "text": "Registered",
+    "text": "",
     "bigText": false
   },
   {
     "ifi": 2412,
-    "text": "Registered",
+    "text": "",
     "bigText": false
   },
   {
     "ifi": 2413,
-    "text": "Registered",
+    "text": "",
     "bigText": false
   },
   {
     "ifi": 2414,
-    "text": "Registered",
+    "text": "",
     "bigText": false
   },
   {
     "ifi": 2415,
-    "text": "Registered",
+    "text": "Available unsigned APK. Public test",
     "bigText": false
   },
   {
     "ifi": 2416,
-    "text": "Registered",
+    "text": "Available signed APK. Public test",
     "bigText": false
   },
   {
     "ifi": 2417,
-    "text": "Registered",
+    "text": "Available in Google/App store. Early access",
     "bigText": false
   },
   {
     "ifi": 2418,
-    "text": "Registered",
+    "text": "",
     "bigText": false
   },
   {
     "ifi": 2419,
-    "text": "Registered",
+    "text": "",
     "bigText": false
   },
   {
     "ifi": 2420,
-    "text": "Registered",
+    "text": "Available in Google/App store",
     "bigText": false
   },
   {

@@ -587,27 +587,112 @@
   {"ifi": 2306, "text": "Системный администратор", "bigText": false},
   {"ifi": 2307, "text": "Инженер ПО", "bigText": false},
   {"ifi": 2308, "text": "Архитектор", "bigText": false},
-  {"ifi": 2400, "text": "Создано", "bigText": false, "note": "from 2400 2499 iol app states"},
-  {"ifi": 2401, "text": "Сгенерировано", "bigText": false},
-  {"ifi": 2402, "text": "Внутренний тест", "bigText": false},
-  {"ifi": 2403, "text": "Публичный тест", "bigText": false},
-  {"ifi": 2404, "text": "Продукция", "bigText": false},
-  {"ifi": 2405, "text": "Registered", "bigText": false},
-  {"ifi": 2406, "text": "Registered", "bigText": false},
-  {"ifi": 2407, "text": "Registered", "bigText": false},
-  {"ifi": 2408, "text": "Registered", "bigText": false},
-  {"ifi": 2409, "text": "Registered", "bigText": false},
-  {"ifi": 2410, "text": "Registered", "bigText": false},
-  {"ifi": 2411, "text": "Registered", "bigText": false},
-  {"ifi": 2412, "text": "Registered", "bigText": false},
-  {"ifi": 2413, "text": "Registered", "bigText": false},
-  {"ifi": 2414, "text": "Registered", "bigText": false},
-  {"ifi": 2415, "text": "Registered", "bigText": false},
-  {"ifi": 2416, "text": "Registered", "bigText": false},
-  {"ifi": 2417, "text": "Registered", "bigText": false},
-  {"ifi": 2418, "text": "Registered", "bigText": false},
-  {"ifi": 2419, "text": "Registered", "bigText": false},
-  {"ifi": 2420, "text": "Registered", "bigText": false},
+  {
+    "ifi": 2400,
+    "text": "Конфигурирование в iolBuilder",
+    "bigText": false,
+    "note": "from 2400 2499 iol app states"
+  },
+  {
+    "ifi": 2401,
+    "text": "Сохранено в iolBuilder",
+    "bigText": false
+  },
+  {
+    "ifi": 2402,
+    "text": "",
+    "bigText": false
+  },
+  {
+    "ifi": 2403,
+    "text": "",
+    "bigText": false
+  },
+  {
+    "ifi": 2404,
+    "text": "",
+    "bigText": false
+  },
+  {
+    "ifi": 2405,
+    "text": "Сгенерировано в iolBuilder",
+    "bigText": false
+  },
+  {
+    "ifi": 2406,
+    "text": "На разработке",
+    "bigText": false
+  },
+  {
+    "ifi": 2407,
+    "text": "",
+    "bigText": false
+  },
+  {
+    "ifi": 2408,
+    "text": "",
+    "bigText": false
+  },
+  {
+    "ifi": 2409,
+    "text": "",
+    "bigText": false
+  },
+  {
+    "ifi": 2410,
+    "text": "Внутренний тест",
+    "bigText": false
+  },
+  {
+    "ifi": 2411,
+    "text": "",
+    "bigText": false
+  },
+  {
+    "ifi": 2412,
+    "text": "",
+    "bigText": false
+  },
+  {
+    "ifi": 2413,
+    "text": "",
+    "bigText": false
+  },
+  {
+    "ifi": 2414,
+    "text": "",
+    "bigText": false
+  },
+  {
+    "ifi": 2415,
+    "text": "Доступно не подписанное APK. Публичный тест",
+    "bigText": false
+  },
+  {
+    "ifi": 2416,
+    "text": "Доступно подписанное APK. Публичный тест",
+    "bigText": false
+  },
+  {
+    "ifi": 2417,
+    "text": "Доступно в Google/App стор. Ранний доступ",
+    "bigText": false
+  },
+  {
+    "ifi": 2418,
+    "text": "",
+    "bigText": false
+  },
+  {
+    "ifi": 2419,
+    "text": "",
+    "bigText": false
+  },
+  {
+    "ifi": 2420,
+    "text": "Доступно в Google/App стор.",
+    "bigText": false
+  },
   {"ifi": 2500, "text": "Система карты", "bigText": false, "notes":  "from 2500 to 2899 cards related"},
   {"ifi": 2501, "text": "Заказано", "bigText": false},
   {"ifi": 2502, "text": "Отклонено", "bigText": false},
