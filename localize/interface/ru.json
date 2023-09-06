@@ -386,7 +386,7 @@
   {"ifi": 508, "text": "Запрос входа в приложение {{appName}} через NiXeL", "bigText": false},
   {"ifi": 509, "text": "Пока {{country}} не был включен в iol. Для обработки задания введите НАСТОЯЩИЙ минимальный размер оплаты труда в {{country}} в МЕСЯЦ!", "bigText": false},
   {"ifi": 510, "text": "МРОТ", "bigText": false},
-  {"ifi": 511, "text": "Источник информации (напр. ссылка)", "bigText": false},
+  {"ifi": 511, "text": "Источник информации (напр. ссылка/URL)", "bigText": false},
   {"ifi": 512, "text": "Образование", "bigText": false},
   {"ifi": 513, "text": "Здоровье", "bigText": false},
   {"ifi": 514, "text": "Smart счет", "bigText": false},
