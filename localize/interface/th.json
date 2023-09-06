@@ -2305,6 +2305,26 @@
     "bigText": false
   },
   {
+    "ifi": 585,
+    "text": "Country ISO 2, 3 codes",
+    "bigText": false
+  },
+  {
+    "ifi": 586,
+    "text": "Country currency",
+    "bigText": false
+  },
+  {
+    "ifi": 587,
+    "text": "Country languages (codes)",
+    "bigText": false
+  },
+  {
+    "ifi": 588,
+    "text": "IOU rate",
+    "bigText": false
+  },
+  {
     "ifi": 800,
     "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/docs/th/ppsinfo.htm",
     "bigText": true,

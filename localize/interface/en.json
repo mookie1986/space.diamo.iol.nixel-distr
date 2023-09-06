@@ -1936,7 +1936,7 @@
   },
   {
     "ifi": 511,
-    "text": "Information source (eg. link)",
+    "text": "Information source (eg. link/URL)",
     "bigText": false
   },
   {
@@ -2294,6 +2294,26 @@
   {
     "ifi": 584,
     "text": "Set minimum wage (IOU rate offer)",
+    "bigText": false
+  },
+  {
+    "ifi": 585,
+    "text": "Country ISO 2, 3 codes",
+    "bigText": false
+  },
+  {
+    "ifi": 586,
+    "text": "Country currency",
+    "bigText": false
+  },
+  {
+    "ifi": 587,
+    "text": "Country languages (codes)",
+    "bigText": false
+  },
+  {
+    "ifi": 588,
+    "text": "IOU rate",
     "bigText": false
   },
   {

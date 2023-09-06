@@ -2305,6 +2305,26 @@
     "bigText": false
   },
   {
+    "ifi": 585,
+    "text": "Ülke ISO 2, 3 kodları",
+    "bigText": false
+  },
+  {
+    "ifi": 586,
+    "text": "Ülke para birimi",
+    "bigText": false
+  },
+  {
+    "ifi": 587,
+    "text": "Ülke dilleri (kodlar)",
+    "bigText": false
+  },
+  {
+    "ifi": 588,
+    "text": "IOU senedi oranı",
+    "bigText": false
+  },
+  {
     "ifi": 800,
     "text": "https://raw.githubusercontent.com/distributed-digiital-nomads/space.diamo.iol.NiXeL-distr/main/docs/en/ppsinfo.htm",
     "bigText": true,
