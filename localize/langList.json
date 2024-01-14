@@ -4,7 +4,7 @@
     "localizeFileName": "english",
     "englishName": "English",
     "localName": "English",
-    "srcs": [],
+    "srcs": ["https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/localize/interface/en.json"],
     "exclude": false
   },
   {
@@ -12,6 +12,7 @@
     "localizeFileName": "tr",
     "englishName": "Turkish",
     "localName": "Türkçe",
+    "srcs": ["https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/localize/interface/tr.json"],
     "exclude": false
   },
   {
@@ -19,6 +20,7 @@
     "localizeFileName": "tt",
     "englishName": "Tatar",
     "localName": "Tɔtʌrʧa (Tatarça, تاتارچا, 鞑靼人)",
+    "srcs": ["https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/localize/interface/tr.json"],
     "exclude": true
   },
   {
@@ -26,6 +28,7 @@
     "localizeFileName": "th",
     "englishName": "Thai",
     "localName": "ภาษาไทย",
+    "srcs": ["https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/localize/interface/th.json"],
     "exclude": false
   },
   {
@@ -33,6 +36,7 @@
     "localizeFileName": "ru",
     "englishName": "Russian",
     "localName": "Русский",
+    "srcs": ["https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/localize/interface/ru.json"],
     "exclude": false
   }
 ]
