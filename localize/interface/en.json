@@ -1,143 +1,115 @@
 [
   {
     "ifi": 0,
-    "text": " ",
-    "bigText": false
+    "text": " "
   },
   {
     "ifi": 1,
-    "text": "NiXeL",
-    "bigText": false
+    "text": "NiXeL"
   },
   {
     "ifi": 2,
-    "text": "Log In",
-    "bigText": false
+    "text": "Log In"
   },
   {
     "ifi": 3,
-    "text": "Profile",
-    "bigText": false
+    "text": "Profile"
   },
   {
     "ifi": 4,
-    "text": "Finance",
-    "bigText": false
+    "text": "Finance"
   },
   {
     "ifi": 5,
-    "text": "Use QR",
-    "bigText": false
+    "text": "Use QR"
   },
   {
     "ifi": 6,
-    "text": "Correspondence",
-    "bigText": false
+    "text": "Correspondence"
   },
   {
     "ifi": 7,
-    "text": "Notifications",
-    "bigText": false
+    "text": "Notifications"
   },
   {
     "ifi": 8,
-    "text": "App Settings",
-    "bigText": false
+    "text": "App Settings"
   },
   {
     "ifi": 9,
-    "text": "FAQ & Support",
-    "bigText": false
+    "text": "FAQ & Support"
   },
   {
     "ifi": 10,
-    "text": "Log Out",
-    "bigText": false
+    "text": "Log Out"
   },
   {
     "ifi": 11,
-    "text": "Username",
-    "bigText": false
+    "text": "Username"
   },
   {
     "ifi": 12,
-    "text": "Password",
-    "bigText": false
+    "text": "Password"
   },
   {
     "ifi": 13,
-    "text": "Sign Up",
-    "bigText": false
+    "text": "Sign Up"
   },
   {
     "ifi": 14,
-    "text": "App language",
-    "bigText": false
+    "text": "App language"
   },
   {
     "ifi": 15,
-    "text": "Repeat password",
-    "bigText": false
+    "text": "Repeat password"
   },
   {
     "ifi": 16,
-    "text": "Home screen",
-    "bigText": false
+    "text": "Home screen"
   },
   {
     "ifi": 17,
-    "text": "Find user by username",
-    "bigText": false
+    "text": "Find user by username"
   },
   {
     "ifi": 18,
-    "text": "PIN",
-    "bigText": false
+    "text": "PIN"
   },
   {
     "ifi": 19,
-    "text": "4 digits",
-    "bigText": false
+    "text": "4 digits"
   },
   {
     "ifi": 20,
-    "text": "Unlock",
-    "bigText": false
+    "text": "Unlock"
   },
   {
     "ifi": 21,
-    "text": "From 1 to 40",
-    "bigText": false
+    "text": "From 1 to 40"
   },
   {
     "ifi": 22,
-    "text": "Days",
-    "bigText": false
+    "text": "Days"
   },
   {
     "ifi": 23,
-    "text": "Change password",
-    "bigText": false
+    "text": "Change password"
   },
   {
     "ifi": 24,
-    "text": "Current password",
-    "bigText": false
+    "text": "Current password"
   },
   {
     "ifi": 25,
-    "text": "New password",
-    "bigText": false
+    "text": "New password"
   },
   {
     "ifi": 26,
-    "text": "Inner balance",
-    "bigText": false
+    "text": "Inner balance"
   },
   {
     "ifi": 27,
-    "text": "<b>iol </b> as a global unemployment problem solution",
-    "bigText": false
+    "text": "<b>iol </b> as a global unemployment problem solution"
   },
   {
     "ifi": 28,
@@ -146,643 +118,515 @@
   },
   {
     "ifi": 29,
-    "text": "Please, before sign up read carefully the \"Terms and Use Conditions\"",
-    "bigText": false
+    "text": "Please, before sign up read carefully the \"Terms and Use Conditions\""
   },
   {
     "ifi": 30,
-    "text": "I agree to the \"Terms and Use Conditions\"",
-    "bigText": false
+    "text": "I agree to the \"Terms and Use Conditions\""
   },
   {
     "ifi": 31,
-    "text": "Content of the contract",
-    "bigText": false
+    "text": "Content of the contract"
   },
   {
     "ifi": 32,
-    "text": "local currency in NiXeL",
-    "bigText": false
+    "text": "local currency in NiXeL"
   },
   {
     "ifi": 33,
-    "text": "local currency by cash",
-    "bigText": false
+    "text": "local currency by cash"
   },
   {
     "ifi": 34,
-    "text": "IOU in NiXeL",
-    "bigText": false
+    "text": "IOU in NiXeL"
   },
   {
     "ifi": 35,
-    "text": "SINHRO in NiXeL",
-    "bigText": false
+    "text": "SINHRO in NiXeL"
   },
   {
     "ifi": 36,
-    "text": "A new edition of the NiXeL app is available. Please, update the app",
-    "bigText": false
+    "text": "A new edition of the NiXeL app is available. Please, update the app"
   },
   {
     "ifi": 99,
-    "text": "The feature is coming soon",
-    "bigText": false
+    "text": "The feature is coming soon"
   },
   {
     "ifi": 100,
-    "text": "Yes",
-    "bigText": false
+    "text": "Yes"
   },
   {
     "ifi": 101,
-    "text": "No",
-    "bigText": false
+    "text": "No"
   },
   {
     "ifi": 102,
-    "text": "OK",
-    "bigText": false
+    "text": "OK"
   },
   {
     "ifi": 103,
-    "text": "Cancel",
-    "bigText": false
+    "text": "Cancel"
   },
   {
     "ifi": 104,
-    "text": "Register in the iol",
-    "bigText": false
+    "text": "Register in the iol"
   },
   {
     "ifi": 105,
-    "text": "I forgot my password",
-    "bigText": false
+    "text": "I forgot my password"
   },
   {
     "ifi": 106,
-    "text": "Error",
-    "bigText": false
+    "text": "Error"
   },
   {
     "ifi": 107,
-    "text": "Add document",
-    "bigText": false
+    "text": "Add document"
   },
   {
     "ifi": 108,
-    "text": "Done",
-    "bigText": false
+    "text": "Done"
   },
   {
     "ifi": 109,
-    "text": "Save",
-    "bigText": false
+    "text": "Save"
   },
   {
     "ifi": 110,
-    "text": "Apply",
-    "bigText": false
+    "text": "Apply"
   },
   {
     "ifi": 111,
-    "text": "This field is required",
-    "bigText": false
+    "text": "This field is required"
   },
   {
     "ifi": 112,
-    "text": "Add contact",
-    "bigText": false
+    "text": "Add contact"
   },
   {
     "ifi": 113,
-    "text": "Type",
-    "bigText": false
+    "text": "Type"
   },
   {
     "ifi": 114,
-    "text": "Password recovery",
-    "bigText": false
+    "text": "Password recovery"
   },
   {
     "ifi": 115,
-    "text": "You should answer to 3 questions that were set up by you in your profile. 3 wrong answers cause blocking password recovery for 7 days",
-    "bigText": false
+    "text": "You should answer to 3 questions that were set up by you in your profile. 3 wrong answers cause blocking password recovery for 7 days"
   },
   {
     "ifi": 116,
-    "text": "Next",
-    "bigText": false
+    "text": "Next"
   },
   {
     "ifi": 117,
-    "text": "Refill",
-    "bigText": false
+    "text": "Refill"
   },
   {
     "ifi": 118,
-    "text": "Amount",
-    "bigText": false
+    "text": "Amount"
   },
   {
     "ifi": 119,
-    "text": "Card number (16 didgits)",
-    "bigText": false
+    "text": "Card number (16 didgits)"
   },
   {
     "ifi": 120,
-    "text": "Valid thru",
-    "bigText": false
+    "text": "Valid thru"
   },
   {
     "ifi": 121,
-    "text": "Month",
-    "bigText": false
+    "text": "Month"
   },
   {
     "ifi": 122,
-    "text": "Year",
-    "bigText": false
+    "text": "Year"
   },
   {
     "ifi": 123,
-    "text": "CVC/CVV (3 or 4 didgits)",
-    "bigText": false
+    "text": "CVC/CVV (3 or 4 didgits)"
   },
   {
     "ifi": 124,
-    "text": "Invalid value(s)",
-    "bigText": false
+    "text": "Invalid value(s)"
   },
   {
     "ifi": 125,
-    "text": "Name on card",
-    "bigText": false
+    "text": "Name on card"
   },
   {
     "ifi": 126,
-    "text": "Save card for future payments",
-    "bigText": false
+    "text": "Save card for future payments"
   },
   {
     "ifi": 127,
-    "text": "Saved cards",
-    "bigText": false
+    "text": "Saved cards"
   },
   {
     "ifi": 128,
-    "text": "Use another card",
-    "bigText": false
+    "text": "Use another card"
   },
   {
     "ifi": 129,
-    "text": "Successfully",
-    "bigText": false
+    "text": "Successfully"
   },
   {
     "ifi": 130,
-    "text": "Delete",
-    "bigText": false
+    "text": "Delete"
   },
   {
     "ifi": 131,
-    "text": "Agree",
-    "bigText": false
+    "text": "Agree"
   },
   {
     "ifi": 132,
-    "text": "Disagree",
-    "bigText": false
+    "text": "Disagree"
   },
   {
     "ifi": 133,
-    "text": "Log in to: {{appName}}",
-    "bigText": false
+    "text": "Log in to: {{appName}}"
   },
   {
     "ifi": 134,
-    "text": "Skip",
-    "bigText": false
+    "text": "Skip"
   },
   {
     "ifi": 135,
-    "text": "few words...",
-    "bigText": false
+    "text": "few words..."
   },
   {
     "ifi": 136,
-    "text": "Your tool photos (cars, trucks, drills etc.)",
-    "bigText": false
+    "text": "Your tool photos (cars, trucks, drills etc.)"
   },
   {
     "ifi": 137,
-    "text": "Tools",
-    "bigText": false
+    "text": "Tools"
   },
   {
     "ifi": 138,
-    "text": "Invalid data. This section/slide is required to activate your account",
-    "bigText": false
+    "text": "Invalid data. This section/slide is required to activate your account"
   },
   {
     "ifi": 139,
-    "text": "Close",
-    "bigText": false
+    "text": "Close"
   },
   {
     "ifi": 140,
-    "text": "Repeat new password",
-    "bigText": false
+    "text": "Repeat new password"
   },
   {
     "ifi": 141,
-    "text": "Must much new password",
-    "bigText": false
+    "text": "Must much new password"
   },
   {
     "ifi": 204,
-    "text": "Welcome",
-    "bigText": false
+    "text": "Welcome"
   },
   {
     "ifi": 205,
-    "text": "Terms and Use Conditions",
-    "bigText": false
+    "text": "Terms and Use Conditions"
   },
   {
     "ifi": 206,
-    "text": "Choose language",
-    "bigText": false
+    "text": "Choose language"
   },
   {
     "ifi": 207,
-    "text": "Profile view",
-    "bigText": false
+    "text": "Profile view"
   },
   {
     "ifi": 208,
-    "text": "Edit profile",
-    "bigText": false
+    "text": "Edit profile"
   },
   {
     "ifi": 209,
-    "text": "Choose a currency",
-    "bigText": false
+    "text": "Choose a currency"
   },
   {
     "ifi": 210,
-    "text": "How do you want to pay?",
-    "bigText": false
+    "text": "How do you want to pay?"
   },
   {
     "ifi": 211,
-    "text": "Enter your card details",
-    "bigText": false
+    "text": "Enter your card details"
   },
   {
     "ifi": 212,
-    "text": "Transactions",
-    "bigText": false
+    "text": "Transactions"
   },
   {
     "ifi": 213,
-    "text": "Date",
-    "bigText": false
+    "text": "Date"
   },
   {
     "ifi": 214,
-    "text": "Transaction details",
-    "bigText": false
+    "text": "Transaction details"
   },
   {
     "ifi": 215,
-    "text": "The last transactions",
-    "bigText": false
+    "text": "The last transactions"
   },
   {
     "ifi": 216,
-    "text": "Send to bank account",
-    "bigText": false
+    "text": "Send to bank account"
   },
   {
     "ifi": 217,
-    "text": "Convert to other inner balance",
-    "bigText": false
+    "text": "Convert to other inner balance"
   },
   {
     "ifi": 218,
-    "text": "Groups of {{firstName}}",
-    "bigText": false
+    "text": "Groups of {{firstName}}"
   },
   {
     "ifi": 219,
-    "text": "Smart contract has been sent to a customer. You will be notified if the customer accepts it",
-    "bigText": false
+    "text": "Smart contract has been sent to a customer. You will be notified if the customer accepts it"
   },
   {
     "ifi": 220,
-    "text": "Smart contract has been sent to a performer successfully",
-    "bigText": false
+    "text": "Smart contract has been sent to a performer successfully"
   },
   {
     "ifi": 221,
-    "text": "Your job income has been increased by {{incrSum}} {{curr}}  because your customer going to pay by cash that includes all fees. Fees will be paid from your account",
-    "bigText": false
+    "text": "Your job income has been increased by {{incrSum}} {{curr}}  because your customer going to pay by cash that includes all fees. Fees will be paid from your account"
   },
   {
     "ifi": 222,
-    "text": "Current activities",
-    "bigText": false
+    "text": "Current activities"
   },
   {
     "ifi": 223,
-    "text": "Orders in iol-apps",
-    "bigText": false
+    "text": "Orders in iol-apps"
   },
   {
     "ifi": 224,
-    "text": "Smart contracts in iol-apps",
-    "bigText": false
+    "text": "Smart contracts in iol-apps"
   },
   {
     "ifi": 225,
-    "text": "Smart contracts",
-    "bigText": false
+    "text": "Smart contracts"
   },
   {
     "ifi": 226,
-    "text": "Active Smart contracts",
-    "bigText": false
+    "text": "Active Smart contracts"
   },
   {
     "ifi": 227,
-    "text": "Created",
-    "bigText": false
+    "text": "Created"
   },
   {
     "ifi": 228,
-    "text": "Signed",
-    "bigText": false
+    "text": "Signed"
   },
   {
     "ifi": 229,
-    "text": "Canceled",
-    "bigText": false
+    "text": "Canceled"
   },
   {
     "ifi": 230,
-    "text": "At the job place",
-    "bigText": false
+    "text": "At the job place"
   },
   {
     "ifi": 231,
-    "text": "Performance",
-    "bigText": false
+    "text": "Performance"
   },
   {
     "ifi": 232,
-    "text": "Done",
-    "bigText": false
+    "text": "Done"
   },
   {
     "ifi": 233,
-    "text": "Scan this QR code in NiXeL app",
-    "bigText": false
+    "text": "Scan this QR code in NiXeL app"
   },
   {
     "ifi": 234,
-    "text": "Show my profile QR",
-    "bigText": false
+    "text": "Show my profile QR"
   },
   {
     "ifi": 235,
-    "text": "Scan QR",
-    "bigText": false
+    "text": "Scan QR"
   },
   {
     "ifi": 236,
-    "text": "Unpaid invoices",
-    "bigText": false
+    "text": "Unpaid invoices"
   },
   {
     "ifi": 237,
-    "text": "Invoices",
-    "bigText": false
+    "text": "Invoices"
   },
   {
     "ifi": 238,
-    "text": "Rating",
-    "bigText": false
+    "text": "Rating"
   },
   {
     "ifi": 239,
-    "text": "Feedback",
-    "bigText": false
+    "text": "Feedback"
   },
   {
     "ifi": 240,
-    "text": "You can rate the job and leave feedback",
-    "bigText": false
+    "text": "You can rate the job and leave feedback"
   },
   {
     "ifi": 241,
-    "text": "You can rate your customer and leave feedback",
-    "bigText": false
+    "text": "You can rate your customer and leave feedback"
   },
   {
     "ifi": 242,
-    "text": "Job",
-    "bigText": false
+    "text": "Job"
   },
   {
     "ifi": 243,
-    "text": "Final sum to be paid",
-    "bigText": false
+    "text": "Final sum to be paid"
   },
   {
     "ifi": 244,
-    "text": "Detailed invoice with receipt are available in invoices section of NiXeL app",
-    "bigText": false
+    "text": "Detailed invoice with receipt are available in invoices section of NiXeL app"
   },
   {
     "ifi": 245,
-    "text": "You cannot message to this chat. Your access level code: {{chat_access_level}}",
-    "bigText": false
+    "text": "You cannot message to this chat. Your access level code: {{chat_access_level}}"
   },
   {
     "ifi": 246,
-    "text": "Document type",
-    "bigText": false
+    "text": "Document type"
   },
   {
     "ifi": 247,
-    "text": "Passport",
-    "bigText": false
+    "text": "Passport"
   },
   {
     "ifi": 248,
-    "text": "ID Card",
-    "bigText": false
+    "text": "ID Card"
   },
   {
     "ifi": 249,
-    "text": "Driver License",
-    "bigText": false
+    "text": "Driver License"
   },
   {
     "ifi": 250,
-    "text": "Other doc type",
-    "bigText": false
+    "text": "Other doc type"
   },
   {
     "ifi": 251,
-    "text": "Home phone",
-    "bigText": false
+    "text": "Home phone"
   },
   {
     "ifi": 252,
-    "text": "Office phone",
-    "bigText": false
+    "text": "Office phone"
   },
   {
     "ifi": 253,
-    "text": "Mobile phone",
-    "bigText": false
+    "text": "Mobile phone"
   },
   {
     "ifi": 254,
-    "text": "Other phone",
-    "bigText": false
+    "text": "Other phone"
   },
   {
     "ifi": 255,
-    "text": "e-mail",
-    "bigText": false
+    "text": "e-mail"
   },
   {
     "ifi": 256,
-    "text": "Facebook address",
-    "bigText": false
+    "text": "Facebook address"
   },
   {
     "ifi": 257,
-    "text": "LinkedIn address",
-    "bigText": false
+    "text": "LinkedIn address"
   },
   {
     "ifi": 258,
-    "text": "Tweeter address",
-    "bigText": false
+    "text": "Tweeter address"
   },
   {
     "ifi": 259,
-    "text": "Instagram address",
-    "bigText": false
+    "text": "Instagram address"
   },
   {
     "ifi": 260,
-    "text": "Other social network address",
-    "bigText": false
+    "text": "Other social network address"
   },
   {
     "ifi": 261,
-    "text": "Wechat",
-    "bigText": false
+    "text": "Wechat"
   },
   {
     "ifi": 262,
-    "text": "WhatsApp",
-    "bigText": false
+    "text": "WhatsApp"
   },
   {
     "ifi": 263,
-    "text": "Telegram",
-    "bigText": false
+    "text": "Telegram"
   },
   {
     "ifi": 264,
-    "text": "Line",
-    "bigText": false
+    "text": "Line"
   },
   {
     "ifi": 265,
-    "text": "Other messenger",
-    "bigText": false
+    "text": "Other messenger"
   },
   {
     "ifi": 266,
-    "text": "Postal address",
-    "bigText": false
+    "text": "Postal address"
   },
   {
     "ifi": 267,
-    "text": "Other contact type",
-    "bigText": false
+    "text": "Other contact type"
   },
   {
     "ifi": 268,
-    "text": "Contact type",
-    "bigText": false
+    "text": "Contact type"
   },
   {
     "ifi": 269,
-    "text": "Contact name",
-    "bigText": false
+    "text": "Contact name"
   },
   {
     "ifi": 270,
-    "text": "Details (number, link etc.)",
-    "bigText": false
+    "text": "Details (number, link etc.)"
   },
   {
     "ifi": 271,
-    "text": "Fees / Royalty donations",
-    "bigText": false
+    "text": "Fees / Royalty donations"
   },
   {
     "ifi": 272,
-    "text": "Log (UTC time)",
-    "bigText": false
+    "text": "Log (UTC time)"
   },
   {
     "ifi": 273,
-    "text": "Activation",
-    "bigText": false
+    "text": "Activation"
   },
   {
     "ifi": 274,
-    "text": "Verification",
-    "bigText": false
+    "text": "Verification"
   },
   {
     "ifi": 275,
-    "text": "Not done",
-    "bigText": false
+    "text": "Not done"
   },
   {
     "ifi": 276,
-    "text": "Private mailbox",
-    "bigText": false
+    "text": "Private mailbox"
   },
   {
     "ifi": 277,
-    "text": "Apply for activation/verification",
-    "bigText": false
+    "text": "Apply for activation/verification"
   },
   {
     "ifi": 278,
-    "text": "Reviews from other users to the user",
-    "bigText": false
+    "text": "Reviews from other users to the user"
   },
   {
     "ifi": 279,
-    "text": "First name, last name, birth date, at least one photo and identity document (ID card or driver license or passport) with both side picture must be provided",
-    "bigText": false
+    "text": "First name, last name, birth date, at least one photo and identity document (ID card or driver license or passport) with both side picture must be provided"
   },
   {
     "ifi": 280,
-    "text": "Once your profile is activated/verified you cannot change names and birth-date. Continue?",
-    "bigText": false
+    "text": "Once your profile is activated/verified you cannot change names and birth-date. Continue?"
   },
   {
     "ifi": 281,
@@ -791,338 +635,271 @@
   },
   {
     "ifi": 282,
-    "text": "Pending",
-    "bigText": false
+    "text": "Pending"
   },
   {
     "ifi": 283,
-    "text": "Rejected",
-    "bigText": false
+    "text": "Rejected"
   },
   {
     "ifi": 284,
-    "text": "I verify",
-    "bigText": false
+    "text": "I verify"
   },
   {
     "ifi": 285,
-    "text": "I reject",
-    "bigText": false
+    "text": "I reject"
   },
   {
     "ifi": 286,
-    "text": "Manual verification",
-    "bigText": false
+    "text": "Manual verification"
   },
   {
     "ifi": 287,
-    "text": "You going to reject user verification. What's reason?",
-    "bigText": false
+    "text": "You going to reject user verification. What's reason?"
   },
   {
     "ifi": 288,
-    "text": "You have got 40 IOU in your account. You can see the transaction in your \"Terms and Use Conditions\". Enjoy spending them in iol-apps",
-    "bigText": false
+    "text": "You have got 40 IOU in your account. You can see the transaction in your \"Terms and Use Conditions\". Enjoy spending them in iol-apps"
   },
   {
     "ifi": 289,
-    "text": "Registered",
-    "bigText": false
+    "text": "Registered"
   },
   {
     "ifi": 290,
-    "text": "Fulfilled",
-    "bigText": false
+    "text": "Fulfilled"
   },
   {
     "ifi": 291,
-    "text": "Paid",
-    "bigText": false
+    "text": "Paid"
   },
   {
     "ifi": 292,
-    "text": "Invoice",
-    "bigText": false
+    "text": "Invoice"
   },
   {
     "ifi": 293,
-    "text": "NiXeL account",
-    "bigText": false
+    "text": "NiXeL account"
   },
   {
     "ifi": 294,
-    "text": "Cash",
-    "bigText": false
+    "text": "Cash"
   },
   {
     "ifi": 295,
-    "text": "IOU",
-    "bigText": false
+    "text": "IOU"
   },
   {
     "ifi": 296,
-    "text": "SINHRO",
-    "bigText": false
+    "text": "SINHRO"
   },
   {
     "ifi": 297,
-    "text": "No.",
-    "bigText": false
+    "text": "No."
   },
   {
     "ifi": 298,
-    "text": "Token",
-    "bigText": false
+    "text": "Token"
   },
   {
     "ifi": 299,
-    "text": "Quantity",
-    "bigText": false
+    "text": "Quantity"
   },
   {
     "ifi": 300,
-    "text": "Job started",
-    "bigText": false
+    "text": "Job started"
   },
   {
     "ifi": 301,
-    "text": "Job completed",
-    "bigText": false
+    "text": "Job completed"
   },
   {
     "ifi": 302,
-    "text": "Distance",
-    "bigText": false
+    "text": "Distance"
   },
   {
     "ifi": 303,
-    "text": "Duration",
-    "bigText": false
+    "text": "Duration"
   },
   {
     "ifi": 304,
-    "text": "Price",
-    "bigText": false
+    "text": "Price"
   },
   {
     "ifi": 305,
-    "text": "Fixed",
-    "bigText": false
+    "text": "Fixed"
   },
   {
     "ifi": 306,
-    "text": "Total sum",
-    "bigText": false
+    "text": "Total sum"
   },
   {
     "ifi": 307,
-    "text": "Payment method",
-    "bigText": false
+    "text": "Payment method"
   },
   {
     "ifi": 308,
-    "text": "Fees from customer",
-    "bigText": false
+    "text": "Fees from customer"
   },
   {
     "ifi": 309,
-    "text": "Fee",
-    "bigText": false
+    "text": "Fee"
   },
   {
     "ifi": 310,
-    "text": "Paid",
-    "bigText": false
+    "text": "Paid"
   },
   {
     "ifi": 311,
-    "text": "Unpaid",
-    "bigText": false
+    "text": "Unpaid"
   },
   {
     "ifi": 312,
-    "text": "Royalty donation to iol engineers",
-    "bigText": false
+    "text": "Royalty donation to iol engineers"
   },
   {
     "ifi": 313,
-    "text": "Total customer's debt",
-    "bigText": false
+    "text": "Total customer's debt"
   },
   {
     "ifi": 314,
-    "text": "Fees from performer",
-    "bigText": false
+    "text": "Fees from performer"
   },
   {
     "ifi": 315,
-    "text": "Total performer's debt",
-    "bigText": false
+    "text": "Total performer's debt"
   },
   {
     "ifi": 316,
-    "text": "Pay my debt",
-    "bigText": false
+    "text": "Pay my debt"
   },
   {
     "ifi": 317,
-    "text": "Claim payment",
-    "bigText": false
+    "text": "Claim payment"
   },
   {
     "ifi": 318,
-    "text": "Debt",
-    "bigText": false
+    "text": "Debt"
   },
   {
     "ifi": 319,
-    "text": "You don't have {{sum}} in your NiXeL balance. Refill and try again",
-    "bigText": false
+    "text": "You don't have {{sum}} in your NiXeL balance. Refill and try again"
   },
   {
     "ifi": 320,
-    "text": "Refill using",
-    "bigText": false
+    "text": "Refill using"
   },
   {
     "ifi": 321,
-    "text": "Google pay",
-    "bigText": false
+    "text": "Google pay"
   },
   {
     "ifi": 322,
-    "text": "Send message",
-    "bigText": false
+    "text": "Send message"
   },
   {
     "ifi": 323,
-    "text": "Bank transfer",
-    "bigText": false
+    "text": "Bank transfer"
   },
   {
     "ifi": 324,
-    "text": "Visa / MsterCard",
-    "bigText": false
+    "text": "Visa / MsterCard"
   },
   {
     "ifi": 325,
-    "text": "Currency exchange",
-    "bigText": false
+    "text": "Currency exchange"
   },
   {
     "ifi": 326,
-    "text": "MerchantID is not activated",
-    "bigText": false
+    "text": "MerchantID is not activated"
   },
   {
     "ifi": 327,
-    "text": "Refilling balance in NiXeL",
-    "bigText": false
+    "text": "Refilling balance in NiXeL"
   },
   {
     "ifi": 328,
-    "text": "Insufficient funds on the card",
-    "bigText": false
+    "text": "Insufficient funds on the card"
   },
   {
     "ifi": 329,
-    "text": "Card is expired",
-    "bigText": false
+    "text": "Card is expired"
   },
   {
     "ifi": 330,
-    "text": "Card doesn't exist",
-    "bigText": false
+    "text": "Card doesn't exist"
   },
   {
     "ifi": 331,
-    "text": "Parties to the contract",
-    "bigText": false
+    "text": "Parties to the contract"
   },
   {
     "ifi": 332,
-    "text": "Smart contract in iol-app",
-    "bigText": false
+    "text": "Smart contract in iol-app"
   },
   {
     "ifi": 333,
-    "text": "Estimated sum",
-    "bigText": false
+    "text": "Estimated sum"
   },
   {
     "ifi": 334,
-    "text": "Customer",
-    "bigText": false
+    "text": "Customer"
   },
   {
     "ifi": 335,
-    "text": "Receipts",
-    "bigText": false
+    "text": "Receipts"
   },
   {
     "ifi": 336,
-    "text": "State",
-    "bigText": false
+    "text": "State"
   },
   {
     "ifi": 337,
-    "text": "Show",
-    "bigText": false
+    "text": "Show"
   },
   {
     "ifi": 338,
-    "text": "Your balance in NiXeL has been refilled",
-    "bigText": false
+    "text": "Your balance in NiXeL has been refilled"
   },
   {
     "ifi": 339,
-    "text": "Available",
-    "bigText": false
+    "text": "Available"
   },
   {
     "ifi": 340,
-    "text": "iol P/PS",
-    "bigText": false
+    "text": "iol P/PS"
   },
   {
     "ifi": 341,
-    "text": "Prepaid fees",
-    "bigText": false
+    "text": "Prepaid fees"
   },
   {
     "ifi": 342,
-    "text": "Digital currencies",
-    "bigText": false
+    "text": "Digital currencies"
   },
   {
     "ifi": 343,
-    "text": "Why in the list?",
-    "bigText": false
+    "text": "Why in the list?"
   },
   {
     "ifi": 344,
-    "text": "Reply to the message",
-    "bigText": false
+    "text": "Reply to the message"
   },
   {
     "ifi": 345,
-    "text": "Block writing for the user",
-    "bigText": false
+    "text": "Block writing for the user"
   },
   {
     "ifi": 346,
-    "text": "Block reading for the user",
-    "bigText": false
+    "text": "Block reading for the user"
   },
   {
     "ifi": 347,
-    "text": "Add",
-    "bigText": false
+    "text": "Add"
   },
   {
     "ifi": 348,
-    "text": "Actions with wallet",
-    "bigText": false
+    "text": "Actions with wallet"
   },
   {
     "ifi": 349,
@@ -1131,2009 +908,1610 @@
   },
   {
     "ifi": 350,
-    "text": "More info",
-    "bigText": false
+    "text": "More info"
   },
   {
     "ifi": 351,
-    "text": "IOU, SINHRO & NiXeL",
-    "bigText": false
+    "text": "IOU, SINHRO & NiXeL"
   },
   {
     "ifi": 352,
-    "text": "SINHRO rate",
-    "bigText": false
+    "text": "SINHRO rate"
   },
   {
     "ifi": 353,
-    "text": "Rate update (UTC time)",
-    "bigText": false
+    "text": "Rate update (UTC time)"
   },
   {
     "ifi": 354,
-    "text": "Exchange to",
-    "bigText": false
+    "text": "Exchange to"
   },
   {
     "ifi": 355,
-    "text": "Add your bank account",
-    "bigText": false
+    "text": "Add your bank account"
   },
   {
     "ifi": 356,
-    "text": "Bank account for refill and withdraw NiXeL balance. You must use your own bank account details only! Incorrect details will result in the wrong account being credited and funds may not be recoverable",
-    "bigText": false
+    "text": "Bank account for refill and withdraw NiXeL balance. You must use your own bank account details only! Incorrect details will result in the wrong account being credited and funds may not be recoverable"
   },
   {
     "ifi": 357,
-    "text": "Account country",
-    "bigText": false
+    "text": "Account country"
   },
   {
     "ifi": 358,
-    "text": "Give alias",
-    "bigText": false
+    "text": "Give alias"
   },
   {
     "ifi": 359,
-    "text": "Bank details inside the county's economic zone",
-    "bigText": false
+    "text": "Bank details inside the county's economic zone"
   },
   {
     "ifi": 360,
-    "text": "Bank details from outside the county's economic zone, SWIFT (if you have)",
-    "bigText": false
+    "text": "Bank details from outside the county's economic zone, SWIFT (if you have)"
   },
   {
     "ifi": 361,
-    "text": "SWIFT",
-    "bigText": false
+    "text": "SWIFT"
   },
   {
     "ifi": 362,
-    "text": "BIC code",
-    "bigText": false
+    "text": "BIC code"
   },
   {
     "ifi": 363,
-    "text": "IBAN",
-    "bigText": false
+    "text": "IBAN"
   },
   {
     "ifi": 364,
-    "text": "Account number",
-    "bigText": false
+    "text": "Account number"
   },
   {
     "ifi": 365,
-    "text": "Full name of the account holder",
-    "bigText": false
+    "text": "Full name of the account holder"
   },
   {
     "ifi": 366,
-    "text": "This currency is not applicable in the FSP, so far",
-    "bigText": false
+    "text": "This currency is not applicable in the FSP, so far"
   },
   {
     "ifi": 367,
-    "text": "eg",
-    "bigText": false
+    "text": "eg"
   },
   {
     "ifi": 368,
-    "text": "Your personal address",
-    "bigText": false
+    "text": "Your personal address"
   },
   {
     "ifi": 369,
-    "text": "Bank code (BIK, BSB etc.)",
-    "bigText": false
+    "text": "Bank code (BIK, BSB etc.)"
   },
   {
     "ifi": 370,
-    "text": "Country",
-    "bigText": false
+    "text": "Country"
   },
   {
     "ifi": 371,
-    "text": "Region",
-    "bigText": false
+    "text": "Region"
   },
   {
     "ifi": 372,
-    "text": "State",
-    "bigText": false
+    "text": "State"
   },
   {
     "ifi": 373,
-    "text": "City",
-    "bigText": false
+    "text": "City"
   },
   {
     "ifi": 374,
-    "text": "Address line 1",
-    "bigText": false
+    "text": "Address line 1"
   },
   {
     "ifi": 375,
-    "text": "Address line 2",
-    "bigText": false
+    "text": "Address line 2"
   },
   {
     "ifi": 376,
-    "text": "Post code",
-    "bigText": false
+    "text": "Post code"
   },
   {
     "ifi": 377,
-    "text": "Your email for additional or transaction tracking info",
-    "bigText": false
+    "text": "Your email for additional or transaction tracking info"
   },
   {
     "ifi": 378,
-    "text": "Bank accounts",
-    "bigText": false
+    "text": "Bank accounts"
   },
   {
     "ifi": 379,
-    "text": "Bank account",
-    "bigText": false
+    "text": "Bank account"
   },
   {
     "ifi": 380,
-    "text": "From bank account",
-    "bigText": false
+    "text": "From bank account"
   },
   {
     "ifi": 381,
-    "text": "Choose bank account",
-    "bigText": false
+    "text": "Choose bank account"
   },
   {
     "ifi": 382,
-    "text": "To currency in NiXeL",
-    "bigText": false
+    "text": "To currency in NiXeL"
   },
   {
     "ifi": 383,
-    "text": "Our FSP cannot receive {{currCode}} yet. Choose a currency. Transfer \"Amount to send\" in chosen currency from your bank account and you will be able to exchange it in NiXeL to {{currCode}} or to other 60+ currencies",
-    "bigText": false
+    "text": "Our FSP cannot receive {{currCode}} yet. Choose a currency. Transfer \"Amount to send\" in chosen currency from your bank account and you will be able to exchange it in NiXeL to {{currCode}} or to other 60+ currencies"
   },
   {
     "ifi": 384,
-    "text": "FSPs fees",
-    "bigText": false
+    "text": "FSPs fees"
   },
   {
     "ifi": 385,
-    "text": "Amount to send",
-    "bigText": false
+    "text": "Amount to send"
   },
   {
     "ifi": 386,
-    "text": "Waiting for transfer",
-    "bigText": false
+    "text": "Waiting for transfer"
   },
   {
     "ifi": 387,
-    "text": "Copied",
-    "bigText": false
+    "text": "Copied"
   },
   {
     "ifi": 388,
-    "text": "To bank details",
-    "bigText": false
+    "text": "To bank details"
   },
   {
     "ifi": 389,
-    "text": "Includes FSPs fees",
-    "bigText": false
+    "text": "Includes FSPs fees"
   },
   {
     "ifi": 390,
-    "text": "Account holder",
-    "bigText": false
+    "text": "Account holder"
   },
   {
     "ifi": 391,
-    "text": "Address",
-    "bigText": false
+    "text": "Address"
   },
   {
     "ifi": 392,
-    "text": "Bank name",
-    "bigText": false
+    "text": "Bank name"
   },
   {
     "ifi": 393,
-    "text": "Reference for recipient",
-    "bigText": false
+    "text": "Reference for recipient"
   },
   {
     "ifi": 394,
-    "text": "Purpose",
-    "bigText": false
+    "text": "Purpose"
   },
   {
     "ifi": 395,
-    "text": "Important",
-    "bigText": false
+    "text": "Important"
   },
   {
     "ifi": 396,
-    "text": "As soon as you make the transfer, click the \"Sent\" button. This will remove the pending bank transfer reminder",
-    "bigText": false
+    "text": "As soon as you make the transfer, click the \"Sent\" button. This will remove the pending bank transfer reminder"
   },
   {
     "ifi": 397,
-    "text": "I will not send",
-    "bigText": false
+    "text": "I will not send"
   },
   {
     "ifi": 398,
-    "text": "Do you confirm the action?",
-    "bigText": false
+    "text": "Do you confirm the action?"
   },
   {
     "ifi": 399,
-    "text": "Depends on inter bank payment system transfer may take upto 5 banking days",
-    "bigText": false
+    "text": "Depends on inter bank payment system transfer may take upto 5 banking days"
   },
   {
     "ifi": 400,
-    "text": "Exchange in FSPs rate",
-    "bigText": false
+    "text": "Exchange in FSPs rate"
   },
   {
     "ifi": 401,
-    "text": "Rate",
-    "bigText": false
+    "text": "Rate"
   },
   {
     "ifi": 402,
-    "text": "From balance",
-    "bigText": false
+    "text": "From balance"
   },
   {
     "ifi": 403,
-    "text": "To balance",
-    "bigText": false
+    "text": "To balance"
   },
   {
     "ifi": 404,
-    "text": "To bank account",
-    "bigText": false
+    "text": "To bank account"
   },
   {
     "ifi": 405,
-    "text": "Choose balance",
-    "bigText": false
+    "text": "Choose balance"
   },
   {
     "ifi": 406,
-    "text": "FSP",
-    "bigText": false
+    "text": "FSP"
   },
   {
     "ifi": 407,
-    "text": "To convert",
-    "bigText": false
+    "text": "To convert"
   },
   {
     "ifi": 408,
-    "text": "Buy",
-    "bigText": false
+    "text": "Buy"
   },
   {
     "ifi": 409,
-    "text": "Sell",
-    "bigText": false
+    "text": "Sell"
   },
   {
     "ifi": 410,
-    "text": "Show other offers",
-    "bigText": false
+    "text": "Show other offers"
   },
   {
     "ifi": 411,
-    "text": "Show my offers",
-    "bigText": false
+    "text": "Show my offers"
   },
   {
     "ifi": 412,
-    "text": "Minimal step",
-    "bigText": false
+    "text": "Minimal step"
   },
   {
     "ifi": 413,
-    "text": "I pay",
-    "bigText": false
+    "text": "I pay"
   },
   {
     "ifi": 414,
-    "text": "Enough in balance?",
-    "bigText": false
+    "text": "Enough in balance?"
   },
   {
     "ifi": 415,
-    "text": "You gonna buy {{toSum}} {{toCurrCode}} for {{fromSum}} {{fromCurrCode}}. Your offer rate {{rate}}. The amounts are corrected according to minimum step conditions for the currencies in the iol exchange. Trading floor ID: {{floorId}}. Announce the offer in iol?",
-    "bigText": false
+    "text": "You gonna buy {{toSum}} {{toCurrCode}} for {{fromSum}} {{fromCurrCode}}. Your offer rate {{rate}}. The amounts are corrected according to minimum step conditions for the currencies in the iol exchange. Trading floor ID: {{floorId}}. Announce the offer in iol?"
   },
   {
     "ifi": 416,
-    "text": "You gonna sell {{fromSum}} {{fromCurrCode}} for {{toSum}} {{toCurrCode}}. Your offer rate {{rate}}. The amounts are corrected according to minimum step conditions for the currencies in the iol exchange. Trading floor ID: {{floorId}}. Announce the offer in iol?",
-    "bigText": false
+    "text": "You gonna sell {{fromSum}} {{fromCurrCode}} for {{toSum}} {{toCurrCode}}. Your offer rate {{rate}}. The amounts are corrected according to minimum step conditions for the currencies in the iol exchange. Trading floor ID: {{floorId}}. Announce the offer in iol?"
   },
   {
     "ifi": 417,
-    "text": "Await",
-    "bigText": false
+    "text": "Await"
   },
   {
     "ifi": 418,
-    "text": "Would like to remove the offer from iol?",
-    "bigText": false
+    "text": "Would like to remove the offer from iol?"
   },
   {
     "ifi": 419,
-    "text": "I ask",
-    "bigText": false
+    "text": "I ask"
   },
   {
     "ifi": 420,
-    "text": "Sales",
-    "bigText": false
+    "text": "Sales"
   },
   {
     "ifi": 421,
-    "text": "Buys",
-    "bigText": false
+    "text": "Buys"
   },
   {
     "ifi": 422,
-    "text": "For currency",
-    "bigText": false
+    "text": "For currency"
   },
   {
     "ifi": 423,
-    "text": "Amount of SINHRO",
-    "bigText": false
+    "text": "Amount of SINHRO"
   },
   {
     "ifi": 424,
-    "text": "All",
-    "bigText": false
+    "text": "All"
   },
   {
     "ifi": 425,
-    "text": "Trading floor ID",
-    "bigText": false
+    "text": "Trading floor ID"
   },
   {
     "ifi": 426,
-    "text": "iol app stake management",
-    "bigText": false
+    "text": "iol app stake management"
   },
   {
     "ifi": 427,
-    "text": "App name",
-    "bigText": false
+    "text": "App name"
   },
   {
     "ifi": 428,
-    "text": "iol provider",
-    "bigText": false
+    "text": "iol provider"
   },
   {
     "ifi": 429,
-    "text": "Website",
-    "bigText": false
+    "text": "Website"
   },
   {
     "ifi": 430,
-    "text": "Fee for customers",
-    "bigText": false
+    "text": "Fee for customers"
   },
   {
     "ifi": 431,
-    "text": "Fee for performers",
-    "bigText": false
+    "text": "Fee for performers"
   },
   {
     "ifi": 432,
-    "text": "Total invested",
-    "bigText": false
+    "text": "Total invested"
   },
   {
     "ifi": 433,
-    "text": "My investment",
-    "bigText": false
+    "text": "My investment"
   },
   {
     "ifi": 434,
-    "text": "My P/PS",
-    "bigText": false
+    "text": "My P/PS"
   },
   {
     "ifi": 435,
-    "text": "Saved fees for next payouts",
-    "bigText": false
+    "text": "Saved fees for next payouts"
   },
   {
     "ifi": 436,
-    "text": "Previous payouts",
-    "bigText": false
+    "text": "Previous payouts"
   },
   {
     "ifi": 437,
-    "text": "Get P/PS",
-    "bigText": false
+    "text": "Get P/PS"
   },
   {
     "ifi": 438,
-    "text": "Invest",
-    "bigText": false
+    "text": "Invest"
   },
   {
     "ifi": 439,
-    "text": "Take SINHRO back",
-    "bigText": false
+    "text": "Take SINHRO back"
   },
   {
     "ifi": 440,
-    "text": "Take",
-    "bigText": false
+    "text": "Take"
   },
   {
     "ifi": 441,
-    "text": "Open the app",
-    "bigText": false
+    "text": "Open the app"
   },
   {
     "ifi": 442,
-    "text": "Current SINHRO rates",
-    "bigText": false
+    "text": "Current SINHRO rates"
   },
   {
     "ifi": 443,
-    "text": "Your offer has been placed successfully",
-    "bigText": false
+    "text": "Your offer has been placed successfully"
   },
   {
     "ifi": 444,
-    "text": "Bill/New invoice",
-    "bigText": false
+    "text": "Bill/New invoice"
   },
   {
     "ifi": 445,
-    "text": "Payment reason",
-    "bigText": false
+    "text": "Payment reason"
   },
   {
     "ifi": 446,
-    "text": "Service",
-    "bigText": false
+    "text": "Service"
   },
   {
     "ifi": 447,
-    "text": "Goods",
-    "bigText": false
+    "text": "Goods"
   },
   {
     "ifi": 448,
-    "text": "Rental fee",
-    "bigText": false
+    "text": "Rental fee"
   },
   {
     "ifi": 449,
-    "text": "Loan",
-    "bigText": false
+    "text": "Loan"
   },
   {
     "ifi": 450,
-    "text": "Loan repayment",
-    "bigText": false
+    "text": "Loan repayment"
   },
   {
     "ifi": 451,
-    "text": "Gift",
-    "bigText": false
+    "text": "Gift"
   },
   {
     "ifi": 452,
-    "text": "Charity/Donation",
-    "bigText": false
+    "text": "Charity/Donation"
   },
   {
     "ifi": 453,
-    "text": "Help",
-    "bigText": false
+    "text": "Help"
   },
   {
     "ifi": 454,
-    "text": "Other",
-    "bigText": false
+    "text": "Other"
   },
   {
     "ifi": 455,
-    "text": "Amount of goods",
-    "bigText": false
+    "text": "Amount of goods"
   },
   {
     "ifi": 456,
-    "text": "Conditions",
-    "bigText": false
+    "text": "Conditions"
   },
   {
     "ifi": 457,
-    "text": "Info",
-    "bigText": false
+    "text": "Info"
   },
   {
     "ifi": 458,
-    "text": "Including tax(es)",
-    "bigText": false
+    "text": "Including tax(es)"
   },
   {
     "ifi": 459,
-    "text": "Tax names",
-    "bigText": false
+    "text": "Tax names"
   },
   {
     "ifi": 460,
-    "text": "Separate by comma",
-    "bigText": false
+    "text": "Separate by comma"
   },
   {
     "ifi": 461,
-    "text": "Send",
-    "bigText": false
+    "text": "Send"
   },
   {
     "ifi": 462,
-    "text": "Show QR code",
-    "bigText": false
+    "text": "Show QR code"
   },
   {
     "ifi": 463,
-    "text": "Manual bill/invoice",
-    "bigText": false
+    "text": "Manual bill/invoice"
   },
   {
     "ifi": 464,
-    "text": "Reject",
-    "bigText": false
+    "text": "Reject"
   },
   {
     "ifi": 465,
-    "text": "Pay",
-    "bigText": false
+    "text": "Pay"
   },
   {
     "ifi": 466,
-    "text": "Canceled by worker",
-    "bigText": false
+    "text": "Canceled by worker"
   },
   {
     "ifi": 467,
-    "text": "Rejected/Canceled by customer",
-    "bigText": false
+    "text": "Rejected/Canceled by customer"
   },
   {
     "ifi": 468,
-    "text": "Keep logged in",
-    "bigText": false
+    "text": "Keep logged in"
   },
   {
     "ifi": 469,
-    "text": "Choose your username",
-    "bigText": false
+    "text": "Choose your username"
   },
   {
     "ifi": 470,
-    "text": "First, middle, last names",
-    "bigText": false
+    "text": "First, middle, last names"
   },
   {
     "ifi": 471,
-    "text": "Provided documents",
-    "bigText": false
+    "text": "Provided documents"
   },
   {
     "ifi": 472,
-    "text": "Main photo",
-    "bigText": false
+    "text": "Main photo"
   },
   {
     "ifi": 473,
-    "text": "Set as main photo",
-    "bigText": false
+    "text": "Set as main photo"
   },
   {
     "ifi": 474,
-    "text": "Unread",
-    "bigText": false
+    "text": "Unread"
   },
   {
     "ifi": 475,
-    "text": "Leave this group",
-    "bigText": false
+    "text": "Leave this group"
   },
   {
     "ifi": 476,
-    "text": "Enable notifications",
-    "bigText": false
+    "text": "Enable notifications"
   },
   {
     "ifi": 477,
-    "text": "Disable notifications",
-    "bigText": false
+    "text": "Disable notifications"
   },
   {
     "ifi": 478,
-    "text": "Call",
-    "bigText": false
+    "text": "Call"
   },
   {
     "ifi": 479,
-    "text": "Mail boxes",
-    "bigText": false
+    "text": "Mail boxes"
   },
   {
     "ifi": 480,
-    "text": "Attach image",
-    "bigText": false
+    "text": "Attach image"
   },
   {
     "ifi": 481,
-    "text": "Pseudonym",
-    "bigText": false
+    "text": "Pseudonym"
   },
   {
     "ifi": 482,
-    "text": "If set other users will see this pseudonym instead of your fullname. It can be useful when you need to use your name in different languages. You can change it anytime",
-    "bigText": false
+    "text": "If set other users will see this pseudonym instead of your fullname. It can be useful when you need to use your name in different languages. You can change it anytime"
   },
   {
     "ifi": 483,
-    "text": "Set my full name for this mail box",
-    "bigText": false
+    "text": "Set my full name for this mail box"
   },
   {
     "ifi": 484,
-    "text": "Set my pseudonym for this mail box",
-    "bigText": false
+    "text": "Set my pseudonym for this mail box"
   },
   {
     "ifi": 485,
-    "text": "You",
-    "bigText": false
+    "text": "You"
   },
   {
     "ifi": 486,
-    "text": "About the iol app",
-    "bigText": false
+    "text": "About the iol app"
   },
   {
     "ifi": 487,
-    "text": "Sender's profile",
-    "bigText": false
+    "text": "Sender's profile"
   },
   {
     "ifi": 488,
-    "text": "Expand image",
-    "bigText": false
+    "text": "Expand image"
   },
   {
     "ifi": 489,
-    "text": "Keep screen on when messaging",
-    "bigText": false
+    "text": "Keep screen on when messaging"
   },
   {
     "ifi": 490,
-    "text": "Keep screen on when SINHRO details open",
-    "bigText": false
+    "text": "Keep screen on when SINHRO details open"
   },
   {
     "ifi": 491,
-    "text": "Allow send me bills/manual invoices",
-    "bigText": false
+    "text": "Allow send me bills/manual invoices"
   },
   {
     "ifi": 492,
-    "text": "Sounds",
-    "bigText": false
+    "text": "Sounds"
   },
   {
     "ifi": 493,
-    "text": "Messages",
-    "bigText": false
+    "text": "Messages"
   },
   {
     "ifi": 494,
-    "text": "Payment",
-    "bigText": false
+    "text": "Payment"
   },
   {
     "ifi": 495,
-    "text": "Job/Orders from iol-apps",
-    "bigText": false
+    "text": "Job/Orders from iol-apps"
   },
   {
     "ifi": 496,
-    "text": "Nothing",
-    "bigText": false
+    "text": "Nothing"
   },
   {
     "ifi": 497,
-    "text": "You made changes but didn't save/apply them. Would you like save before close?",
-    "bigText": false
+    "text": "You made changes but didn't save/apply them. Would you like save before close?"
   },
   {
     "ifi": 498,
-    "text": "Find",
-    "bigText": false
+    "text": "Find"
   },
   {
     "ifi": 499,
-    "text": "Add language",
-    "bigText": false
+    "text": "Add language"
   },
   {
     "ifi": 500,
-    "text": "<b>NiXeL</b> is the Distributed/Decentralised Mobile Document Flow System of the iol",
-    "bigText": false
+    "text": "<b>NiXeL</b> is the Distributed/Decentralised Mobile Document Flow System of the iol"
   },
   {
     "ifi": 501,
-    "text": "<b>Privacy Policy</b><br><br>Terms and Use Conditions",
-    "bigText": false
+    "text": "<b>Privacy Policy</b><br><br>Terms and Use Conditions"
   },
   {
     "ifi": 502,
-    "text": "Rating in app",
-    "bigText": false
+    "text": "Rating in app"
   },
   {
     "ifi": 503,
-    "text": "In app",
-    "bigText": false
+    "text": "In app"
   },
   {
     "ifi": 504,
-    "text": "as performer",
-    "bigText": false
+    "text": "as performer"
   },
   {
     "ifi": 505,
-    "text": "as customer",
-    "bigText": false
+    "text": "as customer"
   },
   {
     "ifi": 506,
-    "text": "Document",
-    "bigText": false
+    "text": "Document"
   },
   {
     "ifi": 507,
-    "text": "Provided contacts",
-    "bigText": false
+    "text": "Provided contacts"
   },
   {
     "ifi": 508,
-    "text": "{{appName}} requests your acceptance to log in with NiXeL",
-    "bigText": false
+    "text": "{{appName}} requests your acceptance to log in with NiXeL"
   },
   {
     "ifi": 509,
-    "text": "The data values have been sent to review and will be available once it's accepted by moderators",
-    "bigText": false
+    "text": "The data values have been sent to review and will be available once it's accepted by moderators"
   },
   {
     "ifi": 510,
-    "text": "Minimum wage",
-    "bigText": false
+    "text": "Minimum wage"
   },
   {
     "ifi": 511,
-    "text": "Information source (eg. link/URL)",
-    "bigText": false
+    "text": "Information source (eg. link/URL)"
   },
   {
     "ifi": 512,
-    "text": "Education",
-    "bigText": false
+    "text": "Education"
   },
   {
     "ifi": 513,
-    "text": "Health",
-    "bigText": false
+    "text": "Health"
   },
   {
     "ifi": 514,
-    "text": "Smart Invoice",
-    "bigText": false
+    "text": "Smart Invoice"
   },
   {
     "ifi": 515,
-    "text": "Details",
-    "bigText": false
+    "text": "Details"
   },
   {
     "ifi": 516,
-    "text": "Project/Profit Stake",
-    "bigText": false
+    "text": "Project/Profit Stake"
   },
   {
     "ifi": 517,
-    "text": "Royalty Stake",
-    "bigText": false
+    "text": "Royalty Stake"
   },
   {
     "ifi": 518,
-    "text": "Royalty from customers",
-    "bigText": false
+    "text": "Royalty from customers"
   },
   {
     "ifi": 519,
-    "text": "Royalty from performers",
-    "bigText": false
+    "text": "Royalty from performers"
   },
   {
     "ifi": 520,
-    "text": "My stake",
-    "bigText": false
+    "text": "My stake"
   },
   {
     "ifi": 521,
-    "text": "Only the authors of iol parts are able to get royalty stake. You can join to authors on github.com/Distributed-Digital-Nomads",
-    "bigText": false
+    "text": "Only the authors of iol parts are able to get royalty stake. You can join to authors on github.com/Distributed-Digital-Nomads"
   },
   {
     "ifi": 522,
-    "text": "Get royalty stake",
-    "bigText": false
+    "text": "Get royalty stake"
   },
   {
     "ifi": 523,
-    "text": "App authors",
-    "bigText": false
+    "text": "App authors"
   },
   {
     "ifi": 524,
-    "text": "Show me in this list",
-    "bigText": false
+    "text": "Show me in this list"
   },
   {
     "ifi": 525,
-    "text": "You don't have currencies in your balance in NiXeL. Please, add/refill balance",
-    "bigText": false
+    "text": "You don't have currencies in your balance in NiXeL. Please, add/refill balance"
   },
   {
     "ifi": 526,
-    "text": "Add currency to the list",
-    "bigText": false
+    "text": "Add currency to the list"
   },
   {
     "ifi": 527,
-    "text": "Follow the steps below in order to successfully refill your NiXeL balance",
-    "bigText": false
+    "text": "Follow the steps below in order to successfully refill your NiXeL balance"
   },
   {
     "ifi": 528,
-    "text": "Open the banking application corresponding to your bank account \"{{bankAccAlias}}\". If you do not use the banking application, then you should go to the nearest branch of this bank account",
-    "bigText": false
+    "text": "Open the banking application corresponding to your bank account \"{{bankAccAlias}}\". If you do not use the banking application, then you should go to the nearest branch of this bank account"
   },
   {
     "ifi": 529,
-    "text": "Open a new Bank Transfer in the banking app. If your bank account currency differs from the NiXeL top-up currency, open a new International Transfer in your bank application. Take the bank details requested in the banking application from the list below. (if you go to your bank, then provide the list below to the operator of your bank)",
-    "bigText": false
+    "text": "Open a new Bank Transfer in the banking app. If your bank account currency differs from the NiXeL top-up currency, open a new International Transfer in your bank application. Take the bank details requested in the banking application from the list below. (if you go to your bank, then provide the list below to the operator of your bank)"
   },
   {
     "ifi": 530,
-    "text": "For error-free crediting of the transfer to your balance in NiXeL it is IMPORTANT to specify exactly Reference for recipient",
-    "bigText": false
+    "text": "For error-free crediting of the transfer to your balance in NiXeL it is IMPORTANT to specify exactly Reference for recipient"
   },
   {
     "ifi": 531,
-    "text": "If you change your mind about making this transfer to your balance in NiXeL, then click the button below",
-    "bigText": false
+    "text": "If you change your mind about making this transfer to your balance in NiXeL, then click the button below"
   },
   {
     "ifi": 532,
-    "text": "Received",
-    "bigText": false
+    "text": "Received"
   },
   {
     "ifi": 533,
-    "text": "Added to balance",
-    "bigText": false
+    "text": "Added to balance"
   },
   {
     "ifi": 534,
-    "text": "Account holder/Recipient/Organisation",
-    "bigText": false
+    "text": "Account holder/Recipient/Organisation"
   },
   {
     "ifi": 535,
-    "text": "You must specify the category of payment as a Donation or Charity, because you trensfer currency on your NiXeL balance, you do not make a purchase of goods or services. NiXeL is an internal non-commercial application for digital nomads and it does not provide financial services. You can translate funds from the NiXeL balance to your bank accounts. This is your income",
-    "bigText": false
+    "text": "You must specify the category of payment as a Donation or Charity, because you trensfer currency on your NiXeL balance, you do not make a purchase of goods or services. NiXeL is an internal non-commercial application for digital nomads and it does not provide financial services. You can translate funds from the NiXeL balance to your bank accounts. This is your income"
   },
   {
     "ifi": 536,
-    "text": "You will not receive push notifications when the app is not open",
-    "bigText": false
+    "text": "You will not receive push notifications when the app is not open"
   },
   {
     "ifi": 537,
-    "text": "Delete document",
-    "bigText": false
+    "text": "Delete document"
   },
-  {"ifi": 538, "text": "From gallery", "bigText": false},
-  {"ifi": 539, "text": "Take a photo", "bigText": false},
+  {"ifi": 538, "text": "From gallery"},
+  {"ifi": 539, "text": "Take a photo"},
   {
     "ifi": 540,
-    "text": "Set time",
-    "bigText": false
+    "text": "Set time"
   },
   {
     "ifi": 541,
-    "text": "Choose date",
-    "bigText": false
+    "text": "Choose date"
   },
   {
     "ifi": 542,
-    "text": "Group chat rules",
-    "bigText": false
+    "text": "Group chat rules"
   },
   {
     "ifi": 543,
-    "text": "Send as",
-    "bigText": false
+    "text": "Send as"
   },
   {
     "ifi": 544,
-    "text": "Hide this message from other users",
-    "bigText": false
+    "text": "Hide this message from other users"
   },
   {
     "ifi": 545,
-    "text": "Hide all this user's messages from other users",
-    "bigText": false
+    "text": "Hide all this user's messages from other users"
   },
   {
     "ifi": 546,
-    "text": "Disallow the user to message to this chat",
-    "bigText": false
+    "text": "Disallow the user to message to this chat"
   },
   {
     "ifi": 547,
-    "text": "Chat rules brake Note before ban",
-    "bigText": false
+    "text": "Chat rules brake Note before ban"
   },
   {
     "ifi": 548,
-    "text": "Crowdfunding",
-    "bigText": false
+    "text": "Crowdfunding"
   },
   {
     "ifi": 549,
-    "text": "Job insurance",
-    "bigText": false
+    "text": "Job insurance"
   },
   {
     "ifi": 550,
-    "text": "Charity",
-    "bigText": false
+    "text": "Charity"
   },
   {
     "ifi": 551,
-    "text": "Outer transactions' operator",
-    "bigText": false
+    "text": "Outer transactions' operator"
   },
   {
     "ifi": 552,
-    "text": "Refill awaits",
-    "bigText": false
+    "text": "Refill awaits"
   },
   {
     "ifi": 553,
-    "text": "Withdrawal awaits",
-    "bigText": false
+    "text": "Withdrawal awaits"
   },
   {
     "ifi": 554,
-    "text": "Handled by SinhroBot",
-    "bigText": false
+    "text": "Handled by SinhroBot"
   },
   {
     "ifi": 555,
-    "text": "Partly done",
-    "bigText": false
+    "text": "Partly done"
   },
   {
     "ifi": 556,
-    "text": "Sell/Buy Sinhro",
-    "bigText": false
+    "text": "Sell/Buy Sinhro"
   },
   {
     "ifi": 557,
-    "text": "Locked",
-    "bigText": false
+    "text": "Locked"
   },
   {
     "ifi": 558,
-    "text": "Unocked",
-    "bigText": false
+    "text": "Unocked"
   },
   {
     "ifi": 559,
-    "text": "Rejected/Sent back",
-    "bigText": false
+    "text": "Rejected/Sent back"
   },
   {
     "ifi": 560,
-    "text": "Open crowdfund project",
-    "bigText": false
+    "text": "Open crowdfund project"
   },
   {
     "ifi": 561,
-    "text": "Crowdfund project",
-    "bigText": false
+    "text": "Crowdfund project"
   },
   {
     "ifi": 562,
-    "text": "Couldn't connect to iol network. Will try few seconds later..",
-    "bigText": false
+    "text": "Couldn't connect to iol network. Will try few seconds later.."
   },
   {
     "ifi": 563,
-    "text": "Please, wait for connection!",
-    "bigText": false
+    "text": "Please, wait for connection!"
   },
   {
     "ifi": 564,
-    "text": "https://youtu.be/Vr5TZUcp-dA",
-    "bigText": false
+    "text": "https://youtu.be/Vr5TZUcp-dA"
   },
   {
     "ifi": 565,
-    "text": "Add your own app",
-    "bigText": false
+    "text": "Add your own app"
   },
   {
     "ifi": 566,
-    "text": "Use desktop app iol-builder to generate your app with your configurations. Watch the instruction on https://www.youtube.com/@nixelapp/playlists",
-    "bigText": false
+    "text": "Use desktop app iol-builder to generate your app with your configurations. Watch the instruction on https://www.youtube.com/@nixelapp/playlists"
   },
   {
     "ifi": 567,
-    "text": "Simple mode",
-    "bigText": false
+    "text": "Simple mode"
   },
   {
     "ifi": 568,
-    "text": "Usage video guides",
-    "bigText": false
+    "text": "Usage video guides"
   },
   {
     "ifi": 569,
-    "text": "We are looking for a product owner or author of this feature that will manenge, moderate and explain the feature vision to technicals. Please, message to username diamo",
-    "bigText": false
+    "text": "We are looking for a product owner or author of this feature that will manenge, moderate and explain the feature vision to technicals. Please, message to username diamo"
   },
   {
     "ifi": 570,
-    "text": "Digital cards",
-    "bigText": false
+    "text": "Digital cards"
   },
   {
     "ifi": 571,
-    "text": "This option is currently unavailable",
-    "bigText": false
+    "text": "This option is currently unavailable"
   },
   {
     "ifi": 572,
-    "text": "This feature is not available in RC (Release Candidate or open test) versions. You use version {{version}}. Please, use \"FAQ & Support\" if you have any question",
-    "bigText": false
+    "text": "This feature is not available in RC (Release Candidate or open test) versions. You use version {{version}}. Please, use \"FAQ & Support\" if you have any question"
   },
   {
     "ifi": 573,
-    "text": "Accept",
-    "bigText": false
+    "text": "Accept"
   },
   {
     "ifi": 574,
-    "text": "Digital Nomad",
-    "bigText": false
+    "text": "Digital Nomad"
   },
   {
     "ifi": 575,
-    "text": "Your device doesn't support NFC",
-    "bigText": false
+    "text": "Your device doesn't support NFC"
   },
   {
     "ifi": 576,
-    "text": "{{appName}} iol app is required in the device for this feature but it is not installed. Please, install it and try again",
-    "bigText": false
+    "text": "{{appName}} iol app is required in the device for this feature but it is not installed. Please, install it and try again"
   },
   {
     "ifi": 577,
-    "text": "Choose an app store",
-    "bigText": false
+    "text": "Choose an app store"
   },
   {
     "ifi": 578,
-    "text": "Scores",
-    "bigText": false
+    "text": "Scores"
   },
   {
     "ifi": 579,
-    "text": "Team",
-    "bigText": false
+    "text": "Team"
   },
   {
     "ifi": 580,
-    "text": "The email does not match email that has been set for password recovery of this user",
-    "bigText": false
+    "text": "The email does not match email that has been set for password recovery of this user"
   },
   {
     "ifi": 581,
-    "text": "An email with password reset code and short instruction has been sent to the email. Please, check your email inbox. Check spam and junk folders if there is no email within 10 minutes",
-    "bigText": false
+    "text": "An email with password reset code and short instruction has been sent to the email. Please, check your email inbox. Check spam and junk folders if there is no email within 10 minutes"
   },
   {
     "ifi": 582,
-    "text": "For password recovery",
-    "bigText": false
+    "text": "For password recovery"
   },
   {
     "ifi": 583,
-    "text": "Month",
-    "bigText": false
+    "text": "Month"
   },
   {
     "ifi": 584,
-    "text": "Set minimum wage (IOU rate offer)",
-    "bigText": false
+    "text": "Set minimum wage (IOU rate offer)"
   },
   {
     "ifi": 585,
-    "text": "Country ISO 2, 3 codes",
-    "bigText": false
+    "text": "Country ISO 2, 3 codes"
   },
   {
     "ifi": 586,
-    "text": "Country currency",
-    "bigText": false
+    "text": "Country currency"
   },
   {
     "ifi": 587,
-    "text": "Country languages (codes)",
-    "bigText": false
+    "text": "Country languages (codes)"
   },
   {
     "ifi": 588,
-    "text": "IOU rate",
-    "bigText": false
+    "text": "IOU rate"
   },
   {
     "ifi": 800,
     "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/docs/en/ppsinfo.htm",
     "bigText": true,
-    "notes": "from 800 for documents bigtext links"
+    "note": "from 800 for documents bigtext links"
   },
   {
     "ifi": 1000,
-    "text": "3-50 symbols a-z and 0-9",
-    "bigText": false
+    "text": "3-50 symbols a-z and 0-9"
   },
   {
     "ifi": 1001,
-    "text": "8-50 symbols",
-    "bigText": false
+    "text": "8-50 symbols"
   },
   {
     "ifi": 1002,
-    "text": "Would you like try again?",
-    "bigText": false
+    "text": "Would you like try again?"
   },
   {
     "ifi": 1003,
-    "text": "Please, set a PIN in App Settings",
-    "bigText": false
+    "text": "Please, set a PIN in App Settings"
   },
   {
     "ifi": 1004,
-    "text": "Encrypt/Decrypt error in the stirrup",
-    "bigText": false
+    "text": "Encrypt/Decrypt error in the stirrup"
   },
   {
     "ifi": 1005,
-    "text": "Password and password confirmation are not the same",
-    "bigText": false
+    "text": "Password and password confirmation are not the same"
   },
   {
     "ifi": 1006,
-    "text": "seconds left",
-    "bigText": false
+    "text": "seconds left"
   },
   {
     "ifi": 1007,
-    "text": "Captcha expression equals",
-    "bigText": false
+    "text": "Captcha expression equals"
   },
   {
     "ifi": 1008,
-    "text": "Turing test",
-    "bigText": false
+    "text": "Turing test"
   },
   {
     "ifi": 1009,
-    "text": "Must much password",
-    "bigText": false
+    "text": "Must much password"
   },
   {
     "ifi": 1010,
-    "text": "Registering in the the app you agree with \"Terms and Use Conditions\" of the app",
-    "bigText": false
+    "text": "Registering in the the app you agree with \"Terms and Use Conditions\" of the app"
   },
   {
     "ifi": 1011,
-    "text": "Middle name",
-    "bigText": false
+    "text": "Middle name"
   },
   {
     "ifi": 1012,
-    "text": "Given name",
-    "bigText": false
+    "text": "Given name"
   },
   {
     "ifi": 1013,
-    "text": "Family name",
-    "bigText": false
+    "text": "Family name"
   },
   {
     "ifi": 1014,
-    "text": "Birth date",
-    "bigText": false
+    "text": "Birth date"
   },
   {
     "ifi": 1015,
-    "text": "About yourself",
-    "bigText": false
+    "text": "About yourself"
   },
   {
     "ifi": 1016,
-    "text": "Requires at least one identification document with its picture. Section data undeletable.",
-    "bigText": false
+    "text": "Requires at least one identification document with its picture. Section data undeletable."
   },
   {
     "ifi": 1017,
-    "text": "Additional info (number etc.)",
-    "bigText": false
+    "text": "Additional info (number etc.)"
   },
   {
     "ifi": 1018,
-    "text": "Document name",
-    "bigText": false
+    "text": "Document name"
   },
   {
     "ifi": 1019,
-    "text": "Document photos",
-    "bigText": false
+    "text": "Document photos"
   },
   {
     "ifi": 1020,
-    "text": "Show to other users",
-    "bigText": false
+    "text": "Show to other users"
   },
   {
     "ifi": 1021,
-    "text": "Password recovery questions",
-    "bigText": false
+    "text": "Password recovery questions"
   },
   {
     "ifi": 1022,
-    "text": "Please, come up with 3 questions and set answers to them. You may need them if you forced to recover your account, eg when you forgot password. Required section.",
-    "bigText": false
+    "text": "Please, come up with 3 questions and set answers to them. You may need them if you forced to recover your account, eg when you forgot password. Required section."
   },
   {
     "ifi": 1023,
-    "text": "Enter your email",
-    "bigText": false
+    "text": "Enter your email"
   },
   {
     "ifi": 1024,
-    "text": "You had not set your email in password recovery section of your profile",
-    "bigText": false
+    "text": "You had not set your email in password recovery section of your profile"
   },
   {
     "ifi": 1025,
-    "text": "Your photos",
-    "bigText": false
+    "text": "Your photos"
   },
   {
     "ifi": 1026,
-    "text": "Please, fill all the required sections and fields",
-    "bigText": false
+    "text": "Please, fill all the required sections and fields"
   },
   {
     "ifi": 1027,
-    "text": "Value",
-    "bigText": false
+    "text": "Value"
   },
   {
     "ifi": 1028,
-    "text": "Confirm the data values or action by entering solution of the captcha",
-    "bigText": false
+    "text": "Confirm the data values or action by entering solution of the captcha"
   },
   {
     "ifi": 1029,
-    "text": "Type a message",
-    "bigText": false
+    "text": "Type a message"
   },
   {
     "ifi": 1030,
-    "text": "Sent",
-    "bigText": false
+    "text": "Sent"
   },
   {
     "ifi": 1031,
-    "text": "Seen",
-    "bigText": false
+    "text": "Seen"
   },
   {
     "ifi": 1032,
-    "text": "Last",
-    "bigText": false
+    "text": "Last"
   },
   {
     "ifi": 1033,
-    "text": "You will not receive notifications about messages from this user. Do you confirm your action?",
-    "bigText": false
+    "text": "You will not receive notifications about messages from this user. Do you confirm your action?"
   },
   {
     "ifi": 1034,
-    "text": "You are gonna delete this chat. It means the user will not be able to send messages to you. You will be able to restore the chat sending a message from the user's profile. Do you confirm the action?",
-    "bigText": false
+    "text": "You are gonna delete this chat. It means the user will not be able to send messages to you. You will be able to restore the chat sending a message from the user's profile. Do you confirm the action?"
   },
   {
     "ifi": 1035,
-    "text": "You cannot message/call to the user because the user has deleted the chat for him/her.",
-    "bigText": false
+    "text": "You cannot message/call to the user because the user has deleted the chat for him/her."
   },
   {
     "ifi": 1036,
-    "text": "no data yet...",
-    "bigText": false
+    "text": "no data yet..."
   },
   {
     "ifi": 1037,
-    "text": "Reviews about {{userName}} in {{providerName}} app by other users of {{providerName}}",
-    "bigText": false
+    "text": "Reviews about {{userName}} in {{providerName}} app by other users of {{providerName}}"
   },
   {
     "ifi": 1038,
-    "text": "You will not receive notifications about messages in this chat. Do you confirm your action?",
-    "bigText": false
+    "text": "You will not receive notifications about messages in this chat. Do you confirm your action?"
   },
   {
     "ifi": 1039,
-    "text": "You're gonna close your membership in this group. Do you confirm the action?",
-    "bigText": false
+    "text": "You're gonna close your membership in this group. Do you confirm the action?"
   },
   {
     "ifi": 1040,
-    "text": "Password recovery locked for you until {{dt}}",
-    "bigText": false
+    "text": "Password recovery locked for you until {{dt}}"
   },
   {
     "ifi": 1041,
-    "text": "Give an answer that you set up to this question",
-    "bigText": false
+    "text": "Give an answer that you set up to this question"
   },
   {
     "ifi": 1042,
-    "text": "The answer isn't equal to the answer that was set up for this question by the user. Try again. {{attemptsLeft}} attempts remaining for all questions",
-    "bigText": false
+    "text": "The answer isn't equal to the answer that was set up for this question by the user. Try again. {{attemptsLeft}} attempts remaining for all questions"
   },
   {
     "ifi": 1043,
-    "text": "Congratulations, your new password is {{pw}}. You can change it in App settings after logging in",
-    "bigText": false
+    "text": "Congratulations, your new password is {{pw}}. You can change it in App settings after logging in"
   },
   {
     "ifi": 1044,
-    "text": "App lock PIN. This is an additional feature to secure your account. When you use app lock you are still stay logged in with your account and receive personal notifications. When you are logged out you don't receive personal notifications",
-    "bigText": false
+    "text": "App lock PIN. This is an additional feature to secure your account. When you use app lock you are still stay logged in with your account and receive personal notifications. When you are logged out you don't receive personal notifications"
   },
   {
     "ifi": 1045,
-    "text": "Enter correct PIN",
-    "bigText": false
+    "text": "Enter correct PIN"
   },
   {
     "ifi": 1046,
-    "text": "Delete mail box notification after reading",
-    "bigText": false
+    "text": "Delete mail box notification after reading"
   },
   {
     "ifi": 1047,
-    "text": "You will need re-login after this amount of days",
-    "bigText": false
+    "text": "You will need re-login after this amount of days"
   },
   {
     "ifi": 1048,
-    "text": "Stay logged in (days)",
-    "bigText": false
+    "text": "Stay logged in (days)"
   },
   {
     "ifi": 1049,
-    "text": "NiXeL does not save your card details in its database or backend. All payments in NiXeL are processed by official aggregators such as Google Pay, Apple Pay, Stripe etc. Read more in \"Terms and Use Conditions\"",
-    "bigText": false
+    "text": "NiXeL does not save your card details in its database or backend. All payments in NiXeL are processed by official aggregators such as Google Pay, Apple Pay, Stripe etc. Read more in \"Terms and Use Conditions\""
   },
   {
     "ifi": 1050,
-    "text": "Income",
-    "bigText": false
+    "text": "Income"
   },
   {
     "ifi": 1051,
-    "text": "Outcome",
-    "bigText": false
+    "text": "Outcome"
   },
   {
     "ifi": 1052,
-    "text": "Transaction No.",
-    "bigText": false
+    "text": "Transaction No."
   },
   {
     "ifi": 1053,
-    "text": "Date, time",
-    "bigText": false
+    "text": "Date, time"
   },
   {
     "ifi": 1054,
-    "text": "Transaction type",
-    "bigText": false
+    "text": "Transaction type"
   },
   {
     "ifi": 1055,
-    "text": "Payment method",
-    "bigText": false
+    "text": "Payment method"
   },
   {
     "ifi": 1056,
-    "text": "Amount",
-    "bigText": false
+    "text": "Amount"
   },
   {
     "ifi": 1057,
-    "text": "Currency",
-    "bigText": false
+    "text": "Currency"
   },
   {
     "ifi": 1058,
-    "text": "Payer",
-    "bigText": false
+    "text": "Payer"
   },
   {
     "ifi": 1059,
-    "text": "Payee",
-    "bigText": false
+    "text": "Payee"
   },
   {
     "ifi": 1060,
-    "text": "Description",
-    "bigText": false
+    "text": "Description"
   },
   {
     "ifi": 1061,
-    "text": "Additional info",
-    "bigText": false
+    "text": "Additional info"
   },
   {
     "ifi": 1062,
-    "text": "Out of iol",
-    "bigText": false
+    "text": "Out of iol"
   },
   {
     "ifi": 1063,
-    "text": "Check internet connection",
-    "bigText": false
+    "text": "Check internet connection"
   },
   {
     "ifi": 1064,
-    "text": "Couldn't handle the photo. Try again",
-    "bigText": false
+    "text": "Couldn't handle the photo. Try again"
   },
   {
     "ifi": 1065,
-    "text": "Unsuccessful login with NiXeL",
-    "bigText": false
+    "text": "Unsuccessful login with NiXeL"
   },
   {
     "ifi": 1066,
-    "text": "You have been registered and can Log In now.",
-    "bigText": false
+    "text": "You have been registered and can Log In now."
   },
   {
     "ifi": 1067,
-    "text": "You cannot read this chat. Your access level code: {{chat_access_level}}",
-    "bigText": false
+    "text": "You cannot read this chat. Your access level code: {{chat_access_level}}"
   },
   {
     "ifi": 1068,
-    "text": "This chat is locked for you. As reason left: \"{{lock_descr}}\"",
-    "bigText": false
+    "text": "This chat is locked for you. As reason left: \"{{lock_descr}}\""
   },
   {
     "ifi": 1069,
-    "text": "Creating new docbox",
-    "bigText": false
+    "text": "Creating new docbox"
   },
   {
     "ifi": 1300,
-    "text": "January",
-    "bigText": false
+    "text": "January"
   },
   {
     "ifi": 1301,
-    "text": "February",
-    "bigText": false
+    "text": "February"
   },
   {
     "ifi": 1302,
-    "text": "March",
-    "bigText": false
+    "text": "March"
   },
   {
     "ifi": 1303,
-    "text": "April",
-    "bigText": false
+    "text": "April"
   },
   {
     "ifi": 1304,
-    "text": "May",
-    "bigText": false
+    "text": "May"
   },
   {
     "ifi": 1305,
-    "text": "June",
-    "bigText": false
+    "text": "June"
   },
   {
     "ifi": 1306,
-    "text": "July",
-    "bigText": false
+    "text": "July"
   },
   {
     "ifi": 1307,
-    "text": "August",
-    "bigText": false
+    "text": "August"
   },
   {
     "ifi": 1308,
-    "text": "September",
-    "bigText": false
+    "text": "September"
   },
   {
     "ifi": 1309,
-    "text": "October",
-    "bigText": false
+    "text": "October"
   },
   {
     "ifi": 1310,
-    "text": "November",
-    "bigText": false
+    "text": "November"
   },
   {
     "ifi": 1311,
-    "text": "December",
-    "bigText": false
+    "text": "December"
   },
   {
     "ifi": 1312,
-    "text": "Password has been changed",
-    "bigText": false
+    "text": "Password has been changed"
   },
   {
     "ifi": 1313,
-    "text": "Orders",
-    "bigText": false
+    "text": "Orders"
   },
   {
     "ifi": 1314,
-    "text": "Active orders",
-    "bigText": false
+    "text": "Active orders"
   },
   {
     "ifi": 1315,
-    "text": "App",
-    "bigText": false
+    "text": "App"
   },
   {
     "ifi": 1316,
-    "text": "Start",
-    "bigText": false
+    "text": "Start"
   },
   {
     "ifi": 1317,
-    "text": "New",
-    "bigText": false
+    "text": "New"
   },
   {
     "ifi": 1318,
-    "text": "Active",
-    "bigText": false
+    "text": "Active"
   },
   {
     "ifi": 1319,
-    "text": "Inactive / busy",
-    "bigText": false
+    "text": "Inactive / busy"
   },
   {
     "ifi": 1320,
-    "text": "Closed / Deleted",
-    "bigText": false
+    "text": "Closed / Deleted"
   },
   {
     "ifi": 1321,
-    "text": "SmartContract",
-    "bigText": false
+    "text": "SmartContract"
   },
   {
     "ifi": 1322,
-    "text": "Canceled before start",
-    "bigText": false
+    "text": "Canceled before start"
   },
   {
     "ifi": 1323,
-    "text": "Performer",
-    "bigText": false
+    "text": "Performer"
   },
   {
     "ifi": 1324,
-    "text": "Canceled during performance",
-    "bigText": false
+    "text": "Canceled during performance"
   },
   {
     "ifi": 1325,
-    "text": "Finished",
-    "bigText": false
+    "text": "Finished"
   },
   {
     "ifi": 2000,
     "text": "Solutions architect",
-    "bigText": false,
     "note": "from 2000 to 2299 are role/specialisation names"
   },
   {
     "ifi": 2001,
-    "text": "Software developer",
-    "bigText": false
+    "text": "Software developer"
   },
   {
     "ifi": 2002,
-    "text": "Academician",
-    "bigText": false
+    "text": "Academician"
   },
   {
     "ifi": 2003,
-    "text": "Inventor",
-    "bigText": false
+    "text": "Inventor"
   },
   {
     "ifi": 2004,
-    "text": "Banking",
-    "bigText": false
+    "text": "Banking"
   },
   {
     "ifi": 2005,
-    "text": "Credit expert",
-    "bigText": false
+    "text": "Credit expert"
   },
   {
     "ifi": 2006,
-    "text": "Accounting",
-    "bigText": false
+    "text": "Accounting"
   },
   {
     "ifi": 2007,
-    "text": "Volunteer",
-    "bigText": false
+    "text": "Volunteer"
   },
   {
     "ifi": 2008,
-    "text": "UI tester",
-    "bigText": false
+    "text": "UI tester"
   },
   {
     "ifi": 2009,
-    "text": "BloodVessels enthusiast",
-    "bigText": false
+    "text": "BloodVessels enthusiast"
   },
   {
     "ifi": 2010,
-    "text": "Finance",
-    "bigText": false
+    "text": "Finance"
   },
   {
     "ifi": 2011,
-    "text": "Law",
-    "bigText": false
+    "text": "Law"
   },
   {
     "ifi": 2012,
-    "text": "UI localisation",
-    "bigText": false
+    "text": "UI localisation"
   },
   {
     "ifi": 2013,
-    "text": "Charity",
-    "bigText": false
+    "text": "Charity"
   },
   {
     "ifi": 2014,
-    "text": "Localisation manager",
-    "bigText": false
+    "text": "Localisation manager"
   },
   {
     "ifi": 2015,
-    "text": "Advisor",
-    "bigText": false
+    "text": "Advisor"
   },
   {
     "ifi": 2016,
-    "text": "Local accountant",
-    "bigText": false
+    "text": "Local accountant"
   },
   {
     "ifi": 2017,
-    "text": "Frontend developer",
-    "bigText": false
+    "text": "Frontend developer"
   },
   {
     "ifi": 2018,
-    "text": "Mobile app developer",
-    "bigText": false
+    "text": "Mobile app developer"
   },
   {
     "ifi": 2300,
     "text": "User",
-    "bigText": false,
     "note": "from 2300 to 2399 chat roles are role/specialisation names"
   },
   {
     "ifi": 2301,
-    "text": "Users' support",
-    "bigText": false
+    "text": "Users' support"
   },
   {
     "ifi": 2302,
-    "text": "Tech support",
-    "bigText": false
+    "text": "Tech support"
   },
   {
     "ifi": 2303,
-    "text": "Moderator",
-    "bigText": false
+    "text": "Moderator"
   },
   {
     "ifi": 2304,
-    "text": "Financial support",
-    "bigText": false
+    "text": "Financial support"
   },
   {
     "ifi": 2305,
-    "text": "Legal support",
-    "bigText": false
+    "text": "Legal support"
   },
   {
     "ifi": 2306,
-    "text": "System admin",
-    "bigText": false
+    "text": "System admin"
   },
   {
     "ifi": 2307,
-    "text": "Software engineer",
-    "bigText": false
+    "text": "Software engineer"
   },
   {
     "ifi": 2308,
-    "text": "Architect",
-    "bigText": false
+    "text": "Architect"
   },
   {
     "ifi": 2400,
     "text": "Configuring in the iolBuilder",
-    "bigText": false,
     "note": "from 2400 2499 iol app states"
   },
   {
     "ifi": 2401,
-    "text": "Saved in the iolBuilder",
-    "bigText": false
+    "text": "Saved in the iolBuilder"
   },
   {
     "ifi": 2402,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2403,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2404,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2405,
-    "text": "Generated in the iolBuilder",
-    "bigText": false
+    "text": "Generated in the iolBuilder"
   },
   {
     "ifi": 2406,
-    "text": "Under development",
-    "bigText": false
+    "text": "Under development"
   },
   {
     "ifi": 2407,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2408,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2409,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2410,
-    "text": "Internal test",
-    "bigText": false
+    "text": "Internal test"
   },
   {
     "ifi": 2411,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2412,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2413,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2414,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2415,
-    "text": "Available unsigned APK. Public test",
-    "bigText": false
+    "text": "Available unsigned APK. Public test"
   },
   {
     "ifi": 2416,
-    "text": "Available signed APK. Public test",
-    "bigText": false
+    "text": "Available signed APK. Public test"
   },
   {
     "ifi": 2417,
-    "text": "Available in Google/App store. Early access",
-    "bigText": false
+    "text": "Available in Google/App store. Early access"
   },
   {
     "ifi": 2418,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2419,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2420,
-    "text": "Available in Google/App store",
-    "bigText": false
+    "text": "Available in Google/App store"
   },
   {
     "ifi": 2500,
     "text": "Card system",
-    "bigText": false,
-    "notes": "from 2500 to 2899 cards related"
+    "note": "from 2500 to 2899 cards related"
   },
   {
     "ifi": 2501,
-    "text": "Ordered",
-    "bigText": false
+    "text": "Ordered"
   },
   {
     "ifi": 2502,
-    "text": "Declined",
-    "bigText": false
+    "text": "Declined"
   },
   {
     "ifi": 2503,
-    "text": "Issued",
-    "bigText": false
+    "text": "Issued"
   },
   {
     "ifi": 2504,
-    "text": "Active",
-    "bigText": false
+    "text": "Active"
   },
   {
     "ifi": 2505,
-    "text": "Frozen",
-    "bigText": false
+    "text": "Frozen"
   },
   {
     "ifi": 2506,
-    "text": "Destroyed",
-    "bigText": false
+    "text": "Destroyed"
   },
   {
     "ifi": 2507,
-    "text": "Expired",
-    "bigText": false
+    "text": "Expired"
   },
   {
     "ifi": 2508,
-    "text": "Issue new card",
-    "bigText": false
+    "text": "Issue new card"
   },
   {
     "ifi": 2509,
-    "text": "With the Digital cards you will be able to make online payments, link them to Google Pay, Apple Pay etc. Also, you can use them for in-store purchases in shops that accept contactless cards if your device supports NFC",
-    "bigText": false
+    "text": "With the Digital cards you will be able to make online payments, link them to Google Pay, Apple Pay etc. Also, you can use them for in-store purchases in shops that accept contactless cards if your device supports NFC"
   },
   {
     "ifi": 2510,
-    "text": "Fee for issuing",
-    "bigText": false
+    "text": "Fee for issuing"
   },
   {
     "ifi": 2511,
-    "text": "Annual fee",
-    "bigText": false
+    "text": "Annual fee"
   },
   {
     "ifi": 2512,
-    "text": "Show CVC/CVV",
-    "bigText": false
+    "text": "Show CVC/CVV"
   },
   {
     "ifi": 2513,
-    "text": "Freeze",
-    "bigText": false
+    "text": "Freeze"
   },
   {
     "ifi": 2514,
-    "text": "Unfreeze",
-    "bigText": false
+    "text": "Unfreeze"
   },
   {
     "ifi": 2515,
-    "text": "Destroy card",
-    "bigText": false
+    "text": "Destroy card"
   },
   {
     "ifi": 2516,
-    "text": "Our digital cards are served by different FSP that internal balance FSP. Transfers between FSPs may take up to 5 banking days",
-    "bigText": false
+    "text": "Our digital cards are served by different FSP that internal balance FSP. Transfers between FSPs may take up to 5 banking days"
   }
 ]

@@ -1,1 +1,2523 @@
-[]
+[
+  {
+    "ifi": 0,
+    "text": ""
+  },
+  {
+    "ifi": 1,
+    "text": "NiXeL"
+  },
+  {
+    "ifi": 2,
+    "text": "Giriş yapmak"
+  },
+  {
+    "ifi": 3,
+    "text": "Profil"
+  },
+  {
+    "ifi": 4,
+    "text": "Finans"
+  },
+  {
+    "ifi": 5,
+    "text": "QR kullanın"
+  },
+  {
+    "ifi": 6,
+    "text": "Yazışma"
+  },
+  {
+    "ifi": 7,
+    "text": "Bildirimler"
+  },
+  {
+    "ifi": 8,
+    "text": "Uygulama ayarları"
+  },
+  {
+    "ifi": 9,
+    "text": "SSS ve Destek"
+  },
+  {
+    "ifi": 10,
+    "text": "Çıkış Yap"
+  },
+  {
+    "ifi": 11,
+    "text": "Kullanıcı adı"
+  },
+  {
+    "ifi": 12,
+    "text": "Şifre"
+  },
+  {
+    "ifi": 13,
+    "text": "Üye olmak"
+  },
+  {
+    "ifi": 14,
+    "text": "Uygulama Dili"
+  },
+  {
+    "ifi": 15,
+    "text": "Şifreyi tekrar girin"
+  },
+  {
+    "ifi": 16,
+    "text": "Ana ekran"
+  },
+  {
+    "ifi": 17,
+    "text": "Kullanıcı adına göre kullanıcı bulun"
+  },
+  {
+    "ifi": 18,
+    "text": "PIN"
+  },
+  {
+    "ifi": 19,
+    "text": "4 hane"
+  },
+  {
+    "ifi": 20,
+    "text": "Kilidini aç"
+  },
+  {
+    "ifi": 21,
+    "text": "1'den 40'a"
+  },
+  {
+    "ifi": 22,
+    "text": "Günler"
+  },
+  {
+    "ifi": 23,
+    "text": "Şifre değiştir"
+  },
+  {
+    "ifi": 24,
+    "text": "Mevcut Şifre"
+  },
+  {
+    "ifi": 25,
+    "text": "Yeni Şifre"
+  },
+  {
+    "ifi": 26,
+    "text": "İç denge"
+  },
+  {
+    "ifi": 27,
+    "text": "<b> iol </b> Küresel bir işsizlik sorunu çözümü olarak"
+  },
+  {
+    "ifi": 28,
+    "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.NiXeL-distr/main/docs/en/contractT0.htm",
+    "bigText": true
+  },
+  {
+    "ifi": 29,
+    "text": "Kaydolmadan önce \"Şartlar ve Kullanım Koşulları\" nı dikkatlice okuyun"
+  },
+  {
+    "ifi": 30,
+    "text": "\"Terim ve kullanım koşullarını\" kabul ediyorum"
+  },
+  {
+    "ifi": 31,
+    "text": "Sözleşmenin içeriği"
+  },
+  {
+    "ifi": 32,
+    "text": "NiXeL'de yerel para birimi"
+  },
+  {
+    "ifi": 33,
+    "text": "Nakit ile yerel para birimi"
+  },
+  {
+    "ifi": 34,
+    "text": "NiXeL'de iou"
+  },
+  {
+    "ifi": 35,
+    "text": "NiXeL'de Sinhro"
+  },
+  {
+    "ifi": 36,
+    "text": "NiXeL uygulamasının yeni bir baskısı mevcuttur. Lütfen, uygulamayı güncelleyin"
+  },
+  {
+    "ifi": 99,
+    "text": "Özellik yakında geliyor"
+  },
+  {
+    "ifi": 100,
+    "text": "Evet"
+  },
+  {
+    "ifi": 101,
+    "text": "HAYIR"
+  },
+  {
+    "ifi": 102,
+    "text": "TAMAM"
+  },
+  {
+    "ifi": 103,
+    "text": "İptal etmek"
+  },
+  {
+    "ifi": 104,
+    "text": "iol'ye kaydolun"
+  },
+  {
+    "ifi": 105,
+    "text": "Şifremi Unuttum"
+  },
+  {
+    "ifi": 106,
+    "text": "Hata"
+  },
+  {
+    "ifi": 107,
+    "text": "Belge Ekle"
+  },
+  {
+    "ifi": 108,
+    "text": "Tamamlamak"
+  },
+  {
+    "ifi": 109,
+    "text": "Kaydetmek"
+  },
+  {
+    "ifi": 110,
+    "text": "Uygula"
+  },
+  {
+    "ifi": 111,
+    "text": "Bu alan gereklidir"
+  },
+  {
+    "ifi": 112,
+    "text": "Kişi ekle"
+  },
+  {
+    "ifi": 113,
+    "text": "Tip"
+  },
+  {
+    "ifi": 114,
+    "text": "Şifre kurtarma"
+  },
+  {
+    "ifi": 115,
+    "text": "Profilinizde kurulan 3 soruya cevap vermelisiniz. 3 Yanlış Cevaplar 7 Gün Şifre Kurtarma'nın Engellenmesine Neden Olur"
+  },
+  {
+    "ifi": 116,
+    "text": "Sonraki"
+  },
+  {
+    "ifi": 117,
+    "text": "Yeniden doldurmak"
+  },
+  {
+    "ifi": 118,
+    "text": "Miktar"
+  },
+  {
+    "ifi": 119,
+    "text": "Kart numarası (16 Didgits)"
+  },
+  {
+    "ifi": 120,
+    "text": "Geçerli"
+  },
+  {
+    "ifi": 121,
+    "text": "Ay"
+  },
+  {
+    "ifi": 122,
+    "text": "Yıl"
+  },
+  {
+    "ifi": 123,
+    "text": "CVC/CVV (3 veya 4 didgit)"
+  },
+  {
+    "ifi": 124,
+    "text": "Geçersiz değer (ler)"
+  },
+  {
+    "ifi": 125,
+    "text": "Kartta isim"
+  },
+  {
+    "ifi": 126,
+    "text": "Gelecekteki ödemeler için kartı kaydedin"
+  },
+  {
+    "ifi": 127,
+    "text": "Kaydedilmiş Kartlar"
+  },
+  {
+    "ifi": 128,
+    "text": "Başka bir kart kullanın"
+  },
+  {
+    "ifi": 129,
+    "text": "Başarıyla"
+  },
+  {
+    "ifi": 130,
+    "text": "Silmek"
+  },
+  {
+    "ifi": 131,
+    "text": "Kabul etmek"
+  },
+  {
+    "ifi": 132,
+    "text": "Aynı fikirde olmamak"
+  },
+  {
+    "ifi": 133,
+    "text": "Oturum açın: {{appName}}"
+  },
+  {
+    "ifi": 134,
+    "text": "Atlamak"
+  },
+  {
+    "ifi": 135,
+    "text": "birkaç kelime..."
+  },
+  {
+    "ifi": 136,
+    "text": "Araç fotoğraflarınız (arabalar, kamyonlar, matkaplar vb.)"
+  },
+  {
+    "ifi": 137,
+    "text": "Aletler"
+  },
+  {
+    "ifi": 138,
+    "text": "Geçersiz veri. Hesabınızı etkinleştirmek için bu bölüm/slayt gereklidir"
+  },
+  {
+    "ifi": 139,
+    "text": "Kapalı"
+  },
+  {
+    "ifi": 140,
+    "text": "Yeni şifreyi tekrar girin"
+  },
+  {
+    "ifi": 141,
+    "text": "Çok yeni şifre olmalı"
+  },
+  {
+    "ifi": 204,
+    "text": "Hoş geldin"
+  },
+  {
+    "ifi": 205,
+    "text": "Şartlar ve kullanım koşulları"
+  },
+  {
+    "ifi": 206,
+    "text": "Dil seçiniz"
+  },
+  {
+    "ifi": 207,
+    "text": "Profil görünümü"
+  },
+  {
+    "ifi": 208,
+    "text": "Profili Düzenle"
+  },
+  {
+    "ifi": 209,
+    "text": "Bir Para Birimi Seçin"
+  },
+  {
+    "ifi": 210,
+    "text": "Nasıl oynamak istersin?"
+  },
+  {
+    "ifi": 211,
+    "text": "Kart ayrıntılarınızı girin"
+  },
+  {
+    "ifi": 212,
+    "text": "İşlemler"
+  },
+  {
+    "ifi": 213,
+    "text": "Tarih"
+  },
+  {
+    "ifi": 214,
+    "text": "Ödeme detayları"
+  },
+  {
+    "ifi": 215,
+    "text": "Son işlemler"
+  },
+  {
+    "ifi": 216,
+    "text": "Banka hesabına gönder"
+  },
+  {
+    "ifi": 217,
+    "text": "Diğer iç dengeye dönüş"
+  },
+  {
+    "ifi": 218,
+    "text": "{{firstName}} grupları"
+  },
+  {
+    "ifi": 219,
+    "text": "Akıllı sözleşme bir müşteriye gönderildi. Müşteri kabul ederse bilgilendirileceksiniz"
+  },
+  {
+    "ifi": 220,
+    "text": "Akıllı sözleşme bir sanatçıya başarıyla gönderildi"
+  },
+  {
+    "ifi": 221,
+    "text": "İş geliriniz {{incrSum}} {{curr}} tarafından artırıldı çünkü müşteriniz tüm ücretleri içeren nakit parayla ödeme yapacak. Ücretler hesabınızdan ödenecektir"
+  },
+  {
+    "ifi": 222,
+    "text": "Mevcut etkinlikler"
+  },
+  {
+    "ifi": 223,
+    "text": "iol-apps Siparişleri"
+  },
+  {
+    "ifi": 224,
+    "text": "iol-apps'de Akıllı Sözleşmeler"
+  },
+  {
+    "ifi": 225,
+    "text": "Akıllı sözleşmeler"
+  },
+  {
+    "ifi": 226,
+    "text": "Aktif Akıllı Sözleşmeler"
+  },
+  {
+    "ifi": 227,
+    "text": "Yaratılmış"
+  },
+  {
+    "ifi": 228,
+    "text": "İmzalı"
+  },
+  {
+    "ifi": 229,
+    "text": "İptal edildi"
+  },
+  {
+    "ifi": 230,
+    "text": "İş yerinde"
+  },
+  {
+    "ifi": 231,
+    "text": "Verim"
+  },
+  {
+    "ifi": 232,
+    "text": "Tamamlamak"
+  },
+  {
+    "ifi": 233,
+    "text": "Bu QR kodunu NiXeL uygulamasında tarayın"
+  },
+  {
+    "ifi": 234,
+    "text": "Profilimi göster QR"
+  },
+  {
+    "ifi": 235,
+    "text": "Qr tarama"
+  },
+  {
+    "ifi": 236,
+    "text": "Ödenmemiş faturalar"
+  },
+  {
+    "ifi": 237,
+    "text": "Faturalar"
+  },
+  {
+    "ifi": 238,
+    "text": "Değerlendirme"
+  },
+  {
+    "ifi": 239,
+    "text": "Geri bildirim"
+  },
+  {
+    "ifi": 240,
+    "text": "İşi derecelendirebilir ve geri bildirim bırakabilirsiniz"
+  },
+  {
+    "ifi": 241,
+    "text": "Müşterinizi derecelendirebilir ve geri bildirim bırakabilirsiniz"
+  },
+  {
+    "ifi": 242,
+    "text": "İş"
+  },
+  {
+    "ifi": 243,
+    "text": "Ödenecek son tutar"
+  },
+  {
+    "ifi": 244,
+    "text": "NiXeL uygulamasının faturalar bölümünde makbuzlu ayrıntılı fatura mevcuttur"
+  },
+  {
+    "ifi": 245,
+    "text": "Bu sohbete mesaj gönderemezsiniz. Erişim seviyesi kodunuz: {{chat_access_level}}"
+  },
+  {
+    "ifi": 246,
+    "text": "Belge Türü"
+  },
+  {
+    "ifi": 247,
+    "text": "Pasaport"
+  },
+  {
+    "ifi": 248,
+    "text": "Kimlik kartı"
+  },
+  {
+    "ifi": 249,
+    "text": "Ehliyet"
+  },
+  {
+    "ifi": 250,
+    "text": "Diğer Doküman Türü"
+  },
+  {
+    "ifi": 251,
+    "text": "Ev telefonu"
+  },
+  {
+    "ifi": 252,
+    "text": "Ofis telefonu"
+  },
+  {
+    "ifi": 253,
+    "text": "Cep telefonu"
+  },
+  {
+    "ifi": 254,
+    "text": "Diğer telefon"
+  },
+  {
+    "ifi": 255,
+    "text": "e-posta"
+  },
+  {
+    "ifi": 256,
+    "text": "Facebook adresi"
+  },
+  {
+    "ifi": 257,
+    "text": "LinkedIn Adresi"
+  },
+  {
+    "ifi": 258,
+    "text": "Tweeter adresi"
+  },
+  {
+    "ifi": 259,
+    "text": "Instagram adresi"
+  },
+  {
+    "ifi": 260,
+    "text": "Diğer Sosyal Ağ Adresi"
+  },
+  {
+    "ifi": 261,
+    "text": "WeChat"
+  },
+  {
+    "ifi": 262,
+    "text": "Naber"
+  },
+  {
+    "ifi": 263,
+    "text": "Telgraf"
+  },
+  {
+    "ifi": 264,
+    "text": "Astar"
+  },
+  {
+    "ifi": 265,
+    "text": "Diğer Elçi"
+  },
+  {
+    "ifi": 266,
+    "text": "posta adresi"
+  },
+  {
+    "ifi": 267,
+    "text": "Diğer İletişim Türü"
+  },
+  {
+    "ifi": 268,
+    "text": "İletişim Türü"
+  },
+  {
+    "ifi": 269,
+    "text": "İletişim Adı"
+  },
+  {
+    "ifi": 270,
+    "text": "Ayrıntılar (sayı, bağlantı vb.)"
+  },
+  {
+    "ifi": 271,
+    "text": "Ücretler / kraliyet bağışları"
+  },
+  {
+    "ifi": 272,
+    "text": "Log (UTC zamanı)"
+  },
+  {
+    "ifi": 273,
+    "text": "Aktivasyon"
+  },
+  {
+    "ifi": 274,
+    "text": "Doğrulama"
+  },
+  {
+    "ifi": 275,
+    "text": "Bitmiş değil"
+  },
+  {
+    "ifi": 276,
+    "text": "Özel Posta Kutusu"
+  },
+  {
+    "ifi": 277,
+    "text": "Aktivasyon/doğrulama için başvurun"
+  },
+  {
+    "ifi": 278,
+    "text": "Diğer kullanıcılardan kullanıcıya yorumlar"
+  },
+  {
+    "ifi": 279,
+    "text": "Her iki yan resme sahip ad, soyadı, doğum tarihi, en az bir fotoğraf ve kimlik belgesi (kimlik kartı veya sürücü lisansı veya pasaport) sağlanmalıdır"
+  },
+  {
+    "ifi": 280,
+    "text": "Profiliniz etkinleştirildikten/doğrulandıktan sonra isimleri ve doğum tarihini değiştiremezsiniz. Devam etmek?"
+  },
+  {
+    "ifi": 281,
+    "text": "https://raw.githubusercontent.com/distibuted-digiital-nomads/space.diamo.iol.NiXeL-distr/main/docs/en/verif.htm",
+    "bigText": true
+  },
+  {
+    "ifi": 282,
+    "text": "Askıda olması"
+  },
+  {
+    "ifi": 283,
+    "text": "Reddedilmiş"
+  },
+  {
+    "ifi": 284,
+    "text": "Doğruluyorum"
+  },
+  {
+    "ifi": 285,
+    "text": "reddederim"
+  },
+  {
+    "ifi": 286,
+    "text": "Manuel doğrulama"
+  },
+  {
+    "ifi": 287,
+    "text": "Kullanıcı doğrulamasını reddedeceksiniz. Sebep nedir?"
+  },
+  {
+    "ifi": 288,
+    "text": "Hesabınızda 40 iou var. İşlemi \"Şartlar ve Kullanım Koşulları\" nda görebilirsiniz. Onları iol-apps'de harcamanın tadını çıkarın"
+  },
+  {
+    "ifi": 289,
+    "text": "Kayıtlı"
+  },
+  {
+    "ifi": 290,
+    "text": "Yerine getirilmiştir"
+  },
+  {
+    "ifi": 291,
+    "text": "Paralı"
+  },
+  {
+    "ifi": 292,
+    "text": "Fatura"
+  },
+  {
+    "ifi": 293,
+    "text": "NiXeL Hesabı"
+  },
+  {
+    "ifi": 294,
+    "text": "Peşin"
+  },
+  {
+    "ifi": 295,
+    "text": "Iou"
+  },
+  {
+    "ifi": 296,
+    "text": "Sinhro"
+  },
+  {
+    "ifi": 297,
+    "text": "HAYIR."
+  },
+  {
+    "ifi": 298,
+    "text": "Jeton"
+  },
+  {
+    "ifi": 299,
+    "text": "Miktar"
+  },
+  {
+    "ifi": 300,
+    "text": "İş başladı"
+  },
+  {
+    "ifi": 301,
+    "text": "İş tamamlandı"
+  },
+  {
+    "ifi": 302,
+    "text": "Mesafe"
+  },
+  {
+    "ifi": 303,
+    "text": "Süre"
+  },
+  {
+    "ifi": 304,
+    "text": "Fiyat"
+  },
+  {
+    "ifi": 305,
+    "text": "Sabit"
+  },
+  {
+    "ifi": 306,
+    "text": "Toplam"
+  },
+  {
+    "ifi": 307,
+    "text": "Ödeme yöntemi"
+  },
+  {
+    "ifi": 308,
+    "text": "Müşteriden Ücretler"
+  },
+  {
+    "ifi": 309,
+    "text": "Ücret"
+  },
+  {
+    "ifi": 310,
+    "text": "Paralı"
+  },
+  {
+    "ifi": 311,
+    "text": "Ödenmemiş"
+  },
+  {
+    "ifi": 312,
+    "text": "iol mühendislerine telif bağışı"
+  },
+  {
+    "ifi": 313,
+    "text": "Toplam müşterinin borcu"
+  },
+  {
+    "ifi": 314,
+    "text": "Sanatçıdan ücretler"
+  },
+  {
+    "ifi": 315,
+    "text": "Toplam sanatçının borcu"
+  },
+  {
+    "ifi": 316,
+    "text": "Borcumu Ödeme"
+  },
+  {
+    "ifi": 317,
+    "text": "Talep Ödemesi"
+  },
+  {
+    "ifi": 318,
+    "text": "Borç"
+  },
+  {
+    "ifi": 319,
+    "text": "NiXeL bakiyenizde {{sum}} yok. Yeniden doldurun ve tekrar deneyin"
+  },
+  {
+    "ifi": 320,
+    "text": "Kullanarak Yeniden Doldurma"
+  },
+  {
+    "ifi": 321,
+    "text": "Google Pay"
+  },
+  {
+    "ifi": 322,
+    "text": "Mesaj gönder"
+  },
+  {
+    "ifi": 323,
+    "text": "banka transferi"
+  },
+  {
+    "ifi": 324,
+    "text": "Visa / Mstercard"
+  },
+  {
+    "ifi": 325,
+    "text": "Döviz değişimi"
+  },
+  {
+    "ifi": 326,
+    "text": "MerchantId etkinleştirilmez"
+  },
+  {
+    "ifi": 327,
+    "text": "NiXeL'de Dengeyi Yeniden Doldurma"
+  },
+  {
+    "ifi": 328,
+    "text": "Kartta yetersiz fon"
+  },
+  {
+    "ifi": 329,
+    "text": "Kartın süresi doldu"
+  },
+  {
+    "ifi": 330,
+    "text": "Kart yok"
+  },
+  {
+    "ifi": 331,
+    "text": "Sözleşmenin tarafları"
+  },
+  {
+    "ifi": 332,
+    "text": "iol-APP'de Akıllı Sözleşme"
+  },
+  {
+    "ifi": 333,
+    "text": "Tahmini toplam"
+  },
+  {
+    "ifi": 334,
+    "text": "Müşteri"
+  },
+  {
+    "ifi": 335,
+    "text": "Gelirler"
+  },
+  {
+    "ifi": 336,
+    "text": "Durum"
+  },
+  {
+    "ifi": 337,
+    "text": "Göstermek"
+  },
+  {
+    "ifi": 338,
+    "text": "NiXeL'deki bakiyeniz dolduruldu"
+  },
+  {
+    "ifi": 339,
+    "text": "Mevcut"
+  },
+  {
+    "ifi": 340,
+    "text": "iol P/PS"
+  },
+  {
+    "ifi": 341,
+    "text": "ön ödemeli ücretler"
+  },
+  {
+    "ifi": 342,
+    "text": "Dijital para birimleri"
+  },
+  {
+    "ifi": 343,
+    "text": "Neden listede?"
+  },
+  {
+    "ifi": 344,
+    "text": "Mesajı yanıtla"
+  },
+  {
+    "ifi": 345,
+    "text": "Kullanıcı için blok yazma"
+  },
+  {
+    "ifi": 346,
+    "text": "Kullanıcı için okumayı engelleyin"
+  },
+  {
+    "ifi": 347,
+    "text": "Eklemek"
+  },
+  {
+    "ifi": 348,
+    "text": "Cüzdanlı Eylemler"
+  },
+  {
+    "ifi": 349,
+    "text": "https://raw.githubusercontent.com/distibuted-digiital-nomads/space.diamo.iol.NiXeL-dist/main/docs/en/iousinhroinfo.htm",
+    "bigText": true
+  },
+  {
+    "ifi": 350,
+    "text": "Daha fazla bilgi"
+  },
+  {
+    "ifi": 351,
+    "text": "Iou, SINHRO ve NiXeL"
+  },
+  {
+    "ifi": 352,
+    "text": "SINHRO oranı"
+  },
+  {
+    "ifi": 353,
+    "text": "Oran Güncellemesi (UTC süresi)"
+  },
+  {
+    "ifi": 354,
+    "text": "Alışveriş yapmak"
+  },
+  {
+    "ifi": 355,
+    "text": "Banka hesabınızı ekleyin"
+  },
+  {
+    "ifi": 356,
+    "text": "Banka hesabı yeniden doldurma ve geri çekilme NiXeL bakiyesi. Yalnızca kendi banka hesabı ayrıntılarınızı kullanmalısınız! Yanlış ayrıntılar yanlış hesabın kredilendirilmesine ve fonların geri kazanılamamasına neden olur"
+  },
+  {
+    "ifi": 357,
+    "text": "Hesap ülkesi"
+  },
+  {
+    "ifi": 358,
+    "text": "Takma ad vermek"
+  },
+  {
+    "ifi": 359,
+    "text": "İlçenin ekonomik bölgesi içindeki banka detayları"
+  },
+  {
+    "ifi": 360,
+    "text": "İlçenin Ekonomik Bölgesi dışından banka detayları Swift (varsa)"
+  },
+  {
+    "ifi": 361,
+    "text": "SÜRATLİ"
+  },
+  {
+    "ifi": 362,
+    "text": "BIC kodu"
+  },
+  {
+    "ifi": 363,
+    "text": "Iban"
+  },
+  {
+    "ifi": 364,
+    "text": "Hesap numarası"
+  },
+  {
+    "ifi": 365,
+    "text": "Hesap sahibinin tam adı"
+  },
+  {
+    "ifi": 366,
+    "text": "Bu para birimi şimdiye kadar FSP'de uygulanamaz"
+  },
+  {
+    "ifi": 367,
+    "text": "Örneğin"
+  },
+  {
+    "ifi": 368,
+    "text": "Kişisel Adresiniz"
+  },
+  {
+    "ifi": 369,
+    "text": "Banka Kodu (Bik, BSB vb.)"
+  },
+  {
+    "ifi": 370,
+    "text": "Ülke"
+  },
+  {
+    "ifi": 371,
+    "text": "Bölge"
+  },
+  {
+    "ifi": 372,
+    "text": "Durum"
+  },
+  {
+    "ifi": 373,
+    "text": "Şehir"
+  },
+  {
+    "ifi": 374,
+    "text": "Adres satırı 1"
+  },
+  {
+    "ifi": 375,
+    "text": "Adres Satırı 2"
+  },
+  {
+    "ifi": 376,
+    "text": "Posta Kod"
+  },
+  {
+    "ifi": 377,
+    "text": "Ek veya işlem izleme bilgileri için e -postanız"
+  },
+  {
+    "ifi": 378,
+    "text": "banka hesabı"
+  },
+  {
+    "ifi": 379,
+    "text": "banka hesabı"
+  },
+  {
+    "ifi": 380,
+    "text": "Banka hesabından"
+  },
+  {
+    "ifi": 381,
+    "text": "Banka Hesabını Seçin"
+  },
+  {
+    "ifi": 382,
+    "text": "NiXeL'deki para birimine"
+  },
+  {
+    "ifi": 383,
+    "text": "FSP'miz henüz {{currCode}} alamaz. Bir para birimi seçin. Seçilen para biriminde banka hesabınızdan \"Gönderilecek Tutar\" a aktarın ve NiXeL'de {{currCode}} veya diğer 60+ para birimiyle değiştirebilirsiniz."
+  },
+  {
+    "ifi": 384,
+    "text": "FSPS Ücretleri"
+  },
+  {
+    "ifi": 385,
+    "text": "Gönderilecek tutar"
+  },
+  {
+    "ifi": 386,
+    "text": "Transfer Beklemek"
+  },
+  {
+    "ifi": 387,
+    "text": "Kopyalanmış"
+  },
+  {
+    "ifi": 388,
+    "text": "Banka detaylarına"
+  },
+  {
+    "ifi": 389,
+    "text": "FSPS ücretlerini içerir"
+  },
+  {
+    "ifi": 390,
+    "text": "Hesap sahibi"
+  },
+  {
+    "ifi": 391,
+    "text": "Adres"
+  },
+  {
+    "ifi": 392,
+    "text": "banka adı"
+  },
+  {
+    "ifi": 393,
+    "text": "Alıcı için referans"
+  },
+  {
+    "ifi": 394,
+    "text": "Amaç"
+  },
+  {
+    "ifi": 395,
+    "text": "Önemli"
+  },
+  {
+    "ifi": 396,
+    "text": "Aktarımı yapar olmaz \"Gönderilen\" düğmesini tıklayın. Bu, bekleyen banka transfer hatırlatıcısını kaldıracaktır"
+  },
+  {
+    "ifi": 397,
+    "text": "Göndermeyeceğim"
+  },
+  {
+    "ifi": 398,
+    "text": "Eylemi onaylıyor musunuz?"
+  },
+  {
+    "ifi": 399,
+    "text": "Bankalar Arası Ödeme Sistemine Bağlı 5 Bankacılık Günü'ne kadar sürebilir"
+  },
+  {
+    "ifi": 400,
+    "text": "FSPS oranında değişim"
+  },
+  {
+    "ifi": 401,
+    "text": "Oran"
+  },
+  {
+    "ifi": 402,
+    "text": "Dengeden"
+  },
+  {
+    "ifi": 403,
+    "text": "Dengelemek"
+  },
+  {
+    "ifi": 404,
+    "text": "Banka hesabına"
+  },
+  {
+    "ifi": 405,
+    "text": "Dengeyi Seçin"
+  },
+  {
+    "ifi": 406,
+    "text": "Fsp"
+  },
+  {
+    "ifi": 407,
+    "text": "Dönüştürmek"
+  },
+  {
+    "ifi": 408,
+    "text": "Satın almak"
+  },
+  {
+    "ifi": 409,
+    "text": "Satmak"
+  },
+  {
+    "ifi": 410,
+    "text": "Diğer teklifleri göster"
+  },
+  {
+    "ifi": 411,
+    "text": "Tekliflerimi göster"
+  },
+  {
+    "ifi": 412,
+    "text": "Asgari adım"
+  },
+  {
+    "ifi": 413,
+    "text": "ben öderim"
+  },
+  {
+    "ifi": 414,
+    "text": "Dengede yeter mi?"
+  },
+  {
+    "ifi": 415,
+    "text": "{{fromSum}} {{fromCurrCode}} için {{toSum}} {{toCurrCode}} satın alacaksınız. Teklif oranınız {{rate}}. Miktarlar, GİB değişimindeki para birimleri için minimum adım koşullarına göre düzeltilir. Ticaret Zemin Kimliği: {{floorId}}. iol'de teklifi duyuruyor musunuz?"
+  },
+  {
+    "ifi": 416,
+    "text": "{{toSum}} {{toCurrCode}} için {{fromSum}} {{fromCurrCode}} satacaksınız. Teklif oranınız {{rate}}. Miktarlar, GİB değişimindeki para birimleri için minimum adım koşullarına göre düzeltilir. Ticaret Zemin Kimliği: {{floorId}}. iol'de teklifi duyuruyor musunuz?"
+  },
+  {
+    "ifi": 417,
+    "text": "Beklemek"
+  },
+  {
+    "ifi": 418,
+    "text": "Teklifi iol'den kaldırmak ister misiniz?"
+  },
+  {
+    "ifi": 419,
+    "text": "soruyorum"
+  },
+  {
+    "ifi": 420,
+    "text": "Satış"
+  },
+  {
+    "ifi": 421,
+    "text": "Satın almak"
+  },
+  {
+    "ifi": 422,
+    "text": "Para birimi için"
+  },
+  {
+    "ifi": 423,
+    "text": "SINHRO miktarı"
+  },
+  {
+    "ifi": 424,
+    "text": "Tüm"
+  },
+  {
+    "ifi": 425,
+    "text": "Ticaret Zemin Kimliği"
+  },
+  {
+    "ifi": 426,
+    "text": "iol Uygulama Pisser Yönetimi"
+  },
+  {
+    "ifi": 427,
+    "text": "Uygulama ismi"
+  },
+  {
+    "ifi": 428,
+    "text": "iol sağlayıcısı"
+  },
+  {
+    "ifi": 429,
+    "text": "İnternet sitesi"
+  },
+  {
+    "ifi": 430,
+    "text": "Müşteriler için Ücret"
+  },
+  {
+    "ifi": 431,
+    "text": "Sanatçılar için ücret"
+  },
+  {
+    "ifi": 432,
+    "text": "Toplam yatırılan"
+  },
+  {
+    "ifi": 433,
+    "text": "Yatırımım"
+  },
+  {
+    "ifi": 434,
+    "text": "Benim p/ps'im"
+  },
+  {
+    "ifi": 435,
+    "text": "Sonraki ödemeler için kaydedilen ücretler"
+  },
+  {
+    "ifi": 436,
+    "text": "Önceki ödemeler"
+  },
+  {
+    "ifi": 437,
+    "text": "P/PS alın"
+  },
+  {
+    "ifi": 438,
+    "text": "Yatırım"
+  },
+  {
+    "ifi": 439,
+    "text": "Sinhro'yu geri al"
+  },
+  {
+    "ifi": 440,
+    "text": "Almak"
+  },
+  {
+    "ifi": 441,
+    "text": "Uygulamayı aç"
+  },
+  {
+    "ifi": 442,
+    "text": "Mevcut SINHRO oranları"
+  },
+  {
+    "ifi": 443,
+    "text": "Teklifiniz başarıyla yerleştirildi"
+  },
+  {
+    "ifi": 444,
+    "text": "Fatura/yeni fatura"
+  },
+  {
+    "ifi": 445,
+    "text": "Ödeme nedeni"
+  },
+  {
+    "ifi": 446,
+    "text": "Hizmet"
+  },
+  {
+    "ifi": 447,
+    "text": "Mal"
+  },
+  {
+    "ifi": 448,
+    "text": "Kiralama ücreti"
+  },
+  {
+    "ifi": 449,
+    "text": "Borç"
+  },
+  {
+    "ifi": 450,
+    "text": "Kredi geri ödeme"
+  },
+  {
+    "ifi": 451,
+    "text": "Hediye"
+  },
+  {
+    "ifi": 452,
+    "text": "Hayır bağışı"
+  },
+  {
+    "ifi": 453,
+    "text": "Yardım"
+  },
+  {
+    "ifi": 454,
+    "text": "Diğer"
+  },
+  {
+    "ifi": 455,
+    "text": "Mal miktarı"
+  },
+  {
+    "ifi": 456,
+    "text": "Koşullar"
+  },
+  {
+    "ifi": 457,
+    "text": "Bilgi"
+  },
+  {
+    "ifi": 458,
+    "text": "Vergi dahil (ES)"
+  },
+  {
+    "ifi": 459,
+    "text": "Vergi isimleri"
+  },
+  {
+    "ifi": 460,
+    "text": "Virgülle ayrı"
+  },
+  {
+    "ifi": 461,
+    "text": "Göndermek"
+  },
+  {
+    "ifi": 462,
+    "text": "QR kodunu göster"
+  },
+  {
+    "ifi": 463,
+    "text": "Manuel fatura/fatura"
+  },
+  {
+    "ifi": 464,
+    "text": "Reddetmek"
+  },
+  {
+    "ifi": 465,
+    "text": "Ödemek"
+  },
+  {
+    "ifi": 466,
+    "text": "İşçi tarafından iptal edildi"
+  },
+  {
+    "ifi": 467,
+    "text": "Müşteri tarafından reddedildi/iptal edildi"
+  },
+  {
+    "ifi": 468,
+    "text": "Girişli Tut"
+  },
+  {
+    "ifi": 469,
+    "text": "Kullanıcı adınızı seçin"
+  },
+  {
+    "ifi": 470,
+    "text": "İlk, orta, soyadı"
+  },
+  {
+    "ifi": 471,
+    "text": "Sağlanan belgeler"
+  },
+  {
+    "ifi": 472,
+    "text": "Ana fotoğraf"
+  },
+  {
+    "ifi": 473,
+    "text": "Ana fotoğraf olarak ayarlayın"
+  },
+  {
+    "ifi": 474,
+    "text": "Okunmamış"
+  },
+  {
+    "ifi": 475,
+    "text": "Bu grubu terk et"
+  },
+  {
+    "ifi": 476,
+    "text": "Bildirimleri Etkinleştir"
+  },
+  {
+    "ifi": 477,
+    "text": "Bildirimleri devre dışı bırak"
+  },
+  {
+    "ifi": 478,
+    "text": "Arama"
+  },
+  {
+    "ifi": 479,
+    "text": "Posta Kutuları"
+  },
+  {
+    "ifi": 480,
+    "text": "Görüntü ekle"
+  },
+  {
+    "ifi": 481,
+    "text": "Takma ad"
+  },
+  {
+    "ifi": 482,
+    "text": "Set olarak başka kullanıcılar full adınız yerine bu takma adı görür. Adınızı farklı dillerde kullanmanız gerektiğinde yararlı olabilir. İstediğiniz zaman değiştirebilirsiniz"
+  },
+  {
+    "ifi": 483,
+    "text": "Bu posta kutusu için tam adımı ayarlayın"
+  },
+  {
+    "ifi": 484,
+    "text": "Bu posta kutusu için takma adımı ayarlayın"
+  },
+  {
+    "ifi": 485,
+    "text": "Sen"
+  },
+  {
+    "ifi": 486,
+    "text": "iol uygulaması hakkında"
+  },
+  {
+    "ifi": 487,
+    "text": "Gönderen Profili"
+  },
+  {
+    "ifi": 488,
+    "text": "Görüntüyü Genişlet"
+  },
+  {
+    "ifi": 489,
+    "text": "Mesajlaşma sırasında ekranı açık tutun"
+  },
+  {
+    "ifi": 490,
+    "text": "SINHRO detayları açıldığında ekranı açık tutun"
+  },
+  {
+    "ifi": 491,
+    "text": "Bana faturalar/manuel faturalar göndermesine izin ver"
+  },
+  {
+    "ifi": 492,
+    "text": "Sesler"
+  },
+  {
+    "ifi": 493,
+    "text": "Mesaj"
+  },
+  {
+    "ifi": 494,
+    "text": "Ödeme"
+  },
+  {
+    "ifi": 495,
+    "text": "iol-apps'den İş/Siparişler"
+  },
+  {
+    "ifi": 496,
+    "text": "Hiç bir şey"
+  },
+  {
+    "ifi": 497,
+    "text": "Değişiklikler yaptınız ama kaydetmediniz/uygulamadınız. Kapatmadan önce kaydetmeyi ister misiniz?"
+  },
+  {
+    "ifi": 498,
+    "text": "Bulmak"
+  },
+  {
+    "ifi": 499,
+    "text": "Dil ekle"
+  },
+  {
+    "ifi": 500,
+    "text": "<b>NiXeL</b> Gİ'nin dağıtılmış/merkezi olmayan mobil belge akış sistemidir"
+  },
+  {
+    "ifi": 501,
+    "text": "<b> Gizlilik Politikası </b> <br> <br> Terimler ve Kullanım Koşulları"
+  },
+  {
+    "ifi": 502,
+    "text": "Uygulamada derecelendirme"
+  },
+  {
+    "ifi": 503,
+    "text": "Uygulamada"
+  },
+  {
+    "ifi": 504,
+    "text": "icracı olarak"
+  },
+  {
+    "ifi": 505,
+    "text": "müşteri olarak"
+  },
+  {
+    "ifi": 506,
+    "text": "Belge"
+  },
+  {
+    "ifi": 507,
+    "text": "Sağlanan Kişiler"
+  },
+  {
+    "ifi": 508,
+    "text": "{{appName}}, NiXeL ile giriş yapmayı kabul etmeyi ister"
+  },
+  {
+    "ifi": 509,
+    "text": "Veriler inceleme için gönderildi ve moderatörler tarafından onaylandıktan sonra kullanıma sunulacak"
+  },
+  {
+    "ifi": 510,
+    "text": "Asgari ücret"
+  },
+  {
+    "ifi": 511,
+    "text": "Bilgi Kaynağı (örn. Bağlantı/URL)"
+  },
+  {
+    "ifi": 512,
+    "text": "Eğitim"
+  },
+  {
+    "ifi": 513,
+    "text": "Sağlık"
+  },
+  {
+    "ifi": 514,
+    "text": "Akıllı fatura"
+  },
+  {
+    "ifi": 515,
+    "text": "Detaylar"
+  },
+  {
+    "ifi": 516,
+    "text": "Proje/Kâr Hakkı"
+  },
+  {
+    "ifi": 517,
+    "text": "Telif hakkı"
+  },
+  {
+    "ifi": 518,
+    "text": "Müşterilerden Kraliyet"
+  },
+  {
+    "ifi": 519,
+    "text": "Sanatçılardan telif hakkı"
+  },
+  {
+    "ifi": 520,
+    "text": "Benim payım"
+  },
+  {
+    "ifi": 521,
+    "text": "Sadece iol parçalarının yazarları telif hakkı kazanacaktır. Github.com/distributed-digital-nomads adresindeki yazarlara katılabilirsiniz"
+  },
+  {
+    "ifi": 522,
+    "text": "Royalty Paylaşın"
+  },
+  {
+    "ifi": 523,
+    "text": "Uygulama yazarları"
+  },
+  {
+    "ifi": 524,
+    "text": "Bu listede bana göster"
+  },
+  {
+    "ifi": 525,
+    "text": "NiXeL'de bakiyenizde para birimleri yok. Lütfen, Bakiye Ekle/Yeniden Doldurma"
+  },
+  {
+    "ifi": 526,
+    "text": "Listeye para birimi ekle"
+  },
+  {
+    "ifi": 527,
+    "text": "NiXeL bakiyenizi başarılı bir şekilde doldurabilmek için aşağıdaki adımları izleyin"
+  },
+  {
+    "ifi": 528,
+    "text": "Banka hesabınıza karşılık gelen bankacılık başvurusunu açın \"{{bankAccAlias}}\". Bankacılık başvurusunu kullanmıyorsanız, bu banka hesabının en yakın şubesine gitmelisiniz."
+  },
+  {
+    "ifi": 529,
+    "text": "Bankacılık uygulamasında yeni bir banka transferi açın. Banka hesabı para biriminiz NiXeL Top-Up para biriminden farklıysa, banka başvurunuzda yeni bir uluslararası transfer açın. Bankacılık başvurusunda istenen banka ayrıntılarını aşağıdaki listeden alın. (Bankanıza giderseniz, aşağıdaki listeyi bankanızın operatörüne sağlayın)"
+  },
+  {
+    "ifi": 530,
+    "text": "NiXeL'deki bakiyenize aktarımın hatasız kredilendirilmesi için, alıcı için tam olarak referans belirlemek önemlidir."
+  },
+  {
+    "ifi": 531,
+    "text": "Bu aktarımı NiXeL'deki bakiyenize yönlendirme konusundaki fikrinizi değiştirirseniz, aşağıdaki düğmeyi tıklayın"
+  },
+  {
+    "ifi": 532,
+    "text": "Kabul edilmiş"
+  },
+  {
+    "ifi": 533,
+    "text": "Dengeye eklendi"
+  },
+  {
+    "ifi": 534,
+    "text": "Hesap Sahibi/Alıcı/Organizasyon"
+  },
+  {
+    "ifi": 535,
+    "text": "Ödeme kategorisini bağış veya hayır kurumu olarak belirtmelisiniz, çünkü NiXeL bakiyenizde para birimini trenler verdiğiniz için mal veya hizmet satın almazsınız. NiXeL, dijital göçebeler için ticari olmayan bir uygulamadır ve finansal hizmetler sağlamaz. Fonları NiXeL bakiyesinden banka hesaplarınıza çevirebilirsiniz. Bu senin gelirin"
+  },
+  {
+    "ifi": 536,
+    "text": "Uygulama açık olmadığında push bildirimleri almayacaksınız"
+  },
+  {
+    "ifi": 537,
+    "text": "Belgeyi silme"
+  },
+  {
+    "ifi": 538,
+    "text": "Galeriden"
+  },
+  {
+    "ifi": 539,
+    "text": "Fotoğraf çekmek"
+  },
+  {
+    "ifi": 540,
+    "text": "Ayarlanan zaman"
+  },
+  {
+    "ifi": 541,
+    "text": "Tarihi Seçin"
+  },
+  {
+    "ifi": 542,
+    "text": "Grup Sohbet Kuralları"
+  },
+  {
+    "ifi": 543,
+    "text": "Olarak göndermek"
+  },
+  {
+    "ifi": 544,
+    "text": "Bu mesajı diğer kullanıcılardan gizle"
+  },
+  {
+    "ifi": 545,
+    "text": "Bu kullanıcının tüm mesajlarını diğer kullanıcılardan gizle"
+  },
+  {
+    "ifi": 546,
+    "text": "Kullanıcının bu sohbete mesaj göndermesine izin vermeyin"
+  },
+  {
+    "ifi": 547,
+    "text": "Yasaktan Önce Sohbet Kuralları Fren notu"
+  },
+  {
+    "ifi": 548,
+    "text": "Kitle fonlaması"
+  },
+  {
+    "ifi": 549,
+    "text": "İş sigortası"
+  },
+  {
+    "ifi": 550,
+    "text": "Hayır kurumu"
+  },
+  {
+    "ifi": 551,
+    "text": "Dış İşlemler Operatörü"
+  },
+  {
+    "ifi": 552,
+    "text": "Yeniden doldurmayı bekliyor"
+  },
+  {
+    "ifi": 553,
+    "text": "Para çekme bekleniyor"
+  },
+  {
+    "ifi": 554,
+    "text": "Sinhrobot tarafından işlendi"
+  },
+  {
+    "ifi": 555,
+    "text": "Kısmen yapıldı"
+  },
+  {
+    "ifi": 556,
+    "text": "SINHRO Sat/Satın Al"
+  },
+  {
+    "ifi": 557,
+    "text": "Kilitli"
+  },
+  {
+    "ifi": 558,
+    "text": "Açılmış"
+  },
+  {
+    "ifi": 559,
+    "text": "Reddedildi/geri gönderildi"
+  },
+  {
+    "ifi": 560,
+    "text": "Crowdfund projesini açık"
+  },
+  {
+    "ifi": 561,
+    "text": "Crowdfund projesi"
+  },
+  {
+    "ifi": 562,
+    "text": "iol ağına bağlanamadı. Birkaç saniye sonra deneyecek .."
+  },
+  {
+    "ifi": 563,
+    "text": "Lütfen bağlantı için bekleyin!"
+  },
+  {
+    "ifi": 564,
+    "text": "https://youtu.be/Vr5TZUcp-dA"
+  },
+  {
+    "ifi": 565,
+    "text": "Kendi uygulamanızı ekleyin"
+  },
+  {
+    "ifi": 566,
+    "text": "Yapılandırmalarınızla uygulamanızı oluşturmak için masaüstü uygulaması iol-Builder kullanın. https://www.youtube.com/@nixelapp/playlists adresindeki talimatları izleyin."
+  },
+  {
+    "ifi": 567,
+    "text": "Basit mod"
+  },
+  {
+    "ifi": 568,
+    "text": "Kullanım Video Kılavuzları"
+  },
+  {
+    "ifi": 569,
+    "text": "Özellik vizyonunu tekniklere yönlendirecek, ılımlı ve açıklayacak bu özelliğin bir ürün sahibi veya yazarı arıyoruz. Lütfen, Kullanıcı Adı Diamo'ya mesaj"
+  },
+  {
+    "ifi": 570,
+    "text": "Dijital kartlar"
+  },
+  {
+    "ifi": 571,
+    "text": "Bu seçenek şu anda kullanılamıyor"
+  },
+  {
+    "ifi": 572,
+    "text": "Bu özellik RC (Sürüm Adayı veya Açık Test) sürümlerinde mevcut değildir. {{version}} sürümünü kullanıyorsunuz. Herhangi bir sorunuz varsa lütfen \"SSS ve Destek\" kullanın"
+  },
+  {
+    "ifi": 573,
+    "text": "Kabul etmek"
+  },
+  {
+    "ifi": 574,
+    "text": "Dijital göçebe"
+  },
+  {
+    "ifi": 575,
+    "text": "Cihazınız NFC'yi desteklemiyor"
+  },
+  {
+    "ifi": 576,
+    "text": "{{appName}} iol uygulaması bu özellik için cihazda gereklidir, ancak yüklenmez. Lütfen yükleyin ve tekrar deneyin"
+  },
+  {
+    "ifi": 577,
+    "text": "Bir App Store Seçin"
+  },
+  {
+    "ifi": 578,
+    "text": "Skorlar"
+  },
+  {
+    "ifi": 579,
+    "text": "Takım"
+  },
+  {
+    "ifi": 580,
+    "text": "E -posta, bu kullanıcının şifre kurtarma için ayarlanmış e -postayla eşleşmiyor"
+  },
+  {
+    "ifi": 581,
+    "text": "E -postaya şifre sıfırlama kodu ve kısa talimat içeren bir e -posta gönderildi. Lütfen e -posta gelen kutunuzu kontrol edin. 10 dakika içinde e -posta yoksa spam ve önemsiz klasörleri kontrol edin"
+  },
+  {
+    "ifi": 582,
+    "text": "Parola kurtarma için"
+  },
+  {
+    "ifi": 583,
+    "text": "Ay"
+  },
+  {
+    "ifi": 584,
+    "text": "Asgari ücreti belirleyin (IOU oranı teklifi)"
+  },
+  {
+    "ifi": 585,
+    "text": "Ülke ISO 2, 3 kodları"
+  },
+  {
+    "ifi": 586,
+    "text": "Ülke para birimi"
+  },
+  {
+    "ifi": 587,
+    "text": "Ülke dilleri (kodlar)"
+  },
+  {
+    "ifi": 588,
+    "text": "IOU senedi oranı"
+  },
+  {
+    "ifi": 800,
+    "text": "https://raw.githubusercontent.com/distributed-digiital-nomads/space.diamo.iol.NiXeL-distr/main/docs/en/ppsinfo.htm",
+    "bigText": true,
+    "notes": "from 800 for documents bigtext links"
+  },
+  {
+    "ifi": 1000,
+    "text": "3-50 Sembol A-Z ve 0-9"
+  },
+  {
+    "ifi": 1001,
+    "text": "8-50 sembol"
+  },
+  {
+    "ifi": 1002,
+    "text": "Tekrar denemek ister misin?"
+  },
+  {
+    "ifi": 1003,
+    "text": "Lütfen, uygulama ayarlarında bir PIN ayarlayın"
+  },
+  {
+    "ifi": 1004,
+    "text": "Üzengide şifreleme/şifresini çözme"
+  },
+  {
+    "ifi": 1005,
+    "text": "Parola ve şifre onayı aynı değil"
+  },
+  {
+    "ifi": 1006,
+    "text": "Saniyeler kaldı"
+  },
+  {
+    "ifi": 1007,
+    "text": "Captcha ifadesi eşittir"
+  },
+  {
+    "ifi": 1008,
+    "text": "Turing Testi"
+  },
+  {
+    "ifi": 1009,
+    "text": "Çok Şifre Olmalı"
+  },
+  {
+    "ifi": 1010,
+    "text": "Uygulamanın \"Şartlar ve Kullanım Koşulları\" nı kabul ettiğiniz uygulamaya kaydolma"
+  },
+  {
+    "ifi": 1011,
+    "text": "İkinci ad"
+  },
+  {
+    "ifi": 1012,
+    "text": "İsim"
+  },
+  {
+    "ifi": 1013,
+    "text": "Soyadı"
+  },
+  {
+    "ifi": 1014,
+    "text": "Doğum günü"
+  },
+  {
+    "ifi": 1015,
+    "text": "Senin hakkında"
+  },
+  {
+    "ifi": 1016,
+    "text": "Resmi ile en az bir kimlik belgesi gerektirir. Bölüm verileri çözülmez."
+  },
+  {
+    "ifi": 1017,
+    "text": "Ek bilgi (numara vb.)"
+  },
+  {
+    "ifi": 1018,
+    "text": "Belge adı"
+  },
+  {
+    "ifi": 1019,
+    "text": "Doküman fotoğrafları"
+  },
+  {
+    "ifi": 1020,
+    "text": "Diğer kullanıcılara göster"
+  },
+  {
+    "ifi": 1021,
+    "text": "Şifre Kurtarma Soruları"
+  },
+  {
+    "ifi": 1022,
+    "text": "Lütfen 3 soru bul ve onlara cevap verin. Hesabınızı kurtarmak zorunda kalırsanız, örneğin şifreyi unuttuğunuzda bunlara ihtiyacınız olabilir. Gerekli bölüm."
+  },
+  {
+    "ifi": 1023,
+    "text": "E-postanızı giriniz"
+  },
+  {
+    "ifi": 1024,
+    "text": "E -postanızı profilinizin şifre kurtarma bölümünde ayarlamadınız"
+  },
+  {
+    "ifi": 1025,
+    "text": "Fotoğraflarınızı"
+  },
+  {
+    "ifi": 1026,
+    "text": "Lütfen gerekli tüm bölümleri ve alanları doldurun"
+  },
+  {
+    "ifi": 1027,
+    "text": "Değer"
+  },
+  {
+    "ifi": 1028,
+    "text": "CAPTCHA çözümünü girerek veri değerlerini veya eylemini onaylayın"
+  },
+  {
+    "ifi": 1029,
+    "text": "Bir mesaj yazın"
+  },
+  {
+    "ifi": 1030,
+    "text": "Gönderilmiş"
+  },
+  {
+    "ifi": 1031,
+    "text": "Görülen"
+  },
+  {
+    "ifi": 1032,
+    "text": "Son"
+  },
+  {
+    "ifi": 1033,
+    "text": "Bu kullanıcıdan mesajlar hakkında bildirim almayacaksınız. Eyleminizi onaylıyor musunuz?"
+  },
+  {
+    "ifi": 1034,
+    "text": "Bu sohbeti sileceksin. Bu, kullanıcının size mesaj gönderemeyeceği anlamına gelir. Kullanıcının profilinden bir mesaj göndererek sohbeti geri yükleyebileceksiniz. Eylemi onaylıyor musunuz?"
+  },
+  {
+    "ifi": 1035,
+    "text": "Kullanıcı sohbetini onun için sildi çünkü kullanıcıya mesaj atamaz/arayamazsınız."
+  },
+  {
+    "ifi": 1036,
+    "text": "Henüz veri yok ..."
+  },
+  {
+    "ifi": 1037,
+    "text": "{{providerName}} uygulamasında {{userName}} uygulaması hakkında {{providerName}}"
+  },
+  {
+    "ifi": 1038,
+    "text": "Bu sohbetteki mesajlar hakkında bildirim almayacaksınız. Eyleminizi onaylıyor musunuz?"
+  },
+  {
+    "ifi": 1039,
+    "text": "Bu gruba üyeliğinizi kapatacaksınız. Eylemi onaylıyor musunuz?"
+  },
+  {
+    "ifi": 1040,
+    "text": "{{dt}} kadar parola kurtarma sizin için kilitlendi"
+  },
+  {
+    "ifi": 1041,
+    "text": "Bu soruya hazırladığınız bir cevap verin"
+  },
+  {
+    "ifi": 1042,
+    "text": "Cevap, kullanıcı tarafından bu soru için oluşturulan cevaba eşit değildir. Tekrar deneyin. {{attemptsLeft}} tüm sorular için kalan girişimler"
+  },
+  {
+    "ifi": 1043,
+    "text": "Tebrikler, yeni şifreniz {{pw}}. Oturum açtıktan sonra uygulama ayarlarında değiştirebilirsiniz"
+  },
+  {
+    "ifi": 1044,
+    "text": "Uygulama Kilit Pimi. Bu, hesabınızı güvence altına almak için ek bir özelliktir. App Lock'u kullandığınızda, hala hesabınızla birlikte oturum açın ve kişisel bildirimler alırsınız. Oturum açtığınızda kişisel bildirimler almazsınız"
+  },
+  {
+    "ifi": 1045,
+    "text": "Doğru pimi girin"
+  },
+  {
+    "ifi": 1046,
+    "text": "Okuduktan sonra posta kutusu bildirimini sil"
+  },
+  {
+    "ifi": 1047,
+    "text": "Bu günden sonra yeniden logine ihtiyacınız olacak"
+  },
+  {
+    "ifi": 1048,
+    "text": "Girişli Kalın (Günler)"
+  },
+  {
+    "ifi": 1049,
+    "text": "NiXeL, kart bilgilerinizi veritabanında veya arka uçta kaydetmez. NiXeL'deki tüm ödemeler Google Pay, Apple Pay, Stripe vb. Gibi resmi toplayıcılar tarafından işlenir."
+  },
+  {
+    "ifi": 1050,
+    "text": "Gelir"
+  },
+  {
+    "ifi": 1051,
+    "text": "Sonuç"
+  },
+  {
+    "ifi": 1052,
+    "text": "İşlem numarası."
+  },
+  {
+    "ifi": 1053,
+    "text": "Tarih, saat"
+  },
+  {
+    "ifi": 1054,
+    "text": "İşlem tipi"
+  },
+  {
+    "ifi": 1055,
+    "text": "Ödeme yöntemi"
+  },
+  {
+    "ifi": 1056,
+    "text": "Miktar"
+  },
+  {
+    "ifi": 1057,
+    "text": "Para birimi"
+  },
+  {
+    "ifi": 1058,
+    "text": "Ödeme yapan kimse"
+  },
+  {
+    "ifi": 1059,
+    "text": "Alacaklı"
+  },
+  {
+    "ifi": 1060,
+    "text": "Tanım"
+  },
+  {
+    "ifi": 1061,
+    "text": "ilave bilgi"
+  },
+  {
+    "ifi": 1062,
+    "text": "iol dışında"
+  },
+  {
+    "ifi": 1063,
+    "text": "İnternet bağlantısını kontrol edin"
+  },
+  {
+    "ifi": 1064,
+    "text": "Fotoğrafı kaldıramadım. Tekrar deneyin"
+  },
+  {
+    "ifi": 1065,
+    "text": "NiXeL ile başarısız giriş"
+  },
+  {
+    "ifi": 1066,
+    "text": "Kayıtlı oldunuz ve şimdi giriş yapabilirsiniz."
+  },
+  {
+    "ifi": 1067,
+    "text": "Bu sohbeti okuyamazsınız. Erişim seviyesi kodunuz: {{chat_access_level}}"
+  },
+  {
+    "ifi": 1068,
+    "text": "Bu sohbet sizin için kilitli. Sebep kaldığı gibi: \"{{lock_descr}}\""
+  },
+  {
+    "ifi": 1069,
+    "text": "Yeni Docbox Oluşturma"
+  },
+  {
+    "ifi": 1300,
+    "text": "Ocak"
+  },
+  {
+    "ifi": 1301,
+    "text": "Şubat"
+  },
+  {
+    "ifi": 1302,
+    "text": "Mart"
+  },
+  {
+    "ifi": 1303,
+    "text": "Nisan"
+  },
+  {
+    "ifi": 1304,
+    "text": "Mayıs"
+  },
+  {
+    "ifi": 1305,
+    "text": "Haziran"
+  },
+  {
+    "ifi": 1306,
+    "text": "Temmuz"
+  },
+  {
+    "ifi": 1307,
+    "text": "Ağustos"
+  },
+  {
+    "ifi": 1308,
+    "text": "Eylül"
+  },
+  {
+    "ifi": 1309,
+    "text": "Ekim"
+  },
+  {
+    "ifi": 1310,
+    "text": "Kasım"
+  },
+  {
+    "ifi": 1311,
+    "text": "Aralık"
+  },
+  {
+    "ifi": 1312,
+    "text": "şifre değiştirildi"
+  },
+  {
+    "ifi": 1313,
+    "text": "Emirler"
+  },
+  {
+    "ifi": 1314,
+    "text": "Aktif Siparişler"
+  },
+  {
+    "ifi": 1315,
+    "text": "Uygulama"
+  },
+  {
+    "ifi": 1316,
+    "text": "Başlangıç"
+  },
+  {
+    "ifi": 1317,
+    "text": "Yeni"
+  },
+  {
+    "ifi": 1318,
+    "text": "Aktif"
+  },
+  {
+    "ifi": 1319,
+    "text": "Aktif / Meşgul"
+  },
+  {
+    "ifi": 1320,
+    "text": "Kapalı / silindi"
+  },
+  {
+    "ifi": 1321,
+    "text": "SmartConctract"
+  },
+  {
+    "ifi": 1322,
+    "text": "Başlamadan önce iptal edildi"
+  },
+  {
+    "ifi": 1323,
+    "text": "İcracı"
+  },
+  {
+    "ifi": 1324,
+    "text": "Performans sırasında iptal edildi"
+  },
+  {
+    "ifi": 1325,
+    "text": "Bitmiş"
+  },
+  {
+    "ifi": 2000,
+    "text": "Çözümler Mimarı",
+    "note": "from 2000 to 2299 are role/specialisation names"
+  },
+  {
+    "ifi": 2001,
+    "text": "Yazılım geliştirici"
+  },
+  {
+    "ifi": 2002,
+    "text": "Akademisyen"
+  },
+  {
+    "ifi": 2003,
+    "text": "Mucit"
+  },
+  {
+    "ifi": 2004,
+    "text": "Bankacılık"
+  },
+  {
+    "ifi": 2005,
+    "text": "Kredi uzmanı"
+  },
+  {
+    "ifi": 2006,
+    "text": "Muhasebe"
+  },
+  {
+    "ifi": 2007,
+    "text": "Gönüllü"
+  },
+  {
+    "ifi": 2008,
+    "text": "UI test cihazı"
+  },
+  {
+    "ifi": 2009,
+    "text": "Kanlı tutkunu"
+  },
+  {
+    "ifi": 2010,
+    "text": "Finans"
+  },
+  {
+    "ifi": 2011,
+    "text": "Kanun"
+  },
+  {
+    "ifi": 2012,
+    "text": "UI Yerelleştirme"
+  },
+  {
+    "ifi": 2013,
+    "text": "Hayır kurumu"
+  },
+  {
+    "ifi": 2014,
+    "text": "Yerelleştirme Yöneticisi"
+  },
+  {
+    "ifi": 2015,
+    "text": "Danışman"
+  },
+  {
+    "ifi": 2016,
+    "text": "Yerel muhasebeci"
+  },
+  {
+    "ifi": 2017,
+    "text": "Ön uç geliştirici"
+  },
+  {
+    "ifi": 2018,
+    "text": "Mobil Uygulama Geliştiricisi"
+  },
+  {
+    "ifi": 2300,
+    "text": "Kullanıcı",
+    "note": "from 2300 to 2399 chat roles are role/specialisation names"
+  },
+  {
+    "ifi": 2301,
+    "text": "Kullanıcıların Desteği"
+  },
+  {
+    "ifi": 2302,
+    "text": "Teknik Destek"
+  },
+  {
+    "ifi": 2303,
+    "text": "Moderatör"
+  },
+  {
+    "ifi": 2304,
+    "text": "Finansal destek"
+  },
+  {
+    "ifi": 2305,
+    "text": "Yasal destek"
+  },
+  {
+    "ifi": 2306,
+    "text": "Sistem yöneticisi"
+  },
+  {
+    "ifi": 2307,
+    "text": "Yazılım Mühendisi"
+  },
+  {
+    "ifi": 2308,
+    "text": "Mimar"
+  },
+  {
+    "ifi": 2400,
+    "text": "Configuring in the iolBuilder",
+    "note": "from 2400 2499 iol app states"
+  },
+  {
+    "ifi": 2401,
+    "text": "Saved in the iolBuilder"
+  },
+  {
+    "ifi": 2402,
+    "text": ""
+  },
+  {
+    "ifi": 2403,
+    "text": ""
+  },
+  {
+    "ifi": 2404,
+    "text": ""
+  },
+  {
+    "ifi": 2405,
+    "text": "Generated in the iolBuilder"
+  },
+  {
+    "ifi": 2406,
+    "text": "Under development"
+  },
+  {
+    "ifi": 2407,
+    "text": ""
+  },
+  {
+    "ifi": 2408,
+    "text": ""
+  },
+  {
+    "ifi": 2409,
+    "text": ""
+  },
+  {
+    "ifi": 2410,
+    "text": "Internal test"
+  },
+  {
+    "ifi": 2411,
+    "text": ""
+  },
+  {
+    "ifi": 2412,
+    "text": ""
+  },
+  {
+    "ifi": 2413,
+    "text": ""
+  },
+  {
+    "ifi": 2414,
+    "text": ""
+  },
+  {
+    "ifi": 2415,
+    "text": "Available unsigned APK. Public test"
+  },
+  {
+    "ifi": 2416,
+    "text": "Available signed APK. Public test"
+  },
+  {
+    "ifi": 2417,
+    "text": "Available in Google/App store. Early access"
+  },
+  {
+    "ifi": 2418,
+    "text": ""
+  },
+  {
+    "ifi": 2419,
+    "text": ""
+  },
+  {
+    "ifi": 2420,
+    "text": "Available in Google/App store"
+  },
+  {
+    "ifi": 2500,
+    "text": "Kart sistemi",
+    "notes": "from 2500 to 2899 cards related"
+  },
+  {
+    "ifi": 2501,
+    "text": "Emredilmiş"
+  },
+  {
+    "ifi": 2502,
+    "text": "Reddetti"
+  },
+  {
+    "ifi": 2503,
+    "text": "Veriliş"
+  },
+  {
+    "ifi": 2504,
+    "text": "Aktif"
+  },
+  {
+    "ifi": 2505,
+    "text": "Dondurulmuş"
+  },
+  {
+    "ifi": 2506,
+    "text": "Yerlebir edilmiş"
+  },
+  {
+    "ifi": 2507,
+    "text": "Günü geçmiş"
+  },
+  {
+    "ifi": 2508,
+    "text": "Yeni kart ver"
+  },
+  {
+    "ifi": 2509,
+    "text": "Dijital kartlarla çevrimiçi ödemeler yapabilirsiniz, Google Pay, Apple Pay vb."
+  },
+  {
+    "ifi": 2510,
+    "text": "İhraç için ücret"
+  },
+  {
+    "ifi": 2511,
+    "text": "Yıllık ücret"
+  },
+  {
+    "ifi": 2512,
+    "text": "CVC/CVV göster"
+  },
+  {
+    "ifi": 2513,
+    "text": "Donmak"
+  },
+  {
+    "ifi": 2514,
+    "text": "Çözmek"
+  },
+  {
+    "ifi": 2515,
+    "text": "Kart Yok"
+  },
+  {
+    "ifi": 2516,
+    "text": "Dijital kartlarımız, iç denge fsp ile farklı FSP tarafından sunulmaktadır. FSP'ler arasındaki transferler 5 bankacılık gününe kadar sürebilir"
+  }
+]

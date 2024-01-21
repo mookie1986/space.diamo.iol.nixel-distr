@@ -1,143 +1,115 @@
 [
   {
     "ifi": 0,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 1,
-    "text": "NiXeL",
-    "bigText": false
+    "text": "NiXeL"
   },
   {
     "ifi": 2,
-    "text": "Giriş yapmak",
-    "bigText": false
+    "text": "Giriş yapmak"
   },
   {
     "ifi": 3,
-    "text": "Profil",
-    "bigText": false
+    "text": "Profil"
   },
   {
     "ifi": 4,
-    "text": "Finans",
-    "bigText": false
+    "text": "Finans"
   },
   {
     "ifi": 5,
-    "text": "QR kullanın",
-    "bigText": false
+    "text": "QR kullanın"
   },
   {
     "ifi": 6,
-    "text": "Yazışma",
-    "bigText": false
+    "text": "Yazışma"
   },
   {
     "ifi": 7,
-    "text": "Bildirimler",
-    "bigText": false
+    "text": "Bildirimler"
   },
   {
     "ifi": 8,
-    "text": "Uygulama ayarları",
-    "bigText": false
+    "text": "Uygulama ayarları"
   },
   {
     "ifi": 9,
-    "text": "SSS ve Destek",
-    "bigText": false
+    "text": "SSS ve Destek"
   },
   {
     "ifi": 10,
-    "text": "Çıkış Yap",
-    "bigText": false
+    "text": "Çıkış Yap"
   },
   {
     "ifi": 11,
-    "text": "Kullanıcı adı",
-    "bigText": false
+    "text": "Kullanıcı adı"
   },
   {
     "ifi": 12,
-    "text": "Şifre",
-    "bigText": false
+    "text": "Şifre"
   },
   {
     "ifi": 13,
-    "text": "Üye olmak",
-    "bigText": false
+    "text": "Üye olmak"
   },
   {
     "ifi": 14,
-    "text": "Uygulama Dili",
-    "bigText": false
+    "text": "Uygulama Dili"
   },
   {
     "ifi": 15,
-    "text": "Şifreyi tekrar girin",
-    "bigText": false
+    "text": "Şifreyi tekrar girin"
   },
   {
     "ifi": 16,
-    "text": "Ana ekran",
-    "bigText": false
+    "text": "Ana ekran"
   },
   {
     "ifi": 17,
-    "text": "Kullanıcı adına göre kullanıcı bulun",
-    "bigText": false
+    "text": "Kullanıcı adına göre kullanıcı bulun"
   },
   {
     "ifi": 18,
-    "text": "PIN",
-    "bigText": false
+    "text": "PIN"
   },
   {
     "ifi": 19,
-    "text": "4 hane",
-    "bigText": false
+    "text": "4 hane"
   },
   {
     "ifi": 20,
-    "text": "Kilidini aç",
-    "bigText": false
+    "text": "Kilidini aç"
   },
   {
     "ifi": 21,
-    "text": "1'den 40'a",
-    "bigText": false
+    "text": "1'den 40'a"
   },
   {
     "ifi": 22,
-    "text": "Günler",
-    "bigText": false
+    "text": "Günler"
   },
   {
     "ifi": 23,
-    "text": "Şifre değiştir",
-    "bigText": false
+    "text": "Şifre değiştir"
   },
   {
     "ifi": 24,
-    "text": "Mevcut Şifre",
-    "bigText": false
+    "text": "Mevcut Şifre"
   },
   {
     "ifi": 25,
-    "text": "Yeni Şifre",
-    "bigText": false
+    "text": "Yeni Şifre"
   },
   {
     "ifi": 26,
-    "text": "İç denge",
-    "bigText": false
+    "text": "İç denge"
   },
   {
     "ifi": 27,
-    "text": "<b> iol </b> Küresel bir işsizlik sorunu çözümü olarak",
-    "bigText": false
+    "text": "<b> iol </b> Küresel bir işsizlik sorunu çözümü olarak"
   },
   {
     "ifi": 28,
@@ -146,643 +118,515 @@
   },
   {
     "ifi": 29,
-    "text": "Kaydolmadan önce \"Şartlar ve Kullanım Koşulları\" nı dikkatlice okuyun",
-    "bigText": false
+    "text": "Kaydolmadan önce \"Şartlar ve Kullanım Koşulları\" nı dikkatlice okuyun"
   },
   {
     "ifi": 30,
-    "text": "\"Terim ve kullanım koşullarını\" kabul ediyorum",
-    "bigText": false
+    "text": "\"Terim ve kullanım koşullarını\" kabul ediyorum"
   },
   {
     "ifi": 31,
-    "text": "Sözleşmenin içeriği",
-    "bigText": false
+    "text": "Sözleşmenin içeriği"
   },
   {
     "ifi": 32,
-    "text": "NiXeL'de yerel para birimi",
-    "bigText": false
+    "text": "NiXeL'de yerel para birimi"
   },
   {
     "ifi": 33,
-    "text": "Nakit ile yerel para birimi",
-    "bigText": false
+    "text": "Nakit ile yerel para birimi"
   },
   {
     "ifi": 34,
-    "text": "NiXeL'de iou",
-    "bigText": false
+    "text": "NiXeL'de iou"
   },
   {
     "ifi": 35,
-    "text": "NiXeL'de Sinhro",
-    "bigText": false
+    "text": "NiXeL'de Sinhro"
   },
   {
     "ifi": 36,
-    "text": "NiXeL uygulamasının yeni bir baskısı mevcuttur. Lütfen, uygulamayı güncelleyin",
-    "bigText": false
+    "text": "NiXeL uygulamasının yeni bir baskısı mevcuttur. Lütfen, uygulamayı güncelleyin"
   },
   {
     "ifi": 99,
-    "text": "Özellik yakında geliyor",
-    "bigText": false
+    "text": "Özellik yakında geliyor"
   },
   {
     "ifi": 100,
-    "text": "Evet",
-    "bigText": false
+    "text": "Evet"
   },
   {
     "ifi": 101,
-    "text": "HAYIR",
-    "bigText": false
+    "text": "HAYIR"
   },
   {
     "ifi": 102,
-    "text": "TAMAM",
-    "bigText": false
+    "text": "TAMAM"
   },
   {
     "ifi": 103,
-    "text": "İptal etmek",
-    "bigText": false
+    "text": "İptal etmek"
   },
   {
     "ifi": 104,
-    "text": "iol'ye kaydolun",
-    "bigText": false
+    "text": "iol'ye kaydolun"
   },
   {
     "ifi": 105,
-    "text": "Şifremi Unuttum",
-    "bigText": false
+    "text": "Şifremi Unuttum"
   },
   {
     "ifi": 106,
-    "text": "Hata",
-    "bigText": false
+    "text": "Hata"
   },
   {
     "ifi": 107,
-    "text": "Belge Ekle",
-    "bigText": false
+    "text": "Belge Ekle"
   },
   {
     "ifi": 108,
-    "text": "Tamamlamak",
-    "bigText": false
+    "text": "Tamamlamak"
   },
   {
     "ifi": 109,
-    "text": "Kaydetmek",
-    "bigText": false
+    "text": "Kaydetmek"
   },
   {
     "ifi": 110,
-    "text": "Uygula",
-    "bigText": false
+    "text": "Uygula"
   },
   {
     "ifi": 111,
-    "text": "Bu alan gereklidir",
-    "bigText": false
+    "text": "Bu alan gereklidir"
   },
   {
     "ifi": 112,
-    "text": "Kişi ekle",
-    "bigText": false
+    "text": "Kişi ekle"
   },
   {
     "ifi": 113,
-    "text": "Tip",
-    "bigText": false
+    "text": "Tip"
   },
   {
     "ifi": 114,
-    "text": "Şifre kurtarma",
-    "bigText": false
+    "text": "Şifre kurtarma"
   },
   {
     "ifi": 115,
-    "text": "Profilinizde kurulan 3 soruya cevap vermelisiniz. 3 Yanlış Cevaplar 7 Gün Şifre Kurtarma'nın Engellenmesine Neden Olur",
-    "bigText": false
+    "text": "Profilinizde kurulan 3 soruya cevap vermelisiniz. 3 Yanlış Cevaplar 7 Gün Şifre Kurtarma'nın Engellenmesine Neden Olur"
   },
   {
     "ifi": 116,
-    "text": "Sonraki",
-    "bigText": false
+    "text": "Sonraki"
   },
   {
     "ifi": 117,
-    "text": "Yeniden doldurmak",
-    "bigText": false
+    "text": "Yeniden doldurmak"
   },
   {
     "ifi": 118,
-    "text": "Miktar",
-    "bigText": false
+    "text": "Miktar"
   },
   {
     "ifi": 119,
-    "text": "Kart numarası (16 Didgits)",
-    "bigText": false
+    "text": "Kart numarası (16 Didgits)"
   },
   {
     "ifi": 120,
-    "text": "Geçerli",
-    "bigText": false
+    "text": "Geçerli"
   },
   {
     "ifi": 121,
-    "text": "Ay",
-    "bigText": false
+    "text": "Ay"
   },
   {
     "ifi": 122,
-    "text": "Yıl",
-    "bigText": false
+    "text": "Yıl"
   },
   {
     "ifi": 123,
-    "text": "CVC/CVV (3 veya 4 didgit)",
-    "bigText": false
+    "text": "CVC/CVV (3 veya 4 didgit)"
   },
   {
     "ifi": 124,
-    "text": "Geçersiz değer (ler)",
-    "bigText": false
+    "text": "Geçersiz değer (ler)"
   },
   {
     "ifi": 125,
-    "text": "Kartta isim",
-    "bigText": false
+    "text": "Kartta isim"
   },
   {
     "ifi": 126,
-    "text": "Gelecekteki ödemeler için kartı kaydedin",
-    "bigText": false
+    "text": "Gelecekteki ödemeler için kartı kaydedin"
   },
   {
     "ifi": 127,
-    "text": "Kaydedilmiş Kartlar",
-    "bigText": false
+    "text": "Kaydedilmiş Kartlar"
   },
   {
     "ifi": 128,
-    "text": "Başka bir kart kullanın",
-    "bigText": false
+    "text": "Başka bir kart kullanın"
   },
   {
     "ifi": 129,
-    "text": "Başarıyla",
-    "bigText": false
+    "text": "Başarıyla"
   },
   {
     "ifi": 130,
-    "text": "Silmek",
-    "bigText": false
+    "text": "Silmek"
   },
   {
     "ifi": 131,
-    "text": "Kabul etmek",
-    "bigText": false
+    "text": "Kabul etmek"
   },
   {
     "ifi": 132,
-    "text": "Aynı fikirde olmamak",
-    "bigText": false
+    "text": "Aynı fikirde olmamak"
   },
   {
     "ifi": 133,
-    "text": "Oturum açın: {{appName}}",
-    "bigText": false
+    "text": "Oturum açın: {{appName}}"
   },
   {
     "ifi": 134,
-    "text": "Atlamak",
-    "bigText": false
+    "text": "Atlamak"
   },
   {
     "ifi": 135,
-    "text": "birkaç kelime...",
-    "bigText": false
+    "text": "birkaç kelime..."
   },
   {
     "ifi": 136,
-    "text": "Araç fotoğraflarınız (arabalar, kamyonlar, matkaplar vb.)",
-    "bigText": false
+    "text": "Araç fotoğraflarınız (arabalar, kamyonlar, matkaplar vb.)"
   },
   {
     "ifi": 137,
-    "text": "Aletler",
-    "bigText": false
+    "text": "Aletler"
   },
   {
     "ifi": 138,
-    "text": "Geçersiz veri. Hesabınızı etkinleştirmek için bu bölüm/slayt gereklidir",
-    "bigText": false
+    "text": "Geçersiz veri. Hesabınızı etkinleştirmek için bu bölüm/slayt gereklidir"
   },
   {
     "ifi": 139,
-    "text": "Kapalı",
-    "bigText": false
+    "text": "Kapalı"
   },
   {
     "ifi": 140,
-    "text": "Yeni şifreyi tekrar girin",
-    "bigText": false
+    "text": "Yeni şifreyi tekrar girin"
   },
   {
     "ifi": 141,
-    "text": "Çok yeni şifre olmalı",
-    "bigText": false
+    "text": "Çok yeni şifre olmalı"
   },
   {
     "ifi": 204,
-    "text": "Hoş geldin",
-    "bigText": false
+    "text": "Hoş geldin"
   },
   {
     "ifi": 205,
-    "text": "Şartlar ve kullanım koşulları",
-    "bigText": false
+    "text": "Şartlar ve kullanım koşulları"
   },
   {
     "ifi": 206,
-    "text": "Dil seçiniz",
-    "bigText": false
+    "text": "Dil seçiniz"
   },
   {
     "ifi": 207,
-    "text": "Profil görünümü",
-    "bigText": false
+    "text": "Profil görünümü"
   },
   {
     "ifi": 208,
-    "text": "Profili Düzenle",
-    "bigText": false
+    "text": "Profili Düzenle"
   },
   {
     "ifi": 209,
-    "text": "Bir Para Birimi Seçin",
-    "bigText": false
+    "text": "Bir Para Birimi Seçin"
   },
   {
     "ifi": 210,
-    "text": "Nasıl oynamak istersin?",
-    "bigText": false
+    "text": "Nasıl oynamak istersin?"
   },
   {
     "ifi": 211,
-    "text": "Kart ayrıntılarınızı girin",
-    "bigText": false
+    "text": "Kart ayrıntılarınızı girin"
   },
   {
     "ifi": 212,
-    "text": "İşlemler",
-    "bigText": false
+    "text": "İşlemler"
   },
   {
     "ifi": 213,
-    "text": "Tarih",
-    "bigText": false
+    "text": "Tarih"
   },
   {
     "ifi": 214,
-    "text": "Ödeme detayları",
-    "bigText": false
+    "text": "Ödeme detayları"
   },
   {
     "ifi": 215,
-    "text": "Son işlemler",
-    "bigText": false
+    "text": "Son işlemler"
   },
   {
     "ifi": 216,
-    "text": "Banka hesabına gönder",
-    "bigText": false
+    "text": "Banka hesabına gönder"
   },
   {
     "ifi": 217,
-    "text": "Diğer iç dengeye dönüş",
-    "bigText": false
+    "text": "Diğer iç dengeye dönüş"
   },
   {
     "ifi": 218,
-    "text": "{{firstName}} grupları",
-    "bigText": false
+    "text": "{{firstName}} grupları"
   },
   {
     "ifi": 219,
-    "text": "Akıllı sözleşme bir müşteriye gönderildi. Müşteri kabul ederse bilgilendirileceksiniz",
-    "bigText": false
+    "text": "Akıllı sözleşme bir müşteriye gönderildi. Müşteri kabul ederse bilgilendirileceksiniz"
   },
   {
     "ifi": 220,
-    "text": "Akıllı sözleşme bir sanatçıya başarıyla gönderildi",
-    "bigText": false
+    "text": "Akıllı sözleşme bir sanatçıya başarıyla gönderildi"
   },
   {
     "ifi": 221,
-    "text": "İş geliriniz {{incrSum}} {{curr}} tarafından artırıldı çünkü müşteriniz tüm ücretleri içeren nakit parayla ödeme yapacak. Ücretler hesabınızdan ödenecektir",
-    "bigText": false
+    "text": "İş geliriniz {{incrSum}} {{curr}} tarafından artırıldı çünkü müşteriniz tüm ücretleri içeren nakit parayla ödeme yapacak. Ücretler hesabınızdan ödenecektir"
   },
   {
     "ifi": 222,
-    "text": "Mevcut etkinlikler",
-    "bigText": false
+    "text": "Mevcut etkinlikler"
   },
   {
     "ifi": 223,
-    "text": "iol-apps Siparişleri",
-    "bigText": false
+    "text": "iol-apps Siparişleri"
   },
   {
     "ifi": 224,
-    "text": "iol-apps'de Akıllı Sözleşmeler",
-    "bigText": false
+    "text": "iol-apps'de Akıllı Sözleşmeler"
   },
   {
     "ifi": 225,
-    "text": "Akıllı sözleşmeler",
-    "bigText": false
+    "text": "Akıllı sözleşmeler"
   },
   {
     "ifi": 226,
-    "text": "Aktif Akıllı Sözleşmeler",
-    "bigText": false
+    "text": "Aktif Akıllı Sözleşmeler"
   },
   {
     "ifi": 227,
-    "text": "Yaratılmış",
-    "bigText": false
+    "text": "Yaratılmış"
   },
   {
     "ifi": 228,
-    "text": "İmzalı",
-    "bigText": false
+    "text": "İmzalı"
   },
   {
     "ifi": 229,
-    "text": "İptal edildi",
-    "bigText": false
+    "text": "İptal edildi"
   },
   {
     "ifi": 230,
-    "text": "İş yerinde",
-    "bigText": false
+    "text": "İş yerinde"
   },
   {
     "ifi": 231,
-    "text": "Verim",
-    "bigText": false
+    "text": "Verim"
   },
   {
     "ifi": 232,
-    "text": "Tamamlamak",
-    "bigText": false
+    "text": "Tamamlamak"
   },
   {
     "ifi": 233,
-    "text": "Bu QR kodunu NiXeL uygulamasında tarayın",
-    "bigText": false
+    "text": "Bu QR kodunu NiXeL uygulamasında tarayın"
   },
   {
     "ifi": 234,
-    "text": "Profilimi göster QR",
-    "bigText": false
+    "text": "Profilimi göster QR"
   },
   {
     "ifi": 235,
-    "text": "Qr tarama",
-    "bigText": false
+    "text": "Qr tarama"
   },
   {
     "ifi": 236,
-    "text": "Ödenmemiş faturalar",
-    "bigText": false
+    "text": "Ödenmemiş faturalar"
   },
   {
     "ifi": 237,
-    "text": "Faturalar",
-    "bigText": false
+    "text": "Faturalar"
   },
   {
     "ifi": 238,
-    "text": "Değerlendirme",
-    "bigText": false
+    "text": "Değerlendirme"
   },
   {
     "ifi": 239,
-    "text": "Geri bildirim",
-    "bigText": false
+    "text": "Geri bildirim"
   },
   {
     "ifi": 240,
-    "text": "İşi derecelendirebilir ve geri bildirim bırakabilirsiniz",
-    "bigText": false
+    "text": "İşi derecelendirebilir ve geri bildirim bırakabilirsiniz"
   },
   {
     "ifi": 241,
-    "text": "Müşterinizi derecelendirebilir ve geri bildirim bırakabilirsiniz",
-    "bigText": false
+    "text": "Müşterinizi derecelendirebilir ve geri bildirim bırakabilirsiniz"
   },
   {
     "ifi": 242,
-    "text": "İş",
-    "bigText": false
+    "text": "İş"
   },
   {
     "ifi": 243,
-    "text": "Ödenecek son tutar",
-    "bigText": false
+    "text": "Ödenecek son tutar"
   },
   {
     "ifi": 244,
-    "text": "NiXeL uygulamasının faturalar bölümünde makbuzlu ayrıntılı fatura mevcuttur",
-    "bigText": false
+    "text": "NiXeL uygulamasının faturalar bölümünde makbuzlu ayrıntılı fatura mevcuttur"
   },
   {
     "ifi": 245,
-    "text": "Bu sohbete mesaj gönderemezsiniz. Erişim seviyesi kodunuz: {{chat_access_level}}",
-    "bigText": false
+    "text": "Bu sohbete mesaj gönderemezsiniz. Erişim seviyesi kodunuz: {{chat_access_level}}"
   },
   {
     "ifi": 246,
-    "text": "Belge Türü",
-    "bigText": false
+    "text": "Belge Türü"
   },
   {
     "ifi": 247,
-    "text": "Pasaport",
-    "bigText": false
+    "text": "Pasaport"
   },
   {
     "ifi": 248,
-    "text": "Kimlik kartı",
-    "bigText": false
+    "text": "Kimlik kartı"
   },
   {
     "ifi": 249,
-    "text": "Ehliyet",
-    "bigText": false
+    "text": "Ehliyet"
   },
   {
     "ifi": 250,
-    "text": "Diğer Doküman Türü",
-    "bigText": false
+    "text": "Diğer Doküman Türü"
   },
   {
     "ifi": 251,
-    "text": "Ev telefonu",
-    "bigText": false
+    "text": "Ev telefonu"
   },
   {
     "ifi": 252,
-    "text": "Ofis telefonu",
-    "bigText": false
+    "text": "Ofis telefonu"
   },
   {
     "ifi": 253,
-    "text": "Cep telefonu",
-    "bigText": false
+    "text": "Cep telefonu"
   },
   {
     "ifi": 254,
-    "text": "Diğer telefon",
-    "bigText": false
+    "text": "Diğer telefon"
   },
   {
     "ifi": 255,
-    "text": "e-posta",
-    "bigText": false
+    "text": "e-posta"
   },
   {
     "ifi": 256,
-    "text": "Facebook adresi",
-    "bigText": false
+    "text": "Facebook adresi"
   },
   {
     "ifi": 257,
-    "text": "LinkedIn Adresi",
-    "bigText": false
+    "text": "LinkedIn Adresi"
   },
   {
     "ifi": 258,
-    "text": "Tweeter adresi",
-    "bigText": false
+    "text": "Tweeter adresi"
   },
   {
     "ifi": 259,
-    "text": "Instagram adresi",
-    "bigText": false
+    "text": "Instagram adresi"
   },
   {
     "ifi": 260,
-    "text": "Diğer Sosyal Ağ Adresi",
-    "bigText": false
+    "text": "Diğer Sosyal Ağ Adresi"
   },
   {
     "ifi": 261,
-    "text": "WeChat",
-    "bigText": false
+    "text": "WeChat"
   },
   {
     "ifi": 262,
-    "text": "Naber",
-    "bigText": false
+    "text": "Naber"
   },
   {
     "ifi": 263,
-    "text": "Telgraf",
-    "bigText": false
+    "text": "Telgraf"
   },
   {
     "ifi": 264,
-    "text": "Astar",
-    "bigText": false
+    "text": "Astar"
   },
   {
     "ifi": 265,
-    "text": "Diğer Elçi",
-    "bigText": false
+    "text": "Diğer Elçi"
   },
   {
     "ifi": 266,
-    "text": "posta adresi",
-    "bigText": false
+    "text": "posta adresi"
   },
   {
     "ifi": 267,
-    "text": "Diğer İletişim Türü",
-    "bigText": false
+    "text": "Diğer İletişim Türü"
   },
   {
     "ifi": 268,
-    "text": "İletişim Türü",
-    "bigText": false
+    "text": "İletişim Türü"
   },
   {
     "ifi": 269,
-    "text": "İletişim Adı",
-    "bigText": false
+    "text": "İletişim Adı"
   },
   {
     "ifi": 270,
-    "text": "Ayrıntılar (sayı, bağlantı vb.)",
-    "bigText": false
+    "text": "Ayrıntılar (sayı, bağlantı vb.)"
   },
   {
     "ifi": 271,
-    "text": "Ücretler / kraliyet bağışları",
-    "bigText": false
+    "text": "Ücretler / kraliyet bağışları"
   },
   {
     "ifi": 272,
-    "text": "Log (UTC zamanı)",
-    "bigText": false
+    "text": "Log (UTC zamanı)"
   },
   {
     "ifi": 273,
-    "text": "Aktivasyon",
-    "bigText": false
+    "text": "Aktivasyon"
   },
   {
     "ifi": 274,
-    "text": "Doğrulama",
-    "bigText": false
+    "text": "Doğrulama"
   },
   {
     "ifi": 275,
-    "text": "Bitmiş değil",
-    "bigText": false
+    "text": "Bitmiş değil"
   },
   {
     "ifi": 276,
-    "text": "Özel Posta Kutusu",
-    "bigText": false
+    "text": "Özel Posta Kutusu"
   },
   {
     "ifi": 277,
-    "text": "Aktivasyon/doğrulama için başvurun",
-    "bigText": false
+    "text": "Aktivasyon/doğrulama için başvurun"
   },
   {
     "ifi": 278,
-    "text": "Diğer kullanıcılardan kullanıcıya yorumlar",
-    "bigText": false
+    "text": "Diğer kullanıcılardan kullanıcıya yorumlar"
   },
   {
     "ifi": 279,
-    "text": "Her iki yan resme sahip ad, soyadı, doğum tarihi, en az bir fotoğraf ve kimlik belgesi (kimlik kartı veya sürücü lisansı veya pasaport) sağlanmalıdır",
-    "bigText": false
+    "text": "Her iki yan resme sahip ad, soyadı, doğum tarihi, en az bir fotoğraf ve kimlik belgesi (kimlik kartı veya sürücü lisansı veya pasaport) sağlanmalıdır"
   },
   {
     "ifi": 280,
-    "text": "Profiliniz etkinleştirildikten/doğrulandıktan sonra isimleri ve doğum tarihini değiştiremezsiniz. Devam etmek?",
-    "bigText": false
+    "text": "Profiliniz etkinleştirildikten/doğrulandıktan sonra isimleri ve doğum tarihini değiştiremezsiniz. Devam etmek?"
   },
   {
     "ifi": 281,
@@ -791,338 +635,271 @@
   },
   {
     "ifi": 282,
-    "text": "Askıda olması",
-    "bigText": false
+    "text": "Askıda olması"
   },
   {
     "ifi": 283,
-    "text": "Reddedilmiş",
-    "bigText": false
+    "text": "Reddedilmiş"
   },
   {
     "ifi": 284,
-    "text": "Doğruluyorum",
-    "bigText": false
+    "text": "Doğruluyorum"
   },
   {
     "ifi": 285,
-    "text": "reddederim",
-    "bigText": false
+    "text": "reddederim"
   },
   {
     "ifi": 286,
-    "text": "Manuel doğrulama",
-    "bigText": false
+    "text": "Manuel doğrulama"
   },
   {
     "ifi": 287,
-    "text": "Kullanıcı doğrulamasını reddedeceksiniz. Sebep nedir?",
-    "bigText": false
+    "text": "Kullanıcı doğrulamasını reddedeceksiniz. Sebep nedir?"
   },
   {
     "ifi": 288,
-    "text": "Hesabınızda 40 iou var. İşlemi \"Şartlar ve Kullanım Koşulları\" nda görebilirsiniz. Onları iol-apps'de harcamanın tadını çıkarın",
-    "bigText": false
+    "text": "Hesabınızda 40 iou var. İşlemi \"Şartlar ve Kullanım Koşulları\" nda görebilirsiniz. Onları iol-apps'de harcamanın tadını çıkarın"
   },
   {
     "ifi": 289,
-    "text": "Kayıtlı",
-    "bigText": false
+    "text": "Kayıtlı"
   },
   {
     "ifi": 290,
-    "text": "Yerine getirilmiştir",
-    "bigText": false
+    "text": "Yerine getirilmiştir"
   },
   {
     "ifi": 291,
-    "text": "Paralı",
-    "bigText": false
+    "text": "Paralı"
   },
   {
     "ifi": 292,
-    "text": "Fatura",
-    "bigText": false
+    "text": "Fatura"
   },
   {
     "ifi": 293,
-    "text": "NiXeL Hesabı",
-    "bigText": false
+    "text": "NiXeL Hesabı"
   },
   {
     "ifi": 294,
-    "text": "Peşin",
-    "bigText": false
+    "text": "Peşin"
   },
   {
     "ifi": 295,
-    "text": "Iou",
-    "bigText": false
+    "text": "Iou"
   },
   {
     "ifi": 296,
-    "text": "Sinhro",
-    "bigText": false
+    "text": "Sinhro"
   },
   {
     "ifi": 297,
-    "text": "HAYIR.",
-    "bigText": false
+    "text": "HAYIR."
   },
   {
     "ifi": 298,
-    "text": "Jeton",
-    "bigText": false
+    "text": "Jeton"
   },
   {
     "ifi": 299,
-    "text": "Miktar",
-    "bigText": false
+    "text": "Miktar"
   },
   {
     "ifi": 300,
-    "text": "İş başladı",
-    "bigText": false
+    "text": "İş başladı"
   },
   {
     "ifi": 301,
-    "text": "İş tamamlandı",
-    "bigText": false
+    "text": "İş tamamlandı"
   },
   {
     "ifi": 302,
-    "text": "Mesafe",
-    "bigText": false
+    "text": "Mesafe"
   },
   {
     "ifi": 303,
-    "text": "Süre",
-    "bigText": false
+    "text": "Süre"
   },
   {
     "ifi": 304,
-    "text": "Fiyat",
-    "bigText": false
+    "text": "Fiyat"
   },
   {
     "ifi": 305,
-    "text": "Sabit",
-    "bigText": false
+    "text": "Sabit"
   },
   {
     "ifi": 306,
-    "text": "Toplam",
-    "bigText": false
+    "text": "Toplam"
   },
   {
     "ifi": 307,
-    "text": "Ödeme yöntemi",
-    "bigText": false
+    "text": "Ödeme yöntemi"
   },
   {
     "ifi": 308,
-    "text": "Müşteriden Ücretler",
-    "bigText": false
+    "text": "Müşteriden Ücretler"
   },
   {
     "ifi": 309,
-    "text": "Ücret",
-    "bigText": false
+    "text": "Ücret"
   },
   {
     "ifi": 310,
-    "text": "Paralı",
-    "bigText": false
+    "text": "Paralı"
   },
   {
     "ifi": 311,
-    "text": "Ödenmemiş",
-    "bigText": false
+    "text": "Ödenmemiş"
   },
   {
     "ifi": 312,
-    "text": "iol mühendislerine telif bağışı",
-    "bigText": false
+    "text": "iol mühendislerine telif bağışı"
   },
   {
     "ifi": 313,
-    "text": "Toplam müşterinin borcu",
-    "bigText": false
+    "text": "Toplam müşterinin borcu"
   },
   {
     "ifi": 314,
-    "text": "Sanatçıdan ücretler",
-    "bigText": false
+    "text": "Sanatçıdan ücretler"
   },
   {
     "ifi": 315,
-    "text": "Toplam sanatçının borcu",
-    "bigText": false
+    "text": "Toplam sanatçının borcu"
   },
   {
     "ifi": 316,
-    "text": "Borcumu Ödeme",
-    "bigText": false
+    "text": "Borcumu Ödeme"
   },
   {
     "ifi": 317,
-    "text": "Talep Ödemesi",
-    "bigText": false
+    "text": "Talep Ödemesi"
   },
   {
     "ifi": 318,
-    "text": "Borç",
-    "bigText": false
+    "text": "Borç"
   },
   {
     "ifi": 319,
-    "text": "NiXeL bakiyenizde {{sum}} yok. Yeniden doldurun ve tekrar deneyin",
-    "bigText": false
+    "text": "NiXeL bakiyenizde {{sum}} yok. Yeniden doldurun ve tekrar deneyin"
   },
   {
     "ifi": 320,
-    "text": "Kullanarak Yeniden Doldurma",
-    "bigText": false
+    "text": "Kullanarak Yeniden Doldurma"
   },
   {
     "ifi": 321,
-    "text": "Google Pay",
-    "bigText": false
+    "text": "Google Pay"
   },
   {
     "ifi": 322,
-    "text": "Mesaj gönder",
-    "bigText": false
+    "text": "Mesaj gönder"
   },
   {
     "ifi": 323,
-    "text": "banka transferi",
-    "bigText": false
+    "text": "banka transferi"
   },
   {
     "ifi": 324,
-    "text": "Visa / Mstercard",
-    "bigText": false
+    "text": "Visa / Mstercard"
   },
   {
     "ifi": 325,
-    "text": "Döviz değişimi",
-    "bigText": false
+    "text": "Döviz değişimi"
   },
   {
     "ifi": 326,
-    "text": "MerchantId etkinleştirilmez",
-    "bigText": false
+    "text": "MerchantId etkinleştirilmez"
   },
   {
     "ifi": 327,
-    "text": "NiXeL'de Dengeyi Yeniden Doldurma",
-    "bigText": false
+    "text": "NiXeL'de Dengeyi Yeniden Doldurma"
   },
   {
     "ifi": 328,
-    "text": "Kartta yetersiz fon",
-    "bigText": false
+    "text": "Kartta yetersiz fon"
   },
   {
     "ifi": 329,
-    "text": "Kartın süresi doldu",
-    "bigText": false
+    "text": "Kartın süresi doldu"
   },
   {
     "ifi": 330,
-    "text": "Kart yok",
-    "bigText": false
+    "text": "Kart yok"
   },
   {
     "ifi": 331,
-    "text": "Sözleşmenin tarafları",
-    "bigText": false
+    "text": "Sözleşmenin tarafları"
   },
   {
     "ifi": 332,
-    "text": "iol-APP'de Akıllı Sözleşme",
-    "bigText": false
+    "text": "iol-APP'de Akıllı Sözleşme"
   },
   {
     "ifi": 333,
-    "text": "Tahmini toplam",
-    "bigText": false
+    "text": "Tahmini toplam"
   },
   {
     "ifi": 334,
-    "text": "Müşteri",
-    "bigText": false
+    "text": "Müşteri"
   },
   {
     "ifi": 335,
-    "text": "Gelirler",
-    "bigText": false
+    "text": "Gelirler"
   },
   {
     "ifi": 336,
-    "text": "Durum",
-    "bigText": false
+    "text": "Durum"
   },
   {
     "ifi": 337,
-    "text": "Göstermek",
-    "bigText": false
+    "text": "Göstermek"
   },
   {
     "ifi": 338,
-    "text": "NiXeL'deki bakiyeniz dolduruldu",
-    "bigText": false
+    "text": "NiXeL'deki bakiyeniz dolduruldu"
   },
   {
     "ifi": 339,
-    "text": "Mevcut",
-    "bigText": false
+    "text": "Mevcut"
   },
   {
     "ifi": 340,
-    "text": "iol P/PS",
-    "bigText": false
+    "text": "iol P/PS"
   },
   {
     "ifi": 341,
-    "text": "ön ödemeli ücretler",
-    "bigText": false
+    "text": "ön ödemeli ücretler"
   },
   {
     "ifi": 342,
-    "text": "Dijital para birimleri",
-    "bigText": false
+    "text": "Dijital para birimleri"
   },
   {
     "ifi": 343,
-    "text": "Neden listede?",
-    "bigText": false
+    "text": "Neden listede?"
   },
   {
     "ifi": 344,
-    "text": "Mesajı yanıtla",
-    "bigText": false
+    "text": "Mesajı yanıtla"
   },
   {
     "ifi": 345,
-    "text": "Kullanıcı için blok yazma",
-    "bigText": false
+    "text": "Kullanıcı için blok yazma"
   },
   {
     "ifi": 346,
-    "text": "Kullanıcı için okumayı engelleyin",
-    "bigText": false
+    "text": "Kullanıcı için okumayı engelleyin"
   },
   {
     "ifi": 347,
-    "text": "Eklemek",
-    "bigText": false
+    "text": "Eklemek"
   },
   {
     "ifi": 348,
-    "text": "Cüzdanlı Eylemler",
-    "bigText": false
+    "text": "Cüzdanlı Eylemler"
   },
   {
     "ifi": 349,
@@ -1131,1198 +908,959 @@
   },
   {
     "ifi": 350,
-    "text": "Daha fazla bilgi",
-    "bigText": false
+    "text": "Daha fazla bilgi"
   },
   {
     "ifi": 351,
-    "text": "Iou, SINHRO ve NiXeL",
-    "bigText": false
+    "text": "Iou, SINHRO ve NiXeL"
   },
   {
     "ifi": 352,
-    "text": "SINHRO oranı",
-    "bigText": false
+    "text": "SINHRO oranı"
   },
   {
     "ifi": 353,
-    "text": "Oran Güncellemesi (UTC süresi)",
-    "bigText": false
+    "text": "Oran Güncellemesi (UTC süresi)"
   },
   {
     "ifi": 354,
-    "text": "Alışveriş yapmak",
-    "bigText": false
+    "text": "Alışveriş yapmak"
   },
   {
     "ifi": 355,
-    "text": "Banka hesabınızı ekleyin",
-    "bigText": false
+    "text": "Banka hesabınızı ekleyin"
   },
   {
     "ifi": 356,
-    "text": "Banka hesabı yeniden doldurma ve geri çekilme NiXeL bakiyesi. Yalnızca kendi banka hesabı ayrıntılarınızı kullanmalısınız! Yanlış ayrıntılar yanlış hesabın kredilendirilmesine ve fonların geri kazanılamamasına neden olur",
-    "bigText": false
+    "text": "Banka hesabı yeniden doldurma ve geri çekilme NiXeL bakiyesi. Yalnızca kendi banka hesabı ayrıntılarınızı kullanmalısınız! Yanlış ayrıntılar yanlış hesabın kredilendirilmesine ve fonların geri kazanılamamasına neden olur"
   },
   {
     "ifi": 357,
-    "text": "Hesap ülkesi",
-    "bigText": false
+    "text": "Hesap ülkesi"
   },
   {
     "ifi": 358,
-    "text": "Takma ad vermek",
-    "bigText": false
+    "text": "Takma ad vermek"
   },
   {
     "ifi": 359,
-    "text": "İlçenin ekonomik bölgesi içindeki banka detayları",
-    "bigText": false
+    "text": "İlçenin ekonomik bölgesi içindeki banka detayları"
   },
   {
     "ifi": 360,
-    "text": "İlçenin Ekonomik Bölgesi dışından banka detayları Swift (varsa)",
-    "bigText": false
+    "text": "İlçenin Ekonomik Bölgesi dışından banka detayları Swift (varsa)"
   },
   {
     "ifi": 361,
-    "text": "SÜRATLİ",
-    "bigText": false
+    "text": "SÜRATLİ"
   },
   {
     "ifi": 362,
-    "text": "BIC kodu",
-    "bigText": false
+    "text": "BIC kodu"
   },
   {
     "ifi": 363,
-    "text": "Iban",
-    "bigText": false
+    "text": "Iban"
   },
   {
     "ifi": 364,
-    "text": "Hesap numarası",
-    "bigText": false
+    "text": "Hesap numarası"
   },
   {
     "ifi": 365,
-    "text": "Hesap sahibinin tam adı",
-    "bigText": false
+    "text": "Hesap sahibinin tam adı"
   },
   {
     "ifi": 366,
-    "text": "Bu para birimi şimdiye kadar FSP'de uygulanamaz",
-    "bigText": false
+    "text": "Bu para birimi şimdiye kadar FSP'de uygulanamaz"
   },
   {
     "ifi": 367,
-    "text": "Örneğin",
-    "bigText": false
+    "text": "Örneğin"
   },
   {
     "ifi": 368,
-    "text": "Kişisel Adresiniz",
-    "bigText": false
+    "text": "Kişisel Adresiniz"
   },
   {
     "ifi": 369,
-    "text": "Banka Kodu (Bik, BSB vb.)",
-    "bigText": false
+    "text": "Banka Kodu (Bik, BSB vb.)"
   },
   {
     "ifi": 370,
-    "text": "Ülke",
-    "bigText": false
+    "text": "Ülke"
   },
   {
     "ifi": 371,
-    "text": "Bölge",
-    "bigText": false
+    "text": "Bölge"
   },
   {
     "ifi": 372,
-    "text": "Durum",
-    "bigText": false
+    "text": "Durum"
   },
   {
     "ifi": 373,
-    "text": "Şehir",
-    "bigText": false
+    "text": "Şehir"
   },
   {
     "ifi": 374,
-    "text": "Adres satırı 1",
-    "bigText": false
+    "text": "Adres satırı 1"
   },
   {
     "ifi": 375,
-    "text": "Adres Satırı 2",
-    "bigText": false
+    "text": "Adres Satırı 2"
   },
   {
     "ifi": 376,
-    "text": "Posta Kod",
-    "bigText": false
+    "text": "Posta Kod"
   },
   {
     "ifi": 377,
-    "text": "Ek veya işlem izleme bilgileri için e -postanız",
-    "bigText": false
+    "text": "Ek veya işlem izleme bilgileri için e -postanız"
   },
   {
     "ifi": 378,
-    "text": "banka hesabı",
-    "bigText": false
+    "text": "banka hesabı"
   },
   {
     "ifi": 379,
-    "text": "banka hesabı",
-    "bigText": false
+    "text": "banka hesabı"
   },
   {
     "ifi": 380,
-    "text": "Banka hesabından",
-    "bigText": false
+    "text": "Banka hesabından"
   },
   {
     "ifi": 381,
-    "text": "Banka Hesabını Seçin",
-    "bigText": false
+    "text": "Banka Hesabını Seçin"
   },
   {
     "ifi": 382,
-    "text": "NiXeL'deki para birimine",
-    "bigText": false
+    "text": "NiXeL'deki para birimine"
   },
   {
     "ifi": 383,
-    "text": "FSP'miz henüz {{currCode}} alamaz. Bir para birimi seçin. Seçilen para biriminde banka hesabınızdan \"Gönderilecek Tutar\" a aktarın ve NiXeL'de {{currCode}} veya diğer 60+ para birimiyle değiştirebilirsiniz.",
-    "bigText": false
+    "text": "FSP'miz henüz {{currCode}} alamaz. Bir para birimi seçin. Seçilen para biriminde banka hesabınızdan \"Gönderilecek Tutar\" a aktarın ve NiXeL'de {{currCode}} veya diğer 60+ para birimiyle değiştirebilirsiniz."
   },
   {
     "ifi": 384,
-    "text": "FSPS Ücretleri",
-    "bigText": false
+    "text": "FSPS Ücretleri"
   },
   {
     "ifi": 385,
-    "text": "Gönderilecek tutar",
-    "bigText": false
+    "text": "Gönderilecek tutar"
   },
   {
     "ifi": 386,
-    "text": "Transfer Beklemek",
-    "bigText": false
+    "text": "Transfer Beklemek"
   },
   {
     "ifi": 387,
-    "text": "Kopyalanmış",
-    "bigText": false
+    "text": "Kopyalanmış"
   },
   {
     "ifi": 388,
-    "text": "Banka detaylarına",
-    "bigText": false
+    "text": "Banka detaylarına"
   },
   {
     "ifi": 389,
-    "text": "FSPS ücretlerini içerir",
-    "bigText": false
+    "text": "FSPS ücretlerini içerir"
   },
   {
     "ifi": 390,
-    "text": "Hesap sahibi",
-    "bigText": false
+    "text": "Hesap sahibi"
   },
   {
     "ifi": 391,
-    "text": "Adres",
-    "bigText": false
+    "text": "Adres"
   },
   {
     "ifi": 392,
-    "text": "banka adı",
-    "bigText": false
+    "text": "banka adı"
   },
   {
     "ifi": 393,
-    "text": "Alıcı için referans",
-    "bigText": false
+    "text": "Alıcı için referans"
   },
   {
     "ifi": 394,
-    "text": "Amaç",
-    "bigText": false
+    "text": "Amaç"
   },
   {
     "ifi": 395,
-    "text": "Önemli",
-    "bigText": false
+    "text": "Önemli"
   },
   {
     "ifi": 396,
-    "text": "Aktarımı yapar olmaz \"Gönderilen\" düğmesini tıklayın. Bu, bekleyen banka transfer hatırlatıcısını kaldıracaktır",
-    "bigText": false
+    "text": "Aktarımı yapar olmaz \"Gönderilen\" düğmesini tıklayın. Bu, bekleyen banka transfer hatırlatıcısını kaldıracaktır"
   },
   {
     "ifi": 397,
-    "text": "Göndermeyeceğim",
-    "bigText": false
+    "text": "Göndermeyeceğim"
   },
   {
     "ifi": 398,
-    "text": "Eylemi onaylıyor musunuz?",
-    "bigText": false
+    "text": "Eylemi onaylıyor musunuz?"
   },
   {
     "ifi": 399,
-    "text": "Bankalar Arası Ödeme Sistemine Bağlı 5 Bankacılık Günü'ne kadar sürebilir",
-    "bigText": false
+    "text": "Bankalar Arası Ödeme Sistemine Bağlı 5 Bankacılık Günü'ne kadar sürebilir"
   },
   {
     "ifi": 400,
-    "text": "FSPS oranında değişim",
-    "bigText": false
+    "text": "FSPS oranında değişim"
   },
   {
     "ifi": 401,
-    "text": "Oran",
-    "bigText": false
+    "text": "Oran"
   },
   {
     "ifi": 402,
-    "text": "Dengeden",
-    "bigText": false
+    "text": "Dengeden"
   },
   {
     "ifi": 403,
-    "text": "Dengelemek",
-    "bigText": false
+    "text": "Dengelemek"
   },
   {
     "ifi": 404,
-    "text": "Banka hesabına",
-    "bigText": false
+    "text": "Banka hesabına"
   },
   {
     "ifi": 405,
-    "text": "Dengeyi Seçin",
-    "bigText": false
+    "text": "Dengeyi Seçin"
   },
   {
     "ifi": 406,
-    "text": "Fsp",
-    "bigText": false
+    "text": "Fsp"
   },
   {
     "ifi": 407,
-    "text": "Dönüştürmek",
-    "bigText": false
+    "text": "Dönüştürmek"
   },
   {
     "ifi": 408,
-    "text": "Satın almak",
-    "bigText": false
+    "text": "Satın almak"
   },
   {
     "ifi": 409,
-    "text": "Satmak",
-    "bigText": false
+    "text": "Satmak"
   },
   {
     "ifi": 410,
-    "text": "Diğer teklifleri göster",
-    "bigText": false
+    "text": "Diğer teklifleri göster"
   },
   {
     "ifi": 411,
-    "text": "Tekliflerimi göster",
-    "bigText": false
+    "text": "Tekliflerimi göster"
   },
   {
     "ifi": 412,
-    "text": "Asgari adım",
-    "bigText": false
+    "text": "Asgari adım"
   },
   {
     "ifi": 413,
-    "text": "ben öderim",
-    "bigText": false
+    "text": "ben öderim"
   },
   {
     "ifi": 414,
-    "text": "Dengede yeter mi?",
-    "bigText": false
+    "text": "Dengede yeter mi?"
   },
   {
     "ifi": 415,
-    "text": "{{fromSum}} {{fromCurrCode}} için {{toSum}} {{toCurrCode}} satın alacaksınız. Teklif oranınız {{rate}}. Miktarlar, GİB değişimindeki para birimleri için minimum adım koşullarına göre düzeltilir. Ticaret Zemin Kimliği: {{floorId}}. iol'de teklifi duyuruyor musunuz?",
-    "bigText": false
+    "text": "{{fromSum}} {{fromCurrCode}} için {{toSum}} {{toCurrCode}} satın alacaksınız. Teklif oranınız {{rate}}. Miktarlar, GİB değişimindeki para birimleri için minimum adım koşullarına göre düzeltilir. Ticaret Zemin Kimliği: {{floorId}}. iol'de teklifi duyuruyor musunuz?"
   },
   {
     "ifi": 416,
-    "text": "{{toSum}} {{toCurrCode}} için {{fromSum}} {{fromCurrCode}} satacaksınız. Teklif oranınız {{rate}}. Miktarlar, GİB değişimindeki para birimleri için minimum adım koşullarına göre düzeltilir. Ticaret Zemin Kimliği: {{floorId}}. iol'de teklifi duyuruyor musunuz?",
-    "bigText": false
+    "text": "{{toSum}} {{toCurrCode}} için {{fromSum}} {{fromCurrCode}} satacaksınız. Teklif oranınız {{rate}}. Miktarlar, GİB değişimindeki para birimleri için minimum adım koşullarına göre düzeltilir. Ticaret Zemin Kimliği: {{floorId}}. iol'de teklifi duyuruyor musunuz?"
   },
   {
     "ifi": 417,
-    "text": "Beklemek",
-    "bigText": false
+    "text": "Beklemek"
   },
   {
     "ifi": 418,
-    "text": "Teklifi iol'den kaldırmak ister misiniz?",
-    "bigText": false
+    "text": "Teklifi iol'den kaldırmak ister misiniz?"
   },
   {
     "ifi": 419,
-    "text": "soruyorum",
-    "bigText": false
+    "text": "soruyorum"
   },
   {
     "ifi": 420,
-    "text": "Satış",
-    "bigText": false
+    "text": "Satış"
   },
   {
     "ifi": 421,
-    "text": "Satın almak",
-    "bigText": false
+    "text": "Satın almak"
   },
   {
     "ifi": 422,
-    "text": "Para birimi için",
-    "bigText": false
+    "text": "Para birimi için"
   },
   {
     "ifi": 423,
-    "text": "SINHRO miktarı",
-    "bigText": false
+    "text": "SINHRO miktarı"
   },
   {
     "ifi": 424,
-    "text": "Tüm",
-    "bigText": false
+    "text": "Tüm"
   },
   {
     "ifi": 425,
-    "text": "Ticaret Zemin Kimliği",
-    "bigText": false
+    "text": "Ticaret Zemin Kimliği"
   },
   {
     "ifi": 426,
-    "text": "iol Uygulama Pisser Yönetimi",
-    "bigText": false
+    "text": "iol Uygulama Pisser Yönetimi"
   },
   {
     "ifi": 427,
-    "text": "Uygulama ismi",
-    "bigText": false
+    "text": "Uygulama ismi"
   },
   {
     "ifi": 428,
-    "text": "iol sağlayıcısı",
-    "bigText": false
+    "text": "iol sağlayıcısı"
   },
   {
     "ifi": 429,
-    "text": "İnternet sitesi",
-    "bigText": false
+    "text": "İnternet sitesi"
   },
   {
     "ifi": 430,
-    "text": "Müşteriler için Ücret",
-    "bigText": false
+    "text": "Müşteriler için Ücret"
   },
   {
     "ifi": 431,
-    "text": "Sanatçılar için ücret",
-    "bigText": false
+    "text": "Sanatçılar için ücret"
   },
   {
     "ifi": 432,
-    "text": "Toplam yatırılan",
-    "bigText": false
+    "text": "Toplam yatırılan"
   },
   {
     "ifi": 433,
-    "text": "Yatırımım",
-    "bigText": false
+    "text": "Yatırımım"
   },
   {
     "ifi": 434,
-    "text": "Benim p/ps'im",
-    "bigText": false
+    "text": "Benim p/ps'im"
   },
   {
     "ifi": 435,
-    "text": "Sonraki ödemeler için kaydedilen ücretler",
-    "bigText": false
+    "text": "Sonraki ödemeler için kaydedilen ücretler"
   },
   {
     "ifi": 436,
-    "text": "Önceki ödemeler",
-    "bigText": false
+    "text": "Önceki ödemeler"
   },
   {
     "ifi": 437,
-    "text": "P/PS alın",
-    "bigText": false
+    "text": "P/PS alın"
   },
   {
     "ifi": 438,
-    "text": "Yatırım",
-    "bigText": false
+    "text": "Yatırım"
   },
   {
     "ifi": 439,
-    "text": "Sinhro'yu geri al",
-    "bigText": false
+    "text": "Sinhro'yu geri al"
   },
   {
     "ifi": 440,
-    "text": "Almak",
-    "bigText": false
+    "text": "Almak"
   },
   {
     "ifi": 441,
-    "text": "Uygulamayı aç",
-    "bigText": false
+    "text": "Uygulamayı aç"
   },
   {
     "ifi": 442,
-    "text": "Mevcut SINHRO oranları",
-    "bigText": false
+    "text": "Mevcut SINHRO oranları"
   },
   {
     "ifi": 443,
-    "text": "Teklifiniz başarıyla yerleştirildi",
-    "bigText": false
+    "text": "Teklifiniz başarıyla yerleştirildi"
   },
   {
     "ifi": 444,
-    "text": "Fatura/yeni fatura",
-    "bigText": false
+    "text": "Fatura/yeni fatura"
   },
   {
     "ifi": 445,
-    "text": "Ödeme nedeni",
-    "bigText": false
+    "text": "Ödeme nedeni"
   },
   {
     "ifi": 446,
-    "text": "Hizmet",
-    "bigText": false
+    "text": "Hizmet"
   },
   {
     "ifi": 447,
-    "text": "Mal",
-    "bigText": false
+    "text": "Mal"
   },
   {
     "ifi": 448,
-    "text": "Kiralama ücreti",
-    "bigText": false
+    "text": "Kiralama ücreti"
   },
   {
     "ifi": 449,
-    "text": "Borç",
-    "bigText": false
+    "text": "Borç"
   },
   {
     "ifi": 450,
-    "text": "Kredi geri ödeme",
-    "bigText": false
+    "text": "Kredi geri ödeme"
   },
   {
     "ifi": 451,
-    "text": "Hediye",
-    "bigText": false
+    "text": "Hediye"
   },
   {
     "ifi": 452,
-    "text": "Hayır bağışı",
-    "bigText": false
+    "text": "Hayır bağışı"
   },
   {
     "ifi": 453,
-    "text": "Yardım",
-    "bigText": false
+    "text": "Yardım"
   },
   {
     "ifi": 454,
-    "text": "Diğer",
-    "bigText": false
+    "text": "Diğer"
   },
   {
     "ifi": 455,
-    "text": "Mal miktarı",
-    "bigText": false
+    "text": "Mal miktarı"
   },
   {
     "ifi": 456,
-    "text": "Koşullar",
-    "bigText": false
+    "text": "Koşullar"
   },
   {
     "ifi": 457,
-    "text": "Bilgi",
-    "bigText": false
+    "text": "Bilgi"
   },
   {
     "ifi": 458,
-    "text": "Vergi dahil (ES)",
-    "bigText": false
+    "text": "Vergi dahil (ES)"
   },
   {
     "ifi": 459,
-    "text": "Vergi isimleri",
-    "bigText": false
+    "text": "Vergi isimleri"
   },
   {
     "ifi": 460,
-    "text": "Virgülle ayrı",
-    "bigText": false
+    "text": "Virgülle ayrı"
   },
   {
     "ifi": 461,
-    "text": "Göndermek",
-    "bigText": false
+    "text": "Göndermek"
   },
   {
     "ifi": 462,
-    "text": "QR kodunu göster",
-    "bigText": false
+    "text": "QR kodunu göster"
   },
   {
     "ifi": 463,
-    "text": "Manuel fatura/fatura",
-    "bigText": false
+    "text": "Manuel fatura/fatura"
   },
   {
     "ifi": 464,
-    "text": "Reddetmek",
-    "bigText": false
+    "text": "Reddetmek"
   },
   {
     "ifi": 465,
-    "text": "Ödemek",
-    "bigText": false
+    "text": "Ödemek"
   },
   {
     "ifi": 466,
-    "text": "İşçi tarafından iptal edildi",
-    "bigText": false
+    "text": "İşçi tarafından iptal edildi"
   },
   {
     "ifi": 467,
-    "text": "Müşteri tarafından reddedildi/iptal edildi",
-    "bigText": false
+    "text": "Müşteri tarafından reddedildi/iptal edildi"
   },
   {
     "ifi": 468,
-    "text": "Girişli Tut",
-    "bigText": false
+    "text": "Girişli Tut"
   },
   {
     "ifi": 469,
-    "text": "Kullanıcı adınızı seçin",
-    "bigText": false
+    "text": "Kullanıcı adınızı seçin"
   },
   {
     "ifi": 470,
-    "text": "İlk, orta, soyadı",
-    "bigText": false
+    "text": "İlk, orta, soyadı"
   },
   {
     "ifi": 471,
-    "text": "Sağlanan belgeler",
-    "bigText": false
+    "text": "Sağlanan belgeler"
   },
   {
     "ifi": 472,
-    "text": "Ana fotoğraf",
-    "bigText": false
+    "text": "Ana fotoğraf"
   },
   {
     "ifi": 473,
-    "text": "Ana fotoğraf olarak ayarlayın",
-    "bigText": false
+    "text": "Ana fotoğraf olarak ayarlayın"
   },
   {
     "ifi": 474,
-    "text": "Okunmamış",
-    "bigText": false
+    "text": "Okunmamış"
   },
   {
     "ifi": 475,
-    "text": "Bu grubu terk et",
-    "bigText": false
+    "text": "Bu grubu terk et"
   },
   {
     "ifi": 476,
-    "text": "Bildirimleri Etkinleştir",
-    "bigText": false
+    "text": "Bildirimleri Etkinleştir"
   },
   {
     "ifi": 477,
-    "text": "Bildirimleri devre dışı bırak",
-    "bigText": false
+    "text": "Bildirimleri devre dışı bırak"
   },
   {
     "ifi": 478,
-    "text": "Arama",
-    "bigText": false
+    "text": "Arama"
   },
   {
     "ifi": 479,
-    "text": "Posta Kutuları",
-    "bigText": false
+    "text": "Posta Kutuları"
   },
   {
     "ifi": 480,
-    "text": "Görüntü ekle",
-    "bigText": false
+    "text": "Görüntü ekle"
   },
   {
     "ifi": 481,
-    "text": "Takma ad",
-    "bigText": false
+    "text": "Takma ad"
   },
   {
     "ifi": 482,
-    "text": "Set olarak başka kullanıcılar full adınız yerine bu takma adı görür. Adınızı farklı dillerde kullanmanız gerektiğinde yararlı olabilir. İstediğiniz zaman değiştirebilirsiniz",
-    "bigText": false
+    "text": "Set olarak başka kullanıcılar full adınız yerine bu takma adı görür. Adınızı farklı dillerde kullanmanız gerektiğinde yararlı olabilir. İstediğiniz zaman değiştirebilirsiniz"
   },
   {
     "ifi": 483,
-    "text": "Bu posta kutusu için tam adımı ayarlayın",
-    "bigText": false
+    "text": "Bu posta kutusu için tam adımı ayarlayın"
   },
   {
     "ifi": 484,
-    "text": "Bu posta kutusu için takma adımı ayarlayın",
-    "bigText": false
+    "text": "Bu posta kutusu için takma adımı ayarlayın"
   },
   {
     "ifi": 485,
-    "text": "Sen",
-    "bigText": false
+    "text": "Sen"
   },
   {
     "ifi": 486,
-    "text": "iol uygulaması hakkında",
-    "bigText": false
+    "text": "iol uygulaması hakkında"
   },
   {
     "ifi": 487,
-    "text": "Gönderen Profili",
-    "bigText": false
+    "text": "Gönderen Profili"
   },
   {
     "ifi": 488,
-    "text": "Görüntüyü Genişlet",
-    "bigText": false
+    "text": "Görüntüyü Genişlet"
   },
   {
     "ifi": 489,
-    "text": "Mesajlaşma sırasında ekranı açık tutun",
-    "bigText": false
+    "text": "Mesajlaşma sırasında ekranı açık tutun"
   },
   {
     "ifi": 490,
-    "text": "SINHRO detayları açıldığında ekranı açık tutun",
-    "bigText": false
+    "text": "SINHRO detayları açıldığında ekranı açık tutun"
   },
   {
     "ifi": 491,
-    "text": "Bana faturalar/manuel faturalar göndermesine izin ver",
-    "bigText": false
+    "text": "Bana faturalar/manuel faturalar göndermesine izin ver"
   },
   {
     "ifi": 492,
-    "text": "Sesler",
-    "bigText": false
+    "text": "Sesler"
   },
   {
     "ifi": 493,
-    "text": "Mesaj",
-    "bigText": false
+    "text": "Mesaj"
   },
   {
     "ifi": 494,
-    "text": "Ödeme",
-    "bigText": false
+    "text": "Ödeme"
   },
   {
     "ifi": 495,
-    "text": "iol-apps'den İş/Siparişler",
-    "bigText": false
+    "text": "iol-apps'den İş/Siparişler"
   },
   {
     "ifi": 496,
-    "text": "Hiç bir şey",
-    "bigText": false
+    "text": "Hiç bir şey"
   },
   {
     "ifi": 497,
-    "text": "Değişiklikler yaptınız ama kaydetmediniz/uygulamadınız. Kapatmadan önce kaydetmeyi ister misiniz?",
-    "bigText": false
+    "text": "Değişiklikler yaptınız ama kaydetmediniz/uygulamadınız. Kapatmadan önce kaydetmeyi ister misiniz?"
   },
   {
     "ifi": 498,
-    "text": "Bulmak",
-    "bigText": false
+    "text": "Bulmak"
   },
   {
     "ifi": 499,
-    "text": "Dil ekle",
-    "bigText": false
+    "text": "Dil ekle"
   },
   {
     "ifi": 500,
-    "text": "<b>NiXeL</b> Gİ'nin dağıtılmış/merkezi olmayan mobil belge akış sistemidir",
-    "bigText": false
+    "text": "<b>NiXeL</b> Gİ'nin dağıtılmış/merkezi olmayan mobil belge akış sistemidir"
   },
   {
     "ifi": 501,
-    "text": "<b> Gizlilik Politikası </b> <br> <br> Terimler ve Kullanım Koşulları",
-    "bigText": false
+    "text": "<b> Gizlilik Politikası </b> <br> <br> Terimler ve Kullanım Koşulları"
   },
   {
     "ifi": 502,
-    "text": "Uygulamada derecelendirme",
-    "bigText": false
+    "text": "Uygulamada derecelendirme"
   },
   {
     "ifi": 503,
-    "text": "Uygulamada",
-    "bigText": false
+    "text": "Uygulamada"
   },
   {
     "ifi": 504,
-    "text": "icracı olarak",
-    "bigText": false
+    "text": "icracı olarak"
   },
   {
     "ifi": 505,
-    "text": "müşteri olarak",
-    "bigText": false
+    "text": "müşteri olarak"
   },
   {
     "ifi": 506,
-    "text": "Belge",
-    "bigText": false
+    "text": "Belge"
   },
   {
     "ifi": 507,
-    "text": "Sağlanan Kişiler",
-    "bigText": false
+    "text": "Sağlanan Kişiler"
   },
   {
     "ifi": 508,
-    "text": "{{appName}}, NiXeL ile giriş yapmayı kabul etmeyi ister",
-    "bigText": false
+    "text": "{{appName}}, NiXeL ile giriş yapmayı kabul etmeyi ister"
   },
   {
     "ifi": 509,
-    "text": "Veriler inceleme için gönderildi ve moderatörler tarafından onaylandıktan sonra kullanıma sunulacak",
-    "bigText": false
+    "text": "Veriler inceleme için gönderildi ve moderatörler tarafından onaylandıktan sonra kullanıma sunulacak"
   },
   {
     "ifi": 510,
-    "text": "Asgari ücret",
-    "bigText": false
+    "text": "Asgari ücret"
   },
   {
     "ifi": 511,
-    "text": "Bilgi Kaynağı (örn. Bağlantı/URL)",
-    "bigText": false
+    "text": "Bilgi Kaynağı (örn. Bağlantı/URL)"
   },
   {
     "ifi": 512,
-    "text": "Eğitim",
-    "bigText": false
+    "text": "Eğitim"
   },
   {
     "ifi": 513,
-    "text": "Sağlık",
-    "bigText": false
+    "text": "Sağlık"
   },
   {
     "ifi": 514,
-    "text": "Akıllı fatura",
-    "bigText": false
+    "text": "Akıllı fatura"
   },
   {
     "ifi": 515,
-    "text": "Detaylar",
-    "bigText": false
+    "text": "Detaylar"
   },
   {
     "ifi": 516,
-    "text": "Proje/Kâr Hakkı",
-    "bigText": false
+    "text": "Proje/Kâr Hakkı"
   },
   {
     "ifi": 517,
-    "text": "Telif hakkı",
-    "bigText": false
+    "text": "Telif hakkı"
   },
   {
     "ifi": 518,
-    "text": "Müşterilerden Kraliyet",
-    "bigText": false
+    "text": "Müşterilerden Kraliyet"
   },
   {
     "ifi": 519,
-    "text": "Sanatçılardan telif hakkı",
-    "bigText": false
+    "text": "Sanatçılardan telif hakkı"
   },
   {
     "ifi": 520,
-    "text": "Benim payım",
-    "bigText": false
+    "text": "Benim payım"
   },
   {
     "ifi": 521,
-    "text": "Sadece iol parçalarının yazarları telif hakkı kazanacaktır. Github.com/distributed-digital-nomads adresindeki yazarlara katılabilirsiniz",
-    "bigText": false
+    "text": "Sadece iol parçalarının yazarları telif hakkı kazanacaktır. Github.com/distributed-digital-nomads adresindeki yazarlara katılabilirsiniz"
   },
   {
     "ifi": 522,
-    "text": "Royalty Paylaşın",
-    "bigText": false
+    "text": "Royalty Paylaşın"
   },
   {
     "ifi": 523,
-    "text": "Uygulama yazarları",
-    "bigText": false
+    "text": "Uygulama yazarları"
   },
   {
     "ifi": 524,
-    "text": "Bu listede bana göster",
-    "bigText": false
+    "text": "Bu listede bana göster"
   },
   {
     "ifi": 525,
-    "text": "NiXeL'de bakiyenizde para birimleri yok. Lütfen, Bakiye Ekle/Yeniden Doldurma",
-    "bigText": false
+    "text": "NiXeL'de bakiyenizde para birimleri yok. Lütfen, Bakiye Ekle/Yeniden Doldurma"
   },
   {
     "ifi": 526,
-    "text": "Listeye para birimi ekle",
-    "bigText": false
+    "text": "Listeye para birimi ekle"
   },
   {
     "ifi": 527,
-    "text": "NiXeL bakiyenizi başarılı bir şekilde doldurabilmek için aşağıdaki adımları izleyin",
-    "bigText": false
+    "text": "NiXeL bakiyenizi başarılı bir şekilde doldurabilmek için aşağıdaki adımları izleyin"
   },
   {
     "ifi": 528,
-    "text": "Banka hesabınıza karşılık gelen bankacılık başvurusunu açın \"{{bankAccAlias}}\". Bankacılık başvurusunu kullanmıyorsanız, bu banka hesabının en yakın şubesine gitmelisiniz.",
-    "bigText": false
+    "text": "Banka hesabınıza karşılık gelen bankacılık başvurusunu açın \"{{bankAccAlias}}\". Bankacılık başvurusunu kullanmıyorsanız, bu banka hesabının en yakın şubesine gitmelisiniz."
   },
   {
     "ifi": 529,
-    "text": "Bankacılık uygulamasında yeni bir banka transferi açın. Banka hesabı para biriminiz NiXeL Top-Up para biriminden farklıysa, banka başvurunuzda yeni bir uluslararası transfer açın. Bankacılık başvurusunda istenen banka ayrıntılarını aşağıdaki listeden alın. (Bankanıza giderseniz, aşağıdaki listeyi bankanızın operatörüne sağlayın)",
-    "bigText": false
+    "text": "Bankacılık uygulamasında yeni bir banka transferi açın. Banka hesabı para biriminiz NiXeL Top-Up para biriminden farklıysa, banka başvurunuzda yeni bir uluslararası transfer açın. Bankacılık başvurusunda istenen banka ayrıntılarını aşağıdaki listeden alın. (Bankanıza giderseniz, aşağıdaki listeyi bankanızın operatörüne sağlayın)"
   },
   {
     "ifi": 530,
-    "text": "NiXeL'deki bakiyenize aktarımın hatasız kredilendirilmesi için, alıcı için tam olarak referans belirlemek önemlidir.",
-    "bigText": false
+    "text": "NiXeL'deki bakiyenize aktarımın hatasız kredilendirilmesi için, alıcı için tam olarak referans belirlemek önemlidir."
   },
   {
     "ifi": 531,
-    "text": "Bu aktarımı NiXeL'deki bakiyenize yönlendirme konusundaki fikrinizi değiştirirseniz, aşağıdaki düğmeyi tıklayın",
-    "bigText": false
+    "text": "Bu aktarımı NiXeL'deki bakiyenize yönlendirme konusundaki fikrinizi değiştirirseniz, aşağıdaki düğmeyi tıklayın"
   },
   {
     "ifi": 532,
-    "text": "Kabul edilmiş",
-    "bigText": false
+    "text": "Kabul edilmiş"
   },
   {
     "ifi": 533,
-    "text": "Dengeye eklendi",
-    "bigText": false
+    "text": "Dengeye eklendi"
   },
   {
     "ifi": 534,
-    "text": "Hesap Sahibi/Alıcı/Organizasyon",
-    "bigText": false
+    "text": "Hesap Sahibi/Alıcı/Organizasyon"
   },
   {
     "ifi": 535,
-    "text": "Ödeme kategorisini bağış veya hayır kurumu olarak belirtmelisiniz, çünkü NiXeL bakiyenizde para birimini trenler verdiğiniz için mal veya hizmet satın almazsınız. NiXeL, dijital göçebeler için ticari olmayan bir uygulamadır ve finansal hizmetler sağlamaz. Fonları NiXeL bakiyesinden banka hesaplarınıza çevirebilirsiniz. Bu senin gelirin",
-    "bigText": false
+    "text": "Ödeme kategorisini bağış veya hayır kurumu olarak belirtmelisiniz, çünkü NiXeL bakiyenizde para birimini trenler verdiğiniz için mal veya hizmet satın almazsınız. NiXeL, dijital göçebeler için ticari olmayan bir uygulamadır ve finansal hizmetler sağlamaz. Fonları NiXeL bakiyesinden banka hesaplarınıza çevirebilirsiniz. Bu senin gelirin"
   },
   {
     "ifi": 536,
-    "text": "Uygulama açık olmadığında push bildirimleri almayacaksınız",
-    "bigText": false
+    "text": "Uygulama açık olmadığında push bildirimleri almayacaksınız"
   },
   {
     "ifi": 537,
-    "text": "Belgeyi silme",
-    "bigText": false
+    "text": "Belgeyi silme"
   },
   {
     "ifi": 538,
-    "text": "Galeriden",
-    "bigText": false
+    "text": "Galeriden"
   },
   {
     "ifi": 539,
-    "text": "Fotoğraf çekmek",
-    "bigText": false
+    "text": "Fotoğraf çekmek"
   },
   {
     "ifi": 540,
-    "text": "Ayarlanan zaman",
-    "bigText": false
+    "text": "Ayarlanan zaman"
   },
   {
     "ifi": 541,
-    "text": "Tarihi Seçin",
-    "bigText": false
+    "text": "Tarihi Seçin"
   },
   {
     "ifi": 542,
-    "text": "Grup Sohbet Kuralları",
-    "bigText": false
+    "text": "Grup Sohbet Kuralları"
   },
   {
     "ifi": 543,
-    "text": "Olarak göndermek",
-    "bigText": false
+    "text": "Olarak göndermek"
   },
   {
     "ifi": 544,
-    "text": "Bu mesajı diğer kullanıcılardan gizle",
-    "bigText": false
+    "text": "Bu mesajı diğer kullanıcılardan gizle"
   },
   {
     "ifi": 545,
-    "text": "Bu kullanıcının tüm mesajlarını diğer kullanıcılardan gizle",
-    "bigText": false
+    "text": "Bu kullanıcının tüm mesajlarını diğer kullanıcılardan gizle"
   },
   {
     "ifi": 546,
-    "text": "Kullanıcının bu sohbete mesaj göndermesine izin vermeyin",
-    "bigText": false
+    "text": "Kullanıcının bu sohbete mesaj göndermesine izin vermeyin"
   },
   {
     "ifi": 547,
-    "text": "Yasaktan Önce Sohbet Kuralları Fren notu",
-    "bigText": false
+    "text": "Yasaktan Önce Sohbet Kuralları Fren notu"
   },
   {
     "ifi": 548,
-    "text": "Kitle fonlaması",
-    "bigText": false
+    "text": "Kitle fonlaması"
   },
   {
     "ifi": 549,
-    "text": "İş sigortası",
-    "bigText": false
+    "text": "İş sigortası"
   },
   {
     "ifi": 550,
-    "text": "Hayır kurumu",
-    "bigText": false
+    "text": "Hayır kurumu"
   },
   {
     "ifi": 551,
-    "text": "Dış İşlemler Operatörü",
-    "bigText": false
+    "text": "Dış İşlemler Operatörü"
   },
   {
     "ifi": 552,
-    "text": "Yeniden doldurmayı bekliyor",
-    "bigText": false
+    "text": "Yeniden doldurmayı bekliyor"
   },
   {
     "ifi": 553,
-    "text": "Para çekme bekleniyor",
-    "bigText": false
+    "text": "Para çekme bekleniyor"
   },
   {
     "ifi": 554,
-    "text": "Sinhrobot tarafından işlendi",
-    "bigText": false
+    "text": "Sinhrobot tarafından işlendi"
   },
   {
     "ifi": 555,
-    "text": "Kısmen yapıldı",
-    "bigText": false
+    "text": "Kısmen yapıldı"
   },
   {
     "ifi": 556,
-    "text": "SINHRO Sat/Satın Al",
-    "bigText": false
+    "text": "SINHRO Sat/Satın Al"
   },
   {
     "ifi": 557,
-    "text": "Kilitli",
-    "bigText": false
+    "text": "Kilitli"
   },
   {
     "ifi": 558,
-    "text": "Açılmış",
-    "bigText": false
+    "text": "Açılmış"
   },
   {
     "ifi": 559,
-    "text": "Reddedildi/geri gönderildi",
-    "bigText": false
+    "text": "Reddedildi/geri gönderildi"
   },
   {
     "ifi": 560,
-    "text": "Crowdfund projesini açık",
-    "bigText": false
+    "text": "Crowdfund projesini açık"
   },
   {
     "ifi": 561,
-    "text": "Crowdfund projesi",
-    "bigText": false
+    "text": "Crowdfund projesi"
   },
   {
     "ifi": 562,
-    "text": "iol ağına bağlanamadı. Birkaç saniye sonra deneyecek ..",
-    "bigText": false
+    "text": "iol ağına bağlanamadı. Birkaç saniye sonra deneyecek .."
   },
   {
     "ifi": 563,
-    "text": "Lütfen bağlantı için bekleyin!",
-    "bigText": false
+    "text": "Lütfen bağlantı için bekleyin!"
   },
   {
     "ifi": 564,
-    "text": "https://youtu.be/Vr5TZUcp-dA",
-    "bigText": false
+    "text": "https://youtu.be/Vr5TZUcp-dA"
   },
   {
     "ifi": 565,
-    "text": "Kendi uygulamanızı ekleyin",
-    "bigText": false
+    "text": "Kendi uygulamanızı ekleyin"
   },
   {
     "ifi": 566,
-    "text": "Yapılandırmalarınızla uygulamanızı oluşturmak için masaüstü uygulaması iol-Builder kullanın. https://www.youtube.com/@nixelapp/playlists adresindeki talimatları izleyin.",
-    "bigText": false
+    "text": "Yapılandırmalarınızla uygulamanızı oluşturmak için masaüstü uygulaması iol-Builder kullanın. https://www.youtube.com/@nixelapp/playlists adresindeki talimatları izleyin."
   },
   {
     "ifi": 567,
-    "text": "Basit mod",
-    "bigText": false
+    "text": "Basit mod"
   },
   {
     "ifi": 568,
-    "text": "Kullanım Video Kılavuzları",
-    "bigText": false
+    "text": "Kullanım Video Kılavuzları"
   },
   {
     "ifi": 569,
-    "text": "Özellik vizyonunu tekniklere yönlendirecek, ılımlı ve açıklayacak bu özelliğin bir ürün sahibi veya yazarı arıyoruz. Lütfen, Kullanıcı Adı Diamo'ya mesaj",
-    "bigText": false
+    "text": "Özellik vizyonunu tekniklere yönlendirecek, ılımlı ve açıklayacak bu özelliğin bir ürün sahibi veya yazarı arıyoruz. Lütfen, Kullanıcı Adı Diamo'ya mesaj"
   },
   {
     "ifi": 570,
-    "text": "Dijital kartlar",
-    "bigText": false
+    "text": "Dijital kartlar"
   },
   {
     "ifi": 571,
-    "text": "Bu seçenek şu anda kullanılamıyor",
-    "bigText": false
+    "text": "Bu seçenek şu anda kullanılamıyor"
   },
   {
     "ifi": 572,
-    "text": "Bu özellik RC (Sürüm Adayı veya Açık Test) sürümlerinde mevcut değildir. {{version}} sürümünü kullanıyorsunuz. Herhangi bir sorunuz varsa lütfen \"SSS ve Destek\" kullanın",
-    "bigText": false
+    "text": "Bu özellik RC (Sürüm Adayı veya Açık Test) sürümlerinde mevcut değildir. {{version}} sürümünü kullanıyorsunuz. Herhangi bir sorunuz varsa lütfen \"SSS ve Destek\" kullanın"
   },
   {
     "ifi": 573,
-    "text": "Kabul etmek",
-    "bigText": false
+    "text": "Kabul etmek"
   },
   {
     "ifi": 574,
-    "text": "Dijital göçebe",
-    "bigText": false
+    "text": "Dijital göçebe"
   },
   {
     "ifi": 575,
-    "text": "Cihazınız NFC'yi desteklemiyor",
-    "bigText": false
+    "text": "Cihazınız NFC'yi desteklemiyor"
   },
   {
     "ifi": 576,
-    "text": "{{appName}} iol uygulaması bu özellik için cihazda gereklidir, ancak yüklenmez. Lütfen yükleyin ve tekrar deneyin",
-    "bigText": false
+    "text": "{{appName}} iol uygulaması bu özellik için cihazda gereklidir, ancak yüklenmez. Lütfen yükleyin ve tekrar deneyin"
   },
   {
     "ifi": 577,
-    "text": "Bir App Store Seçin",
-    "bigText": false
+    "text": "Bir App Store Seçin"
   },
   {
     "ifi": 578,
-    "text": "Skorlar",
-    "bigText": false
+    "text": "Skorlar"
   },
   {
     "ifi": 579,
-    "text": "Takım",
-    "bigText": false
+    "text": "Takım"
   },
   {
     "ifi": 580,
-    "text": "E -posta, bu kullanıcının şifre kurtarma için ayarlanmış e -postayla eşleşmiyor",
-    "bigText": false
+    "text": "E -posta, bu kullanıcının şifre kurtarma için ayarlanmış e -postayla eşleşmiyor"
   },
   {
     "ifi": 581,
-    "text": "E -postaya şifre sıfırlama kodu ve kısa talimat içeren bir e -posta gönderildi. Lütfen e -posta gelen kutunuzu kontrol edin. 10 dakika içinde e -posta yoksa spam ve önemsiz klasörleri kontrol edin",
-    "bigText": false
+    "text": "E -postaya şifre sıfırlama kodu ve kısa talimat içeren bir e -posta gönderildi. Lütfen e -posta gelen kutunuzu kontrol edin. 10 dakika içinde e -posta yoksa spam ve önemsiz klasörleri kontrol edin"
   },
   {
     "ifi": 582,
-    "text": "Parola kurtarma için",
-    "bigText": false
+    "text": "Parola kurtarma için"
   },
   {
     "ifi": 583,
-    "text": "Ay",
-    "bigText": false
+    "text": "Ay"
   },
   {
     "ifi": 584,
-    "text": "Asgari ücreti belirleyin (IOU oranı teklifi)",
-    "bigText": false
+    "text": "Asgari ücreti belirleyin (IOU oranı teklifi)"
   },
   {
     "ifi": 585,
-    "text": "Ülke ISO 2, 3 kodları",
-    "bigText": false
+    "text": "Ülke ISO 2, 3 kodları"
   },
   {
     "ifi": 586,
-    "text": "Ülke para birimi",
-    "bigText": false
+    "text": "Ülke para birimi"
   },
   {
     "ifi": 587,
-    "text": "Ülke dilleri (kodlar)",
-    "bigText": false
+    "text": "Ülke dilleri (kodlar)"
   },
   {
     "ifi": 588,
-    "text": "IOU senedi oranı",
-    "bigText": false
+    "text": "IOU senedi oranı"
   },
   {
     "ifi": 800,
@@ -2332,816 +1870,654 @@
   },
   {
     "ifi": 1000,
-    "text": "3-50 Sembol A-Z ve 0-9",
-    "bigText": false
+    "text": "3-50 Sembol A-Z ve 0-9"
   },
   {
     "ifi": 1001,
-    "text": "8-50 sembol",
-    "bigText": false
+    "text": "8-50 sembol"
   },
   {
     "ifi": 1002,
-    "text": "Tekrar denemek ister misin?",
-    "bigText": false
+    "text": "Tekrar denemek ister misin?"
   },
   {
     "ifi": 1003,
-    "text": "Lütfen, uygulama ayarlarında bir PIN ayarlayın",
-    "bigText": false
+    "text": "Lütfen, uygulama ayarlarında bir PIN ayarlayın"
   },
   {
     "ifi": 1004,
-    "text": "Üzengide şifreleme/şifresini çözme",
-    "bigText": false
+    "text": "Üzengide şifreleme/şifresini çözme"
   },
   {
     "ifi": 1005,
-    "text": "Parola ve şifre onayı aynı değil",
-    "bigText": false
+    "text": "Parola ve şifre onayı aynı değil"
   },
   {
     "ifi": 1006,
-    "text": "Saniyeler kaldı",
-    "bigText": false
+    "text": "Saniyeler kaldı"
   },
   {
     "ifi": 1007,
-    "text": "Captcha ifadesi eşittir",
-    "bigText": false
+    "text": "Captcha ifadesi eşittir"
   },
   {
     "ifi": 1008,
-    "text": "Turing Testi",
-    "bigText": false
+    "text": "Turing Testi"
   },
   {
     "ifi": 1009,
-    "text": "Çok Şifre Olmalı",
-    "bigText": false
+    "text": "Çok Şifre Olmalı"
   },
   {
     "ifi": 1010,
-    "text": "Uygulamanın \"Şartlar ve Kullanım Koşulları\" nı kabul ettiğiniz uygulamaya kaydolma",
-    "bigText": false
+    "text": "Uygulamanın \"Şartlar ve Kullanım Koşulları\" nı kabul ettiğiniz uygulamaya kaydolma"
   },
   {
     "ifi": 1011,
-    "text": "İkinci ad",
-    "bigText": false
+    "text": "İkinci ad"
   },
   {
     "ifi": 1012,
-    "text": "İsim",
-    "bigText": false
+    "text": "İsim"
   },
   {
     "ifi": 1013,
-    "text": "Soyadı",
-    "bigText": false
+    "text": "Soyadı"
   },
   {
     "ifi": 1014,
-    "text": "Doğum günü",
-    "bigText": false
+    "text": "Doğum günü"
   },
   {
     "ifi": 1015,
-    "text": "Senin hakkında",
-    "bigText": false
+    "text": "Senin hakkında"
   },
   {
     "ifi": 1016,
-    "text": "Resmi ile en az bir kimlik belgesi gerektirir. Bölüm verileri çözülmez.",
-    "bigText": false
+    "text": "Resmi ile en az bir kimlik belgesi gerektirir. Bölüm verileri çözülmez."
   },
   {
     "ifi": 1017,
-    "text": "Ek bilgi (numara vb.)",
-    "bigText": false
+    "text": "Ek bilgi (numara vb.)"
   },
   {
     "ifi": 1018,
-    "text": "Belge adı",
-    "bigText": false
+    "text": "Belge adı"
   },
   {
     "ifi": 1019,
-    "text": "Doküman fotoğrafları",
-    "bigText": false
+    "text": "Doküman fotoğrafları"
   },
   {
     "ifi": 1020,
-    "text": "Diğer kullanıcılara göster",
-    "bigText": false
+    "text": "Diğer kullanıcılara göster"
   },
   {
     "ifi": 1021,
-    "text": "Şifre Kurtarma Soruları",
-    "bigText": false
+    "text": "Şifre Kurtarma Soruları"
   },
   {
     "ifi": 1022,
-    "text": "Lütfen 3 soru bul ve onlara cevap verin. Hesabınızı kurtarmak zorunda kalırsanız, örneğin şifreyi unuttuğunuzda bunlara ihtiyacınız olabilir. Gerekli bölüm.",
-    "bigText": false
+    "text": "Lütfen 3 soru bul ve onlara cevap verin. Hesabınızı kurtarmak zorunda kalırsanız, örneğin şifreyi unuttuğunuzda bunlara ihtiyacınız olabilir. Gerekli bölüm."
   },
   {
     "ifi": 1023,
-    "text": "E-postanızı giriniz",
-    "bigText": false
+    "text": "E-postanızı giriniz"
   },
   {
     "ifi": 1024,
-    "text": "E -postanızı profilinizin şifre kurtarma bölümünde ayarlamadınız",
-    "bigText": false
+    "text": "E -postanızı profilinizin şifre kurtarma bölümünde ayarlamadınız"
   },
   {
     "ifi": 1025,
-    "text": "Fotoğraflarınızı",
-    "bigText": false
+    "text": "Fotoğraflarınızı"
   },
   {
     "ifi": 1026,
-    "text": "Lütfen gerekli tüm bölümleri ve alanları doldurun",
-    "bigText": false
+    "text": "Lütfen gerekli tüm bölümleri ve alanları doldurun"
   },
   {
     "ifi": 1027,
-    "text": "Değer",
-    "bigText": false
+    "text": "Değer"
   },
   {
     "ifi": 1028,
-    "text": "CAPTCHA çözümünü girerek veri değerlerini veya eylemini onaylayın",
-    "bigText": false
+    "text": "CAPTCHA çözümünü girerek veri değerlerini veya eylemini onaylayın"
   },
   {
     "ifi": 1029,
-    "text": "Bir mesaj yazın",
-    "bigText": false
+    "text": "Bir mesaj yazın"
   },
   {
     "ifi": 1030,
-    "text": "Gönderilmiş",
-    "bigText": false
+    "text": "Gönderilmiş"
   },
   {
     "ifi": 1031,
-    "text": "Görülen",
-    "bigText": false
+    "text": "Görülen"
   },
   {
     "ifi": 1032,
-    "text": "Son",
-    "bigText": false
+    "text": "Son"
   },
   {
     "ifi": 1033,
-    "text": "Bu kullanıcıdan mesajlar hakkında bildirim almayacaksınız. Eyleminizi onaylıyor musunuz?",
-    "bigText": false
+    "text": "Bu kullanıcıdan mesajlar hakkında bildirim almayacaksınız. Eyleminizi onaylıyor musunuz?"
   },
   {
     "ifi": 1034,
-    "text": "Bu sohbeti sileceksin. Bu, kullanıcının size mesaj gönderemeyeceği anlamına gelir. Kullanıcının profilinden bir mesaj göndererek sohbeti geri yükleyebileceksiniz. Eylemi onaylıyor musunuz?",
-    "bigText": false
+    "text": "Bu sohbeti sileceksin. Bu, kullanıcının size mesaj gönderemeyeceği anlamına gelir. Kullanıcının profilinden bir mesaj göndererek sohbeti geri yükleyebileceksiniz. Eylemi onaylıyor musunuz?"
   },
   {
     "ifi": 1035,
-    "text": "Kullanıcı sohbetini onun için sildi çünkü kullanıcıya mesaj atamaz/arayamazsınız.",
-    "bigText": false
+    "text": "Kullanıcı sohbetini onun için sildi çünkü kullanıcıya mesaj atamaz/arayamazsınız."
   },
   {
     "ifi": 1036,
-    "text": "Henüz veri yok ...",
-    "bigText": false
+    "text": "Henüz veri yok ..."
   },
   {
     "ifi": 1037,
-    "text": "{{providerName}} uygulamasında {{userName}} uygulaması hakkında {{providerName}}",
-    "bigText": false
+    "text": "{{providerName}} uygulamasında {{userName}} uygulaması hakkında {{providerName}}"
   },
   {
     "ifi": 1038,
-    "text": "Bu sohbetteki mesajlar hakkında bildirim almayacaksınız. Eyleminizi onaylıyor musunuz?",
-    "bigText": false
+    "text": "Bu sohbetteki mesajlar hakkında bildirim almayacaksınız. Eyleminizi onaylıyor musunuz?"
   },
   {
     "ifi": 1039,
-    "text": "Bu gruba üyeliğinizi kapatacaksınız. Eylemi onaylıyor musunuz?",
-    "bigText": false
+    "text": "Bu gruba üyeliğinizi kapatacaksınız. Eylemi onaylıyor musunuz?"
   },
   {
     "ifi": 1040,
-    "text": "{{dt}} kadar parola kurtarma sizin için kilitlendi",
-    "bigText": false
+    "text": "{{dt}} kadar parola kurtarma sizin için kilitlendi"
   },
   {
     "ifi": 1041,
-    "text": "Bu soruya hazırladığınız bir cevap verin",
-    "bigText": false
+    "text": "Bu soruya hazırladığınız bir cevap verin"
   },
   {
     "ifi": 1042,
-    "text": "Cevap, kullanıcı tarafından bu soru için oluşturulan cevaba eşit değildir. Tekrar deneyin. {{attemptsLeft}} tüm sorular için kalan girişimler",
-    "bigText": false
+    "text": "Cevap, kullanıcı tarafından bu soru için oluşturulan cevaba eşit değildir. Tekrar deneyin. {{attemptsLeft}} tüm sorular için kalan girişimler"
   },
   {
     "ifi": 1043,
-    "text": "Tebrikler, yeni şifreniz {{pw}}. Oturum açtıktan sonra uygulama ayarlarında değiştirebilirsiniz",
-    "bigText": false
+    "text": "Tebrikler, yeni şifreniz {{pw}}. Oturum açtıktan sonra uygulama ayarlarında değiştirebilirsiniz"
   },
   {
     "ifi": 1044,
-    "text": "Uygulama Kilit Pimi. Bu, hesabınızı güvence altına almak için ek bir özelliktir. App Lock'u kullandığınızda, hala hesabınızla birlikte oturum açın ve kişisel bildirimler alırsınız. Oturum açtığınızda kişisel bildirimler almazsınız",
-    "bigText": false
+    "text": "Uygulama Kilit Pimi. Bu, hesabınızı güvence altına almak için ek bir özelliktir. App Lock'u kullandığınızda, hala hesabınızla birlikte oturum açın ve kişisel bildirimler alırsınız. Oturum açtığınızda kişisel bildirimler almazsınız"
   },
   {
     "ifi": 1045,
-    "text": "Doğru pimi girin",
-    "bigText": false
+    "text": "Doğru pimi girin"
   },
   {
     "ifi": 1046,
-    "text": "Okuduktan sonra posta kutusu bildirimini sil",
-    "bigText": false
+    "text": "Okuduktan sonra posta kutusu bildirimini sil"
   },
   {
     "ifi": 1047,
-    "text": "Bu günden sonra yeniden logine ihtiyacınız olacak",
-    "bigText": false
+    "text": "Bu günden sonra yeniden logine ihtiyacınız olacak"
   },
   {
     "ifi": 1048,
-    "text": "Girişli Kalın (Günler)",
-    "bigText": false
+    "text": "Girişli Kalın (Günler)"
   },
   {
     "ifi": 1049,
-    "text": "NiXeL, kart bilgilerinizi veritabanında veya arka uçta kaydetmez. NiXeL'deki tüm ödemeler Google Pay, Apple Pay, Stripe vb. Gibi resmi toplayıcılar tarafından işlenir.",
-    "bigText": false
+    "text": "NiXeL, kart bilgilerinizi veritabanında veya arka uçta kaydetmez. NiXeL'deki tüm ödemeler Google Pay, Apple Pay, Stripe vb. Gibi resmi toplayıcılar tarafından işlenir."
   },
   {
     "ifi": 1050,
-    "text": "Gelir",
-    "bigText": false
+    "text": "Gelir"
   },
   {
     "ifi": 1051,
-    "text": "Sonuç",
-    "bigText": false
+    "text": "Sonuç"
   },
   {
     "ifi": 1052,
-    "text": "İşlem numarası.",
-    "bigText": false
+    "text": "İşlem numarası."
   },
   {
     "ifi": 1053,
-    "text": "Tarih, saat",
-    "bigText": false
+    "text": "Tarih, saat"
   },
   {
     "ifi": 1054,
-    "text": "İşlem tipi",
-    "bigText": false
+    "text": "İşlem tipi"
   },
   {
     "ifi": 1055,
-    "text": "Ödeme yöntemi",
-    "bigText": false
+    "text": "Ödeme yöntemi"
   },
   {
     "ifi": 1056,
-    "text": "Miktar",
-    "bigText": false
+    "text": "Miktar"
   },
   {
     "ifi": 1057,
-    "text": "Para birimi",
-    "bigText": false
+    "text": "Para birimi"
   },
   {
     "ifi": 1058,
-    "text": "Ödeme yapan kimse",
-    "bigText": false
+    "text": "Ödeme yapan kimse"
   },
   {
     "ifi": 1059,
-    "text": "Alacaklı",
-    "bigText": false
+    "text": "Alacaklı"
   },
   {
     "ifi": 1060,
-    "text": "Tanım",
-    "bigText": false
+    "text": "Tanım"
   },
   {
     "ifi": 1061,
-    "text": "ilave bilgi",
-    "bigText": false
+    "text": "ilave bilgi"
   },
   {
     "ifi": 1062,
-    "text": "iol dışında",
-    "bigText": false
+    "text": "iol dışında"
   },
   {
     "ifi": 1063,
-    "text": "İnternet bağlantısını kontrol edin",
-    "bigText": false
+    "text": "İnternet bağlantısını kontrol edin"
   },
   {
     "ifi": 1064,
-    "text": "Fotoğrafı kaldıramadım. Tekrar deneyin",
-    "bigText": false
+    "text": "Fotoğrafı kaldıramadım. Tekrar deneyin"
   },
   {
     "ifi": 1065,
-    "text": "NiXeL ile başarısız giriş",
-    "bigText": false
+    "text": "NiXeL ile başarısız giriş"
   },
   {
     "ifi": 1066,
-    "text": "Kayıtlı oldunuz ve şimdi giriş yapabilirsiniz.",
-    "bigText": false
+    "text": "Kayıtlı oldunuz ve şimdi giriş yapabilirsiniz."
   },
   {
     "ifi": 1067,
-    "text": "Bu sohbeti okuyamazsınız. Erişim seviyesi kodunuz: {{chat_access_level}}",
-    "bigText": false
+    "text": "Bu sohbeti okuyamazsınız. Erişim seviyesi kodunuz: {{chat_access_level}}"
   },
   {
     "ifi": 1068,
-    "text": "Bu sohbet sizin için kilitli. Sebep kaldığı gibi: \"{{lock_descr}}\"",
-    "bigText": false
+    "text": "Bu sohbet sizin için kilitli. Sebep kaldığı gibi: \"{{lock_descr}}\""
   },
   {
     "ifi": 1069,
-    "text": "Yeni Docbox Oluşturma",
-    "bigText": false
+    "text": "Yeni Docbox Oluşturma"
   },
   {
     "ifi": 1300,
-    "text": "Ocak",
-    "bigText": false
+    "text": "Ocak"
   },
   {
     "ifi": 1301,
-    "text": "Şubat",
-    "bigText": false
+    "text": "Şubat"
   },
   {
     "ifi": 1302,
-    "text": "Mart",
-    "bigText": false
+    "text": "Mart"
   },
   {
     "ifi": 1303,
-    "text": "Nisan",
-    "bigText": false
+    "text": "Nisan"
   },
   {
     "ifi": 1304,
-    "text": "Mayıs",
-    "bigText": false
+    "text": "Mayıs"
   },
   {
     "ifi": 1305,
-    "text": "Haziran",
-    "bigText": false
+    "text": "Haziran"
   },
   {
     "ifi": 1306,
-    "text": "Temmuz",
-    "bigText": false
+    "text": "Temmuz"
   },
   {
     "ifi": 1307,
-    "text": "Ağustos",
-    "bigText": false
+    "text": "Ağustos"
   },
   {
     "ifi": 1308,
-    "text": "Eylül",
-    "bigText": false
+    "text": "Eylül"
   },
   {
     "ifi": 1309,
-    "text": "Ekim",
-    "bigText": false
+    "text": "Ekim"
   },
   {
     "ifi": 1310,
-    "text": "Kasım",
-    "bigText": false
+    "text": "Kasım"
   },
   {
     "ifi": 1311,
-    "text": "Aralık",
-    "bigText": false
+    "text": "Aralık"
   },
   {
     "ifi": 1312,
-    "text": "şifre değiştirildi",
-    "bigText": false
+    "text": "şifre değiştirildi"
   },
   {
     "ifi": 1313,
-    "text": "Emirler",
-    "bigText": false
+    "text": "Emirler"
   },
   {
     "ifi": 1314,
-    "text": "Aktif Siparişler",
-    "bigText": false
+    "text": "Aktif Siparişler"
   },
   {
     "ifi": 1315,
-    "text": "Uygulama",
-    "bigText": false
+    "text": "Uygulama"
   },
   {
     "ifi": 1316,
-    "text": "Başlangıç",
-    "bigText": false
+    "text": "Başlangıç"
   },
   {
     "ifi": 1317,
-    "text": "Yeni",
-    "bigText": false
+    "text": "Yeni"
   },
   {
     "ifi": 1318,
-    "text": "Aktif",
-    "bigText": false
+    "text": "Aktif"
   },
   {
     "ifi": 1319,
-    "text": "Aktif / Meşgul",
-    "bigText": false
+    "text": "Aktif / Meşgul"
   },
   {
     "ifi": 1320,
-    "text": "Kapalı / silindi",
-    "bigText": false
+    "text": "Kapalı / silindi"
   },
   {
     "ifi": 1321,
-    "text": "SmartConctract",
-    "bigText": false
+    "text": "SmartConctract"
   },
   {
     "ifi": 1322,
-    "text": "Başlamadan önce iptal edildi",
-    "bigText": false
+    "text": "Başlamadan önce iptal edildi"
   },
   {
     "ifi": 1323,
-    "text": "İcracı",
-    "bigText": false
+    "text": "İcracı"
   },
   {
     "ifi": 1324,
-    "text": "Performans sırasında iptal edildi",
-    "bigText": false
+    "text": "Performans sırasında iptal edildi"
   },
   {
     "ifi": 1325,
-    "text": "Bitmiş",
-    "bigText": false
+    "text": "Bitmiş"
   },
   {
     "ifi": 2000,
     "text": "Çözümler Mimarı",
-    "bigText": false,
     "note": "from 2000 to 2299 are role/specialisation names"
   },
   {
     "ifi": 2001,
-    "text": "Yazılım geliştirici",
-    "bigText": false
+    "text": "Yazılım geliştirici"
   },
   {
     "ifi": 2002,
-    "text": "Akademisyen",
-    "bigText": false
+    "text": "Akademisyen"
   },
   {
     "ifi": 2003,
-    "text": "Mucit",
-    "bigText": false
+    "text": "Mucit"
   },
   {
     "ifi": 2004,
-    "text": "Bankacılık",
-    "bigText": false
+    "text": "Bankacılık"
   },
   {
     "ifi": 2005,
-    "text": "Kredi uzmanı",
-    "bigText": false
+    "text": "Kredi uzmanı"
   },
   {
     "ifi": 2006,
-    "text": "Muhasebe",
-    "bigText": false
+    "text": "Muhasebe"
   },
   {
     "ifi": 2007,
-    "text": "Gönüllü",
-    "bigText": false
+    "text": "Gönüllü"
   },
   {
     "ifi": 2008,
-    "text": "UI test cihazı",
-    "bigText": false
+    "text": "UI test cihazı"
   },
   {
     "ifi": 2009,
-    "text": "Kanlı tutkunu",
-    "bigText": false
+    "text": "Kanlı tutkunu"
   },
   {
     "ifi": 2010,
-    "text": "Finans",
-    "bigText": false
+    "text": "Finans"
   },
   {
     "ifi": 2011,
-    "text": "Kanun",
-    "bigText": false
+    "text": "Kanun"
   },
   {
     "ifi": 2012,
-    "text": "UI Yerelleştirme",
-    "bigText": false
+    "text": "UI Yerelleştirme"
   },
   {
     "ifi": 2013,
-    "text": "Hayır kurumu",
-    "bigText": false
+    "text": "Hayır kurumu"
   },
   {
     "ifi": 2014,
-    "text": "Yerelleştirme Yöneticisi",
-    "bigText": false
+    "text": "Yerelleştirme Yöneticisi"
   },
   {
     "ifi": 2015,
-    "text": "Danışman",
-    "bigText": false
+    "text": "Danışman"
   },
   {
     "ifi": 2016,
-    "text": "Yerel muhasebeci",
-    "bigText": false
+    "text": "Yerel muhasebeci"
   },
   {
     "ifi": 2017,
-    "text": "Ön uç geliştirici",
-    "bigText": false
+    "text": "Ön uç geliştirici"
   },
   {
     "ifi": 2018,
-    "text": "Mobil Uygulama Geliştiricisi",
-    "bigText": false
+    "text": "Mobil Uygulama Geliştiricisi"
   },
   {
     "ifi": 2300,
     "text": "Kullanıcı",
-    "bigText": false,
     "note": "from 2300 to 2399 chat roles are role/specialisation names"
   },
   {
     "ifi": 2301,
-    "text": "Kullanıcıların Desteği",
-    "bigText": false
+    "text": "Kullanıcıların Desteği"
   },
   {
     "ifi": 2302,
-    "text": "Teknik Destek",
-    "bigText": false
+    "text": "Teknik Destek"
   },
   {
     "ifi": 2303,
-    "text": "Moderatör",
-    "bigText": false
+    "text": "Moderatör"
   },
   {
     "ifi": 2304,
-    "text": "Finansal destek",
-    "bigText": false
+    "text": "Finansal destek"
   },
   {
     "ifi": 2305,
-    "text": "Yasal destek",
-    "bigText": false
+    "text": "Yasal destek"
   },
   {
     "ifi": 2306,
-    "text": "Sistem yöneticisi",
-    "bigText": false
+    "text": "Sistem yöneticisi"
   },
   {
     "ifi": 2307,
-    "text": "Yazılım Mühendisi",
-    "bigText": false
+    "text": "Yazılım Mühendisi"
   },
   {
     "ifi": 2308,
-    "text": "Mimar",
-    "bigText": false
+    "text": "Mimar"
   },
   {
     "ifi": 2400,
     "text": "Configuring in the iolBuilder",
-    "bigText": false,
     "note": "from 2400 2499 iol app states"
   },
   {
     "ifi": 2401,
-    "text": "Saved in the iolBuilder",
-    "bigText": false
+    "text": "Saved in the iolBuilder"
   },
   {
     "ifi": 2402,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2403,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2404,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2405,
-    "text": "Generated in the iolBuilder",
-    "bigText": false
+    "text": "Generated in the iolBuilder"
   },
   {
     "ifi": 2406,
-    "text": "Under development",
-    "bigText": false
+    "text": "Under development"
   },
   {
     "ifi": 2407,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2408,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2409,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2410,
-    "text": "Internal test",
-    "bigText": false
+    "text": "Internal test"
   },
   {
     "ifi": 2411,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2412,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2413,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2414,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2415,
-    "text": "Available unsigned APK. Public test",
-    "bigText": false
+    "text": "Available unsigned APK. Public test"
   },
   {
     "ifi": 2416,
-    "text": "Available signed APK. Public test",
-    "bigText": false
+    "text": "Available signed APK. Public test"
   },
   {
     "ifi": 2417,
-    "text": "Available in Google/App store. Early access",
-    "bigText": false
+    "text": "Available in Google/App store. Early access"
   },
   {
     "ifi": 2418,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2419,
-    "text": "",
-    "bigText": false
+    "text": ""
   },
   {
     "ifi": 2420,
-    "text": "Available in Google/App store",
-    "bigText": false
+    "text": "Available in Google/App store"
   },
   {
     "ifi": 2500,
     "text": "Kart sistemi",
-    "bigText": false,
     "notes": "from 2500 to 2899 cards related"
   },
   {
     "ifi": 2501,
-    "text": "Emredilmiş",
-    "bigText": false
+    "text": "Emredilmiş"
   },
   {
     "ifi": 2502,
-    "text": "Reddetti",
-    "bigText": false
+    "text": "Reddetti"
   },
   {
     "ifi": 2503,
-    "text": "Veriliş",
-    "bigText": false
+    "text": "Veriliş"
   },
   {
     "ifi": 2504,
-    "text": "Aktif",
-    "bigText": false
+    "text": "Aktif"
   },
   {
     "ifi": 2505,
-    "text": "Dondurulmuş",
-    "bigText": false
+    "text": "Dondurulmuş"
   },
   {
     "ifi": 2506,
-    "text": "Yerlebir edilmiş",
-    "bigText": false
+    "text": "Yerlebir edilmiş"
   },
   {
     "ifi": 2507,
-    "text": "Günü geçmiş",
-    "bigText": false
+    "text": "Günü geçmiş"
   },
   {
     "ifi": 2508,
-    "text": "Yeni kart ver",
-    "bigText": false
+    "text": "Yeni kart ver"
   },
   {
     "ifi": 2509,
-    "text": "Dijital kartlarla çevrimiçi ödemeler yapabilirsiniz, Google Pay, Apple Pay vb.",
-    "bigText": false
+    "text": "Dijital kartlarla çevrimiçi ödemeler yapabilirsiniz, Google Pay, Apple Pay vb."
   },
   {
     "ifi": 2510,
-    "text": "İhraç için ücret",
-    "bigText": false
+    "text": "İhraç için ücret"
   },
   {
     "ifi": 2511,
-    "text": "Yıllık ücret",
-    "bigText": false
+    "text": "Yıllık ücret"
   },
   {
     "ifi": 2512,
-    "text": "CVC/CVV göster",
-    "bigText": false
+    "text": "CVC/CVV göster"
   },
   {
     "ifi": 2513,
-    "text": "Donmak",
-    "bigText": false
+    "text": "Donmak"
   },
   {
     "ifi": 2514,
-    "text": "Çözmek",
-    "bigText": false
+    "text": "Çözmek"
   },
   {
     "ifi": 2515,
-    "text": "Kart Yok",
-    "bigText": false
+    "text": "Kart Yok"
   },
   {
     "ifi": 2516,
-    "text": "Dijital kartlarımız, iç denge fsp ile farklı FSP tarafından sunulmaktadır. FSP'ler arasındaki transferler 5 bankacılık gününe kadar sürebilir",
-    "bigText": false
+    "text": "Dijital kartlarımız, iç denge fsp ile farklı FSP tarafından sunulmaktadır. FSP'ler arasındaki transferler 5 bankacılık gününe kadar sürebilir"
   }
 ]
