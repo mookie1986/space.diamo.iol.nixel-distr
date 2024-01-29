@@ -37,6 +37,7 @@
   {"ifi": 34, "text": "IOU in NiXeL"},
   {"ifi": 35, "text": "SINHRO in NiXeL"},
   {"ifi": 36, "text": "A new edition of the NiXeL app is available. Please, update the app"},
+  {"ifi": 37, "text": "Dark/Light mode"},
   {"ifi": 99, "text": "The feature is coming soon"},
   {"ifi": 100, "text": "Yes"},
   {"ifi": 101, "text": "No"},
