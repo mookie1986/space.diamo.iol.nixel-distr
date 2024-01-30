@@ -151,6 +151,7 @@
   {"ifi": 37, "text": "Karanlık/Aydınlık modu"},
   {"ifi": 38, "text": "Attempts left"},
   {"ifi": 39, "text": "To reset PIN you can unistall the app with all data and install it again"},
+  {"ifi": 40, "text": "Your NiXeL data in the device have been deleted. Will see you next time!"},
   {
     "ifi": 99,
     "text": "Özellik yakında geliyor"
