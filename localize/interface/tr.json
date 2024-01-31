@@ -153,6 +153,8 @@
   {"ifi": 39, "text": "To reset PIN you can unistall the app with all data and install it again"},
   {"ifi": 40, "text": "Your NiXeL data in the device have been deleted. Will see you next time!"},
   {"ifi": 41, "text": "Rich Text editor"},
+  {"ifi": 42, "text": "Max length"},
+  {"ifi": 43, "text": "Min length"},
   {
     "ifi": 99,
     "text": "Özellik yakında geliyor"
