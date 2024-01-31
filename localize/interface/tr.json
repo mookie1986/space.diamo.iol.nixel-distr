@@ -155,6 +155,7 @@
   {"ifi": 41, "text": "Rich Text editor"},
   {"ifi": 42, "text": "Max length"},
   {"ifi": 43, "text": "Min length"},
+  {"ifi": 44, "text": "Type your text and links here"},
   {
     "ifi": 99,
     "text": "Özellik yakında geliyor"
