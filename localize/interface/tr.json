@@ -157,6 +157,8 @@
   {"ifi": 43, "text": "Min length"},
   {"ifi": 44, "text": "Type your text and links here"},
   {"ifi": 45, "text": "Result"},
+  {"ifi": 46, "text": "Your roles in the iol allow you to verify other users manually. Please, check the profile carefully and verify or reject the user verification"},
+  {"ifi": 47, "text": "Type here..."},
   {
     "ifi": 99,
     "text": "Özellik yakında geliyor"
