@@ -456,7 +456,7 @@
   {"ifi": 563, "text": "Please, wait for connection!"},
   {"ifi": 564, "text": "https://youtu.be/Vr5TZUcp-dA"},
   {"ifi": 565, "text": "Add your own app"},
-  {"ifi": 566, "text": "Use desktop app iol-builder to generate your app with your configurations. Watch the instruction on https://www.youtube.com/@nixelapp/playlists"},
+  {"ifi": 566, "text": "Use desktop app iol-builder to generate your app with your configurations. Watch the instruction on <a href=\"https://www.youtube.com/@nixelapp/playlists\" target=\"_blank\">https://www.youtube.com/@nixelapp/playlists</a>"},
   {"ifi": 567, "text": "Simple mode"},
   {"ifi": 568, "text": "Usage video guides"},
   {"ifi": 569, "text": "We are looking for a product owner or author of this feature that will manenge, moderate and explain the feature vision to technicals. Please, message to username diamo"},
