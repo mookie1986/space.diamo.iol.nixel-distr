@@ -48,6 +48,8 @@
   {"ifi": 45, "text": "Result"},
   {"ifi": 46, "text": "Your roles in the iol allow you to verify other users manually. Please, check the profile carefully and verify or reject the user verification"},
   {"ifi": 47, "text": "Type here..."},
+  {"ifi": 48, "text": "Choose your bank account"},
+  {"ifi": 49, "text": "You can top up your NiXeL account by bank transfer in the currencies listed in this form. You can convert to other currencies in balance NiXeL after receipt of the transfer"},
   {"ifi": 99, "text": "The feature is coming soon"},
   {"ifi": 100, "text": "Yes"},
   {"ifi": 101, "text": "No"},
