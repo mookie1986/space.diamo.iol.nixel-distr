@@ -162,6 +162,7 @@
   {"ifi": 48, "text": "Choose your bank account"},
   {"ifi": 49, "text": "You can top up your NiXeL account by bank transfer in the currencies listed in this form. You can convert to other currencies in balance NiXeL after receipt of the transfer"},
   {"ifi": 50, "text": "Your device doesn't support the feature"},
+  {"ifi": 51, "text": "The format of the QR is not in the NiXeL format. Please, scan QR in the NiXel app only generated in NiXeL!"},
   {
     "ifi": 99,
     "text": "Özellik yakında geliyor"
