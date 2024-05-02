@@ -336,6 +336,10 @@
     "text": "Çok yeni şifre olmalı"
   },
   {"ifi": 142, "text": "Uygulama işlevselliği izin(ler) gerektiriyor: "},
+  {"ifi": 200, "text": "iol uygulamasında bu kullanıcıyla en azından sözleşme imzaladıktan sonra bu kullanıcıya geri bildirim bırakabileceksiniz"},
+  {"ifi": 201, "text": "##############"},
+  {"ifi": 202, "text": "##############"},
+  {"ifi": 203, "text": "##############"},
   {
     "ifi": 204,
     "text": "Hoş geldin"

@@ -336,6 +336,10 @@
     "text": "ต้องรหัสผ่านใหม่มาก"
   },
   {"ifi": 142, "text": "ฟังก์ชันการทำงานของแอปต้องได้รับอนุญาต: "},
+  {"ifi": 200, "text": "You will be able to leave a feedback to this user once you had at least on contract with this user in the iol app"},
+  {"ifi": 201, "text": "##############"},
+  {"ifi": 202, "text": "##############"},
+  {"ifi": 203, "text": "##############"},
   {
     "ifi": 204,
     "text": "ยินดีต้อนรับ"
