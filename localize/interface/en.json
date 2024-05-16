@@ -177,8 +177,7 @@
   {"ifi": 278, "text": "Reviews from other users to the user"},
   {"ifi": 279, "text": "First name, last name, birth date, at least one photo and identity document (ID card or driver license or passport) with both side picture must be provided"},
   {"ifi": 280, "text": "Once your profile is activated/verified you cannot change names and birth-date. Continue?"},
-  {"ifi": 281, "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.NiXeL-distr/main/docs/en/verif.htm", "bigText": true
-  },
+  {"ifi": 281, "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.NiXeL-distr/main/docs/en/verif.htm", "bigText": true},
   {"ifi": 282, "text": "Pending"},
   {"ifi": 283, "text": "Rejected"},
   {"ifi": 284, "text": "I verify"},
