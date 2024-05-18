@@ -338,7 +338,7 @@
   {"ifi": 142, "text": "Uygulama işlevselliği izin(ler) gerektiriyor: "},
   {"ifi": 200, "text": "iol uygulamasında bu kullanıcıyla en azından sözleşme imzaladıktan sonra bu kullanıcıya geri bildirim bırakabileceksiniz"},
   {"ifi": 201, "text": "Bu kullanıcının iol uygulamasında sözleşmesi yok"},
-  {"ifi": 202, "text": "##############"},
+  {"ifi": 202, "text": "Doğrulama için başvurun"},
   {"ifi": 203, "text": "##############"},
   {
     "ifi": 204,
@@ -634,7 +634,7 @@
   },
   {
     "ifi": 277,
-    "text": "Aktivasyon/doğrulama için başvurun"
+    "text": "Aktivasyon için başvurun"
   },
   {
     "ifi": 278,
