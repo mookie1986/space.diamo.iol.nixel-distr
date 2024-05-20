@@ -167,7 +167,7 @@
   {"ifi": 268, "text": "Contact type"},
   {"ifi": 269, "text": "Contact name"},
   {"ifi": 270, "text": "Details (number, link etc.)"},
-  {"ifi": 271, "text": "Fees / Royalty donations"},
+  {"ifi": 271, "text": "Fees+Royalty donation"},
   {"ifi": 272, "text": "Log (UTC time)"},
   {"ifi": 273, "text": "Activation"},
   {"ifi": 274, "text": "Verification"},
