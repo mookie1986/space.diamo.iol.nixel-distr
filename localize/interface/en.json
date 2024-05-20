@@ -580,7 +580,7 @@
   {"ifi": 1318, "text": "Active"},
   {"ifi": 1319, "text": "Inactive / busy"},
   {"ifi": 1320, "text": "Closed / Deleted"},
-  {"ifi": 1321, "text": "SmartContract"},
+  {"ifi": 1321, "text": "Smart contract"},
   {"ifi": 1322, "text": "Canceled before start"},
   {"ifi": 1323, "text": "Performer"},
   {"ifi": 1324, "text": "Canceled during performance"},
