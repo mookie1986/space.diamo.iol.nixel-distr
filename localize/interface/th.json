@@ -1880,6 +1880,7 @@
     "text": "IOU rate"
   },
   {"ifi": 589, "text": "Job payment"},
+  {"ifi": 590, "text": "Cancellation fine"},
   {
     "ifi": 800,
     "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/docs/th/ppsinfo.htm",
