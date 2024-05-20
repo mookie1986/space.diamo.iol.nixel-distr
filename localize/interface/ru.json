@@ -505,6 +505,7 @@
     "ifi": 588,
     "text": "Курс IOU"
   },
+  {"ifi": 589, "text": "Оплата труда"},
   {"ifi": 800, "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/docs/ru/ppsinfo.htm", "bigText": true},
   {"ifi": 1000, "text": "3-50 букв a-z цифр 0-9"},
   {"ifi": 1001, "text": "8-50 знаков"},
