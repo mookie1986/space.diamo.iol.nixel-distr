@@ -2235,42 +2235,16 @@
     "ifi": 1316,
     "text": "เริ่ม"
   },
-  {
-    "ifi": 1317,
-    "text": "ใหม่"
-  },
-  {
-    "ifi": 1318,
-    "text": "คล่องแคล่ว"
-  },
-  {
-    "ifi": 1319,
-    "text": "ไม่ทำงาน / ไม่ว่าง"
-  },
-  {
-    "ifi": 1320,
-    "text": "ปิด / ลบ"
-  },
-  {
-    "ifi": 1321,
-    "text": "สมาร์ทคอนแทรค"
-  },
-  {
-    "ifi": 1322,
-    "text": "ยกเลิกก่อนเริ่ม"
-  },
-  {
-    "ifi": 1323,
-    "text": "ผู้ปฏิบัติ"
-  },
-  {
-    "ifi": 1324,
-    "text": "การยกเลิกระหว่างผู้ปฏิบัติ"
-  },
-  {
-    "ifi": 1325,
-    "text": "ที่เสร็จเรียบร้อย"
-  },
+  {"ifi": 1320, "text": "New"},
+  {"ifi": 1325,  "text": "Signed by worker"},
+  {"ifi": 1326,  "text": "Signed by customer"},
+  {"ifi": 1330,  "text": "Signed and scheduled"},
+  {"ifi": 1333,  "text": "Contract is cancelled"},
+  {"ifi": 1335,  "text": "Job in progress"},
+  {"ifi": 1340,  "text": "Job is paused"},
+  {"ifi": 1345,  "text": "Completed and awaits payment"},
+  {"ifi": 1347,  "text": "Completed and awaits payment confirm from the worker"},
+  {"ifi": 1350,  "text": "Completed and paid"},
   {
     "ifi": 2000,
     "text": "สถาปนิกโซลูชัน",
