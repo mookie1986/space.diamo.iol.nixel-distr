@@ -493,6 +493,7 @@
   {"ifi": 593, "text": "Job start time"},
   {"ifi": 594,  "text": "initial"},
   {"ifi": 595,  "text": "final"},
+  {"ifi": 596,  "text": "min."},
   {"ifi": 800, "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/docs/en/ppsinfo.htm", "bigText": true, "note": "from 800 for documents bigtext links"},
   {"ifi": 1000, "text": "3-50 symbols a-z and 0-9"},
   {"ifi": 1001, "text": "8-50 symbols"},
@@ -679,6 +680,7 @@
   {"ifi": 3518, "text": "meters"},
   {"ifi": 3519, "text": "kilometer"},
   {"ifi": 3520, "text": "kilometers"},
+  {"ifi": 3521, "text": "KM"},
 
   {"ifi": 4000, "text": "Fees", "note": "from 4000 to 4499 fee related"},
   {"ifi": 4001, "text": "iol app stakeholders"},

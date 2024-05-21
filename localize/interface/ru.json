@@ -512,6 +512,7 @@
   {"ifi": 593, "text": "Время начала работы"},
   {"ifi": 594,  "text": "изначально"},
   {"ifi": 595,  "text": "окончательно"},
+  {"ifi": 596,  "text": "мин."},
   {"ifi": 800, "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/docs/ru/ppsinfo.htm", "bigText": true},
   {"ifi": 1000, "text": "3-50 букв a-z цифр 0-9"},
   {"ifi": 1001, "text": "8-50 знаков"},
@@ -762,6 +763,7 @@
   {"ifi": 3518, "text": "метров"},
   {"ifi": 3519, "text": "километр"},
   {"ifi": 3520, "text": "километров"},
+  {"ifi": 3521, "text": "KM"},
 
   {"ifi": 4000, "text": "Комиссии", "note": "from 4000 to 4499 fee related"},
   {"ifi": 4001, "text": "iol апп дольщики"},
