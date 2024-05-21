@@ -1,1 +1,1 @@
-{"ed": 2695, "name": "2.8", "env": "js", "note": "Now users can apply profile for manual verification separately from activation", "must":  1}
+{"ed": 2696, "name": "2.8", "env": "js", "note": "Users can archive inactive Smart invoices and contracts: swipe left on lists for that", "must":  1}
