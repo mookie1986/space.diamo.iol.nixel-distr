@@ -339,7 +339,7 @@
   {"ifi": 200, "text": "iol uygulamasında bu kullanıcıyla en azından sözleşme imzaladıktan sonra bu kullanıcıya geri bildirim bırakabileceksiniz"},
   {"ifi": 201, "text": "Bu kullanıcının iol uygulamasında sözleşmesi yok"},
   {"ifi": 202, "text": "Doğrulama için başvurun"},
-  {"ifi": 203, "text": "To archive"},
+  {"ifi": 203, "text": "Archive"},
   {
     "ifi": 204,
     "text": "Hoş geldin"
