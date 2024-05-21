@@ -339,7 +339,7 @@
   {"ifi": 200, "text": "You will be able to leave a feedback to this user once you had at least on contract with this user in the iol app"},
   {"ifi": 201, "text": "This user hasn't have contracts in the iol app"},
   {"ifi": 202, "text": "Apply for verification"},
-  {"ifi": 203, "text": "##############"},
+  {"ifi": 203, "text": "To archive"},
   {
     "ifi": 204,
     "text": "ยินดีต้อนรับ"
@@ -1887,6 +1887,7 @@
   {"ifi": 594,  "text": "initial"},
   {"ifi": 595,  "text": "final"},
   {"ifi": 596,  "text": "min."},
+  {"ifi": 597,  "text": "Cannot archive the document with this state"},
   {
     "ifi": 800,
     "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/docs/th/ppsinfo.htm",

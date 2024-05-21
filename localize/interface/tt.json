@@ -339,7 +339,7 @@
   {"ifi": 200, "text": "iol uygulamasında bu kullanıcıyla en azından sözleşme imzaladıktan sonra bu kullanıcıya geri bildirim bırakabileceksiniz"},
   {"ifi": 201, "text": "Bu kullanıcının iol uygulamasında sözleşmesi yok"},
   {"ifi": 202, "text": "Doğrulama için başvurun"},
-  {"ifi": 203, "text": "##############"},
+  {"ifi": 203, "text": "To archive"},
   {
     "ifi": 204,
     "text": "Hoş geldin"
@@ -1890,6 +1890,7 @@
   {"ifi": 594,  "text": "initial"},
   {"ifi": 595,  "text": "final"},
   {"ifi": 596,  "text": "min."},
+  {"ifi": 597,  "text": "Cannot archive the document with this state"},
   {
     "ifi": 800,
     "text": "https://raw.githubusercontent.com/distributed-digiital-nomads/space.diamo.iol.NiXeL-distr/main/docs/en/ppsinfo.htm",
