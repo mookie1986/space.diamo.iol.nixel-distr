@@ -1,1 +1,1 @@
-{"ed": 2703, "name": "2.8", "env": "js", "note": "New types of fees in iol apps have been added", "must":  1}
+{"ed": 2704, "name": "2.8", "env": "js", "note": "Minor bugs fixes: 1. irresponsible dialogue elements when add a new bank account from the list of the bank accounts; 2. Opening external URLs; 3. Update provate chat avatar", "must":  0}
