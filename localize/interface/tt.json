@@ -1886,6 +1886,7 @@
   {"ifi": 596,  "text": "min."},
   {"ifi": 597,  "text": "Cannot archive the document with this state"},
   {"ifi": 598,  "text": "Base contract sum (in IOU)"},
+  {"ifi": 599,  "text": "Would you like leave feedback?"},
   {
     "ifi": 800,
     "text": "https://raw.githubusercontent.com/distributed-digiital-nomads/space.diamo.iol.NiXeL-distr/main/docs/en/ppsinfo.htm",

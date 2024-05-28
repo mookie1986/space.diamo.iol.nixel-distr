@@ -515,6 +515,7 @@
   {"ifi": 596,  "text": "мин."},
   {"ifi": 597,  "text": "Нельзя архивировать документ с таким состоянием"},
   {"ifi": 598,  "text": "Базовая сумма контракта (в IOU)"},
+  {"ifi": 599,  "text": "Хотите оставить отзыв?"},
   {"ifi": 800, "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/docs/ru/ppsinfo.htm", "bigText": true},
   {"ifi": 1000, "text": "3-50 букв a-z цифр 0-9"},
   {"ifi": 1001, "text": "8-50 знаков"},
