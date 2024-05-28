@@ -484,14 +484,8 @@
     "ifi": 239,
     "text": "Geri bildirim"
   },
-  {
-    "ifi": 240,
-    "text": "İşi derecelendirebilir ve geri bildirim bırakabilirsiniz"
-  },
-  {
-    "ifi": 241,
-    "text": "Müşterinizi derecelendirebilir ve geri bildirim bırakabilirsiniz"
-  },
+  {"ifi": 240, "text": "Rate the worker"},
+  {"ifi": 241, "text": "Rate the customer"},
   {
     "ifi": 242,
     "text": "İş"
