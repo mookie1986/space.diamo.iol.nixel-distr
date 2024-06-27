@@ -497,6 +497,7 @@
   {"ifi": 597,  "text": "Cannot archive the document with this state"},
   {"ifi": 598,  "text": "Base contract sum (in IOU)"},
   {"ifi": 599,  "text": "Would you like leave feedback?"},
+  {"ifi": 600,  "text": "Tracking"},
   {"ifi": 800, "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/docs/en/ppsinfo.htm", "bigText": true, "note": "from 800 for documents bigtext links"},
   {"ifi": 1000, "text": "3-50 symbols a-z and 0-9"},
   {"ifi": 1001, "text": "8-50 symbols"},
