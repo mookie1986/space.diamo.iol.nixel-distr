@@ -1891,6 +1891,8 @@
   {"ifi": 601, "text": "Takip"},
   {"ifi": 602, "text": "Kullanıcıya izleme isteği gönderildi"},
   {"ifi": 603, "text": "Son Güncelleme"},
+  {"ifi": 603, "text": "{{nickname}} (userName: {{userName}}) Konumunuzu paylaşmanızı istiyor. Bunu istediğin zaman durdurabilirsin"},
+  {"ifi": 604, "text": "Konumunuzu gerçek zamanlı olarak paylaşmak için lütfen cihazın ekranını açık tutun"},
   {
     "ifi": 800,
     "text": "https://raw.githubusercontent.com/distributed-digiital-nomads/space.diamo.iol.NiXeL-distr/main/docs/en/ppsinfo.htm",
