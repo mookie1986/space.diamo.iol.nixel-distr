@@ -1890,6 +1890,7 @@
   {"ifi": 600, "text": "Birbirinizi takip"},
   {"ifi": 601, "text": "Takip"},
   {"ifi": 602, "text": "Kullanıcıya izleme isteği gönderildi"},
+  {"ifi": 603, "text": "Son Güncelleme"},
   {
     "ifi": 800,
     "text": "https://raw.githubusercontent.com/distributed-digiital-nomads/space.diamo.iol.NiXeL-distr/main/docs/en/ppsinfo.htm",
