@@ -501,7 +501,7 @@
   {"ifi": 601, "text": "Tracking"},
   {"ifi": 602, "text": "Tracking request has been sent to user"},
   {"ifi": 603, "text": "Last update"},
-  {"ifi": 604, "text": "{{nickname}} (userName: {{userName}}) asks for sharing your location. You can stop it any time"},
+  {"ifi": 604, "text": "{{nickname}} (userName: {{userName}}) asks for sharing your location. You can stop it at any time. Are you agree?"},
   {"ifi": 605, "text": "Please, keep the device's screen awake to share your location in real time"},
   {"ifi": 800, "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/docs/en/ppsinfo.htm", "bigText": true, "note": "from 800 for documents bigtext links"},
   {"ifi": 1000, "text": "3-50 symbols a-z and 0-9"},
