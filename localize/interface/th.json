@@ -1890,6 +1890,7 @@
   {"ifi": 603, "text": "Last update"},
   {"ifi": 604, "text": "{{nickname}} (userName: {{userName}}) asks for sharing your location. You can stop it at any time. Are you agree?"},
   {"ifi": 605, "text": "Please, keep the device's screen awake to share your location in real time"},
+  {"ifi": 606, "text": "Accuracy"},
   {
     "ifi": 800,
     "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/docs/th/ppsinfo.htm",
