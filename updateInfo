@@ -1,1 +1,1 @@
-{"ed": 2705, "name": "2.8", "env": "js", "note": "New feature: Track location each other", "must":  0}
+{"ed": 2714, "name": "2.8", "env": "js", "note": "New feature: Track location each other.\nMinor bug are fixed:\n 1. Map pins tap for info;\n 2. First launch", "must":  0}
