@@ -1891,6 +1891,7 @@
   {"ifi": 604, "text": "{{nickname}} (userName: {{userName}}) ขอแชร์ตำแหน่งของคุณ คุณสามารถหยุดมันได้ตลอดเวลา คุณเห็นด้วยไหม?"},
   {"ifi": 605, "text": "โปรดเปิดหน้าจอของอุปกรณ์ไว้เพื่อแชร์ตำแหน่งของคุณแบบเรียลไทม์"},
   {"ifi": 606, "text": "ความแม่นยำ"},
+  {"ifi": 607, "text": "พอดีเครื่องหมายกับหน้าจอ"},
   {
     "ifi": 800,
     "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/docs/th/ppsinfo.htm",

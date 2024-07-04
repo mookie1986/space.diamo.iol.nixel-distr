@@ -1894,6 +1894,7 @@
   {"ifi": 604, "text": "{{nickname}} (userName: {{userName}}) Konumunuzu paylaşmanızı istiyor. Bunu istediğin zaman durdurabilirsin. Katılıyor musun?"},
   {"ifi": 605, "text": "Konumunuzu gerçek zamanlı olarak paylaşmak için lütfen cihazın ekranını açık tutun"},
   {"ifi": 606, "text": "Kesinlik"},
+  {"ifi": 607, "text": "İşaretçileri ekrana sığdır"},
   {
     "ifi": 800,
     "text": "https://raw.githubusercontent.com/distributed-digiital-nomads/space.diamo.iol.NiXeL-distr/main/docs/en/ppsinfo.htm",
