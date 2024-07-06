@@ -634,10 +634,7 @@
     "ifi": 278,
     "text": "Diğer kullanıcılardan kullanıcıya yorumlar"
   },
-  {
-    "ifi": 279,
-    "text": "Her iki yan resme sahip ad, soyadı, doğum tarihi, en az bir fotoğraf ve kimlik belgesi (kimlik kartı veya sürücü lisansı veya pasaport) sağlanmalıdır"
-  },
+  {"ifi": 279, "text": "First name, last name, birth date, at least one photo and identity document (ID card or driver license or passport) with both side pictures in 2 different images must be provided"},
   {
     "ifi": 280,
     "text": "Profiliniz etkinleştirildikten/doğrulandıktan sonra isimleri ve doğum tarihini değiştiremezsiniz. Devam etmek?"

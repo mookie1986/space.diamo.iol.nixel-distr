@@ -634,10 +634,7 @@
     "ifi": 278,
     "text": "ความคิดเห็นจากผู้ใช้รายอื่นถึงผู้ใช้"
   },
-  {
-    "ifi": 279,
-    "text": "ต้องแสดงชื่อ นามสกุล วันเดือนปีเกิด รูปถ่ายและเอกสารแสดงตนอย่างน้อยหนึ่งรูป (บัตรประจำตัวประชาชนหรือใบขับขี่หรือหนังสือเดินทาง) พร้อมรูปถ่ายด้านข้างทั้งสองข้าง"
-  },
+  {"ifi": 279, "text": "First name, last name, birth date, at least one photo and identity document (ID card or driver license or passport) with both side pictures in 2 different images must be provided"},
   {
     "ifi": 280,
     "text": "เมื่อโปรไฟล์ของคุณเปิดใช้งาน/ยืนยันแล้ว คุณจะไม่สามารถเปลี่ยนชื่อและวันเกิดได้ ดำเนินการต่อ?"
