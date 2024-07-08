@@ -1892,6 +1892,7 @@
   {"ifi": 605, "text": "Konumunuzu gerçek zamanlı olarak paylaşmak için lütfen cihazın ekranını açık tutun"},
   {"ifi": 606, "text": "Kesinlik"},
   {"ifi": 607, "text": "İşaretçileri ekrana sığdır"},
+  {"ifi": 608, "text": "İOL'ün 'İş Güvenliği' alt sisteminin bir parçası olarak dahil edilen gözlemciler"},
   {
     "ifi": 800,
     "text": "https://raw.githubusercontent.com/distributed-digiital-nomads/space.diamo.iol.NiXeL-distr/main/docs/en/ppsinfo.htm",
