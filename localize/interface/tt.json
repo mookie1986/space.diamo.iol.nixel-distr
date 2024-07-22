@@ -1893,6 +1893,9 @@
   {"ifi": 606, "text": "Kesinlik"},
   {"ifi": 607, "text": "İşaretçileri ekrana sığdır"},
   {"ifi": 608, "text": "İOL'ün 'İş Güvenliği' alt sisteminin bir parçası olarak dahil edilen gözlemciler"},
+  {"ifi": 609, "text": "Gönder"},
+  {"ifi": 610, "text": "Kısa mesaj"},
+  {"ifi": 611, "text": "Güven"},
   {
     "ifi": 800,
     "text": "https://raw.githubusercontent.com/distributed-digiital-nomads/space.diamo.iol.NiXeL-distr/main/docs/en/ppsinfo.htm",
