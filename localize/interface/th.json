@@ -146,23 +146,68 @@
   },
   {
     "ifi": 36,
-    "text": "A new edition of the NiXeL app is available. Please, update the app"
+    "text": "แอป NiXeL เวอร์ชันใหม่พร้อมให้ดาวน์โหลดแล้ว โปรดอัปเดตแอป"
   },
-  {"ifi": 37, "text": "โหมดมืด/สว่าง"},
-  {"ifi": 38, "text": "Attempts left"},
-  {"ifi": 39, "text": "To reset PIN you can unistall the app with all data and install it again"},
-  {"ifi": 40, "text": "Your NiXeL data in the device have been deleted. Will see you next time!"},
-  {"ifi": 41, "text": "Rich Text editor"},
-  {"ifi": 42, "text": "Max length"},
-  {"ifi": 43, "text": "Min length"},
-  {"ifi": 44, "text": "Type your text and links here"},
-  {"ifi": 45, "text": "Result"},
-  {"ifi": 46, "text": "Your roles in the iol allow you to verify other users manually. Please, check the profile carefully and verify or reject the user verification"},
-  {"ifi": 47, "text": "Type here..."},
-  {"ifi": 48, "text": "Choose your bank account"},
-  {"ifi": 49, "text": "You can top up your NiXeL account by bank transfer in the currencies listed in this form. You can convert to other currencies in balance NiXeL after receipt of the transfer"},
-  {"ifi": 50, "text": "Your device doesn't support the feature"},
-  {"ifi": 51, "text": "The format of the QR is not in the NiXeL format. Please, scan QR in the NiXel app only generated in NiXeL!"},
+  {
+    "ifi": 37,
+    "text": "โหมดมืด/สว่าง"
+  },
+  {
+    "ifi": 38,
+    "text": "ความพยายามที่เหลืออยู่"
+  },
+  {
+    "ifi": 39,
+    "text": "หากต้องการรีเซ็ต PIN คุณสามารถถอนการติดตั้งแอปพร้อมข้อมูลทั้งหมดและติดตั้งใหม่อีกครั้ง"
+  },
+  {
+    "ifi": 40,
+    "text": "ข้อมูล NiXeL ในอุปกรณ์ของคุณถูกลบไปแล้ว พบกันใหม่ครั้งหน้า!"
+  },
+  {
+    "ifi": 41,
+    "text": "โปรแกรมแก้ไขข้อความแบบ Rich Text"
+  },
+  {
+    "ifi": 42,
+    "text": "ความยาวสูงสุด"
+  },
+  {
+    "ifi": 43,
+    "text": "ความยาวขั้นต่ำ"
+  },
+  {
+    "ifi": 44,
+    "text": "พิมพ์ข้อความและลิงก์ของคุณที่นี่"
+  },
+  {
+    "ifi": 45,
+    "text": "ผลลัพธ์"
+  },
+  {
+    "ifi": 46,
+    "text": "บทบาทของคุณใน iOL ช่วยให้คุณสามารถยืนยันผู้ใช้รายอื่นได้ด้วยตนเอง โปรดตรวจสอบโปรไฟล์อย่างละเอียดและยืนยันหรือปฏิเสธการยืนยันผู้ใช้"
+  },
+  {
+    "ifi": 47,
+    "text": "พิมพ์ที่นี่..."
+  },
+  {
+    "ifi": 48,
+    "text": "เลือกบัญชีธนาคารของคุณ"
+  },
+  {
+    "ifi": 49,
+    "text": "คุณสามารถเติมเงินในบัญชี NiXeL ของคุณได้โดยโอนผ่านธนาคารในสกุลเงินที่ระบุไว้ในแบบฟอร์มนี้ คุณสามารถแปลงเป็นสกุลเงินอื่นในยอดคงเหลือ NiXeL ได้หลังจากได้รับการโอน"
+  },
+  {
+    "ifi": 50,
+    "text": "อุปกรณ์ของคุณไม่รองรับคุณสมบัตินี้"
+  },
+  {
+    "ifi": 51,
+    "text": "รูปแบบของ QR ไม่ได้อยู่ในรูปแบบ NiXeL โปรดสแกน QR ในแอป NiXel ที่สร้างใน NiXeL เท่านั้น"
+  },
   {
     "ifi": 99,
     "text": "คุณสมบัติกำลังจะมาเร็ว ๆ นี้"
@@ -335,11 +380,26 @@
     "ifi": 141,
     "text": "ต้องรหัสผ่านใหม่มาก"
   },
-  {"ifi": 142, "text": "ฟังก์ชันการทำงานของแอปต้องได้รับอนุญาต: "},
-  {"ifi": 200, "text": "You will be able to leave a feedback to this user once you had at least on contract with this user in the iol app"},
-  {"ifi": 201, "text": "This user hasn't have contracts in the iol app"},
-  {"ifi": 202, "text": "Apply for verification"},
-  {"ifi": 203, "text": "Archive"},
+  {
+    "ifi": 142,
+    "text": "ฟังก์ชันการทำงานของแอปต้องได้รับอนุญาต: "
+  },
+  {
+    "ifi": 200,
+    "text": "คุณจะสามารถแสดงความเห็นต่อผู้ใช้รายนี้ได้เมื่อคุณมีสัญญากับผู้ใช้รายนี้ใน iol app iอย่างน้อย 1 ปีแล้ว"
+  },
+  {
+    "ifi": 201,
+    "text": "ผู้ใช้รายนี้ไม่มีสัญญาใน iol app"
+  },
+  {
+    "ifi": 202,
+    "text": "สมัครขอรับการตรวจสอบ"
+  },
+  {
+    "ifi": 203,
+    "text": "คลังเก็บเอกสารสำคัญ"
+  },
   {
     "ifi": 204,
     "text": "ยินดีต้อนรับ"
@@ -484,8 +544,14 @@
     "ifi": 239,
     "text": "ข้อเสนอแนะ"
   },
-  {"ifi": 240, "text": "Rate the worker"},
-  {"ifi": 241, "text": "Rate the customer"},
+  {
+    "ifi": 240,
+    "text": "ให้คะแนนคนงาน"
+  },
+  {
+    "ifi": 241,
+    "text": "ให้คะแนนลูกค้า"
+  },
   {
     "ifi": 242,
     "text": "งาน"
@@ -634,7 +700,10 @@
     "ifi": 278,
     "text": "ความคิดเห็นจากผู้ใช้รายอื่นถึงผู้ใช้"
   },
-  {"ifi": 279, "text": "First name, last name, birth date, at least one photo and identity document (ID card or driver license or passport) with both side pictures in 2 different images must be provided"},
+  {
+    "ifi": 279,
+    "text": "First name, last name, birth date, at least one photo and identity document (ID card or driver license or passport) with both side pictures in 2 different images must be provided"
+  },
   {
     "ifi": 280,
     "text": "เมื่อโปรไฟล์ของคุณเปิดใช้งาน/ยืนยันแล้ว คุณจะไม่สามารถเปลี่ยนชื่อและวันเกิดได้ ดำเนินการต่อ?"
@@ -882,7 +951,7 @@
   },
   {
     "ifi": 341,
-    "text": "Prepaid fees"
+    "text": "ค่าธรรมเนียมการจ่ายล่วงหน้า"
   },
   {
     "ifi": 342,
@@ -1459,7 +1528,7 @@
   },
   {
     "ifi": 485,
-    "text": "You as"
+    "text": "คุณเป็น"
   },
   {
     "ifi": 486,
@@ -1525,10 +1594,13 @@
     "ifi": 501,
     "text": "<b>นโยบายความเป็นส่วนตัว</b><br><br>ข้อกำหนดและเงื่อนไขการใช้งาน"
   },
-  {"ifi": 502, "text": "Rating in iol app"},
+  {
+    "ifi": 502,
+    "text": "การจัดอันดับใน iol app"
+  },
   {
     "ifi": 503,
-    "text": "In iol-app"
+    "text": "ใน iol-app"
   },
   {
     "ifi": 504,
@@ -1552,7 +1624,7 @@
   },
   {
     "ifi": 509,
-    "text": "The data have been sent to review and will be available once it's accepted by moderators"
+    "text": "ข้อมูลได้ถูกส่งไปตรวจสอบแล้ว และจะพร้อมใช้งานเมื่อได้รับการยอมรับจากผู้ดูแลระบบ"
   },
   {
     "ifi": 510,
@@ -1852,52 +1924,121 @@
   },
   {
     "ifi": 584,
-    "text": "Set minimum wage (IOU rate offer)"
+    "text": "กำหนดอัตราค่าจ้างขั้นต่ำ (เสนออัตรา IOU)"
   },
   {
     "ifi": 585,
-    "text": "Country ISO 2, 3 codes"
+    "text": "รหัสประเทศ ISO 2, 3"
   },
   {
     "ifi": 586,
-    "text": "Country currency"
+    "text": "สกุลเงินของประเทศ"
   },
   {
     "ifi": 587,
-    "text": "Country languages (codes)"
+    "text": "ภาษาของประเทศ (รหัส)"
   },
   {
     "ifi": 588,
-    "text": "IOU rate"
+    "text": "อัตรา IOU "
   },
-  {"ifi": 589, "text": "Job payment"},
-  {"ifi": 590, "text": "Cancellation fine"},
-  {"ifi": 591, "text": "Duration price"},
-  {"ifi": 592, "text": "Distance price"},
-  {"ifi": 593, "text": "Job start time"},
-  {"ifi": 594, "text": "initial"},
-  {"ifi": 595, "text": "final"},
-  {"ifi": 596, "text": "min."},
-  {"ifi": 597, "text": "Cannot archive the document with this state"},
-  {"ifi": 598, "text": "Base contract sum (in IOU)"},
-  {"ifi": 599, "text": "Would you like leave feedback?"},
-  {"ifi": 600, "text": "ติดตามกัน"},
-  {"ifi": 601, "text": "การติดตาม"},
-  {"ifi": 602, "text": "คำขอติดตามถูกส่งไปยังผู้ใช้แล้ว"},
-  {"ifi": 603, "text": "การปรับปรุงครั้งล่าสุด"},
-  {"ifi": 604, "text": "{{nickname}} (userName: {{userName}}) ขอแชร์ตำแหน่งของคุณ คุณสามารถหยุดมันได้ตลอดเวลา คุณเห็นด้วยไหม?"},
-  {"ifi": 605, "text": "โปรดเปิดหน้าจอของอุปกรณ์ไว้เพื่อแชร์ตำแหน่งของคุณแบบเรียลไทม์"},
-  {"ifi": 606, "text": "ความแม่นยำ"},
-  {"ifi": 607, "text": "พอดีเครื่องหมายกับหน้าจอ"},
-  {"ifi": 608, "text": "Observers included as a part of the 'Job Safety' subsystem of the iol"},
-  {"ifi": 609, "text": "Send"},
-  {"ifi": 610, "text": "Short message"},
-  {"ifi": 611, "text": "Rely"},
+  {
+    "ifi": 589,
+    "text": "การชำระเงินค่างาน"
+  },
+  {
+    "ifi": 590,
+    "text": "ค่าปรับการยกเลิก"
+  },
+  {
+    "ifi": 591,
+    "text": "ระยะเวลา ราคา"
+  },
+  {
+    "ifi": 592,
+    "text": "ราคาตามระยะทาง"
+  },
+  {
+    "ifi": 593,
+    "text": "เวลาเริ่มงาน"
+  },
+  {
+    "ifi": 594,
+    "text": "อักษรย่อ"
+  },
+  {
+    "ifi": 595,
+    "text": "สุดท้าย"
+  },
+  {
+    "ifi": 596,
+    "text": "นาที."
+  },
+  {
+    "ifi": 597,
+    "text": "ไม่สามารถเก็บถาวรเอกสารที่มีสถานะนี้ได้"
+  },
+  {
+    "ifi": 598,
+    "text": "มูลค่าสัญญาฐาน (ใน IOU)"
+  },
+  {
+    "ifi": 599,
+    "text": "คุณต้องการแสดงความคิดเห็นหรือไม่?"
+  },
+  {
+    "ifi": 600,
+    "text": "ติดตามกัน"
+  },
+  {
+    "ifi": 601,
+    "text": "การติดตาม"
+  },
+  {
+    "ifi": 602,
+    "text": "คำขอติดตามถูกส่งไปยังผู้ใช้แล้ว"
+  },
+  {
+    "ifi": 603,
+    "text": "การปรับปรุงครั้งล่าสุด"
+  },
+  {
+    "ifi": 604,
+    "text": "{{nickname}} (userName: {{userName}}) ขอแชร์ตำแหน่งของคุณ คุณสามารถหยุดมันได้ตลอดเวลา คุณเห็นด้วยไหม?"
+  },
+  {
+    "ifi": 605,
+    "text": "โปรดเปิดหน้าจอของอุปกรณ์ไว้เพื่อแชร์ตำแหน่งของคุณแบบเรียลไทม์"
+  },
+  {
+    "ifi": 606,
+    "text": "ความแม่นยำ"
+  },
+  {
+    "ifi": 607,
+    "text": "พอดีเครื่องหมายกับหน้าจอ"
+  },
+  {
+    "ifi": 608,
+    "text": "ผู้สังเกตการณ์ที่รวมอยู่ในระบบย่อย 'ความปลอดภัยในการทำงาน' ของ iol"
+  },
+  {
+    "ifi": 609,
+    "text": "ส่ง"
+  },
+  {
+    "ifi": 610,
+    "text": "ข้อความสั้น ๆ"
+  },
+  {
+    "ifi": 611,
+    "text": "พึ่งพา"
+  },
   {
     "ifi": 800,
     "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/space.diamo.iol.nixel-distr/main/docs/th/ppsinfo.htm",
     "bigText": true,
-    "notes": "from 800 for documents bigtext links"
+    "note": "from 800 for documents bigtext links"
   },
   {
     "ifi": 1000,
@@ -2247,17 +2388,50 @@
     "ifi": 1316,
     "text": "เริ่ม"
   },
-  {"ifi": 1317, "text": "Smart contract"},
-  {"ifi": 1320, "text": "New"},
-  {"ifi": 1325, "text": "Signed by worker"},
-  {"ifi": 1326, "text": "Signed by customer"},
-  {"ifi": 1330, "text": "Signed and scheduled"},
-  {"ifi": 1333, "text": "Contract is cancelled"},
-  {"ifi": 1335, "text": "Job in progress"},
-  {"ifi": 1340, "text": "Job is paused"},
-  {"ifi": 1345, "text": "Completed and awaits payment"},
-  {"ifi": 1347, "text": "Completed and awaits payment confirm from the worker"},
-  {"ifi": 1350, "text": "Completed and paid"},
+  {
+    "ifi": 1317,
+    "text": "สัญญาอัจฉริยะ"
+  },
+  {
+    "ifi": 1320,
+    "text": "ใหม่"
+  },
+  {
+    "ifi": 1325,
+    "text": "ลงนามโดยคนงาน"
+  },
+  {
+    "ifi": 1326,
+    "text": "ลงนามโดยลูกค้า"
+  },
+  {
+    "ifi": 1330,
+    "text": "ลงนามและกำหนดเวลา"
+  },
+  {
+    "ifi": 1333,
+    "text": "สัญญาถูกยกเลิก"
+  },
+  {
+    "ifi": 1335,
+    "text": "งานที่กำลังดำเนินการอยู่"
+  },
+  {
+    "ifi": 1340,
+    "text": "งานถูกหยุดชั่วคราว"
+  },
+  {
+    "ifi": 1345,
+    "text": "เสร็จสิ้นและรอชำระเงิน"
+  },
+  {
+    "ifi": 1347,
+    "text": "เสร็จสิ้นและรอการยืนยันการชำระเงินจากคนงาน"
+  },
+  {
+    "ifi": 1350,
+    "text": "เสร็จเรียบร้อยและชำระเงินแล้ว"
+  },
   {
     "ifi": 2000,
     "text": "สถาปนิกโซลูชัน",
@@ -2374,12 +2548,12 @@
   },
   {
     "ifi": 2400,
-    "text": "Configuring in the iolBuilder",
+    "text": "การกำหนดค่าใน iolBuilder",
     "note": "from 2400 2499 iol app states"
   },
   {
     "ifi": 2401,
-    "text": "Saved in the iolBuilder"
+    "text": "บันทึกไว้ใน iolBuilder"
   },
   {
     "ifi": 2402,
@@ -2395,11 +2569,11 @@
   },
   {
     "ifi": 2405,
-    "text": "Generated in the iolBuilder"
+    "text": "สร้างขึ้นใน iolBuilder"
   },
   {
     "ifi": 2406,
-    "text": "Under development"
+    "text": "อยู่ระหว่างการพัฒนา"
   },
   {
     "ifi": 2407,
@@ -2415,7 +2589,7 @@
   },
   {
     "ifi": 2410,
-    "text": "Internal test"
+    "text": "การทดสอบภายใน"
   },
   {
     "ifi": 2411,
@@ -2435,15 +2609,15 @@
   },
   {
     "ifi": 2415,
-    "text": "Available unsigned APK. Public test"
+    "text": "APK ที่ไม่ได้ลงชื่อพร้อมใช้งาน ทดสอบสาธารณะ"
   },
   {
     "ifi": 2416,
-    "text": "Available signed APK. Public test"
+    "text": "มีจำหน่ายแล้ว APK ลงนามแล้ว ทดสอบสาธารณะ"
   },
   {
     "ifi": 2417,
-    "text": "Available in Google/App store. Early access"
+    "text": "มีให้บริการใน Google/App store เข้าถึงได้ก่อนใคร"
   },
   {
     "ifi": 2418,
@@ -2455,12 +2629,12 @@
   },
   {
     "ifi": 2420,
-    "text": "Available in Google/App store"
+    "text": "มีให้บริการใน Google/App store"
   },
   {
     "ifi": 2500,
     "text": "ระบบบัตร",
-    "notes": "from 2500 to 2899 cards related"
+    "note": "from 2500 to 2899 cards related"
   },
   {
     "ifi": 2501,
@@ -2526,37 +2700,130 @@
     "ifi": 2516,
     "text": "บัตรดิจิทัลของเราให้บริการโดย FSP ที่แตกต่างกันซึ่งมีความสมดุลภายใน FSP การโอนระหว่าง FSP อาจใช้เวลาถึง 5 วันทำการธนาคาร"
   },
-
-  {"ifi": 3500, "text": "Measure", "note": "from 3500 to 3999 measures and unit related"},
-  {"ifi": 3501, "text": "millisecond"},
-  {"ifi": 3502, "text": "milliseconds"},
-  {"ifi": 3503, "text": "second"},
-  {"ifi": 3504, "text": "seconds"},
-  {"ifi": 3505, "text": "minute"},
-  {"ifi": 3506, "text": "minutes"},
-  {"ifi": 3507, "text": "hour"},
-  {"ifi": 3508, "text": "hours"},
-  {"ifi": 3509, "text": "day"},
-  {"ifi": 3510, "text": "days"},
-  {"ifi": 3511, "text": "week"},
-  {"ifi": 3512, "text": "weeks"},
-  {"ifi": 3513, "text": "month"},
-  {"ifi": 3514, "text": "months"},
-  {"ifi": 3515, "text": "year"},
-  {"ifi": 3516, "text": "years"},
-  {"ifi": 3517, "text": "meter"},
-  {"ifi": 3518, "text": "meters"},
-  {"ifi": 3519, "text": "kilometer"},
-  {"ifi": 3520, "text": "kilometers"},
-  {"ifi": 3521, "text": "KM"},
-
-  {"ifi": 4000, "text": "Fees", "note": "from 4000 to 4499 fee related"},
-  {"ifi": 4001, "text": "iol app stakeholders"},
-  {"ifi": 4002, "text": "iol app minimum"},
-  {"ifi": 4003, "text": "iol royalty"},
-  {"ifi": 4004, "text": "iol royalty minimum"},
-  {"ifi": 4005, "text": "Cancellation by customer"},
-  {"ifi": 4006, "text": "Cancellation by worker"},
-  {"ifi": 4007, "text": "In the case of Cash on hand payment customer's fee payments will be added to the Amount to pay and charged from the worker"},
-  {"ifi": 4008, "text": "Including fees"}
+  {
+    "ifi": 3500,
+    "text": "วัด",
+    "note": "from 3500 to 3999 measures and unit related"
+  },
+  {
+    "ifi": 3501,
+    "text": "มิลลิวินาที"
+  },
+  {
+    "ifi": 3502,
+    "text": "มิลลิวินาที"
+  },
+  {
+    "ifi": 3503,
+    "text": "วินาที"
+  },
+  {
+    "ifi": 3504,
+    "text": "วินาที"
+  },
+  {
+    "ifi": 3505,
+    "text": "นาที"
+  },
+  {
+    "ifi": 3506,
+    "text": "นาที"
+  },
+  {
+    "ifi": 3507,
+    "text": "ชั่วโมง"
+  },
+  {
+    "ifi": 3508,
+    "text": "ชั่วโมง"
+  },
+  {
+    "ifi": 3509,
+    "text": "วัน"
+  },
+  {
+    "ifi": 3510,
+    "text": "วัน"
+  },
+  {
+    "ifi": 3511,
+    "text": "สัปดาห์"
+  },
+  {
+    "ifi": 3512,
+    "text": "สัปดาห์"
+  },
+  {
+    "ifi": 3513,
+    "text": "เดือน"
+  },
+  {
+    "ifi": 3514,
+    "text": "เดือน"
+  },
+  {
+    "ifi": 3515,
+    "text": "ปี"
+  },
+  {
+    "ifi": 3516,
+    "text": "ปี"
+  },
+  {
+    "ifi": 3517,
+    "text": "เมตร"
+  },
+  {
+    "ifi": 3518,
+    "text": "เมตร"
+  },
+  {
+    "ifi": 3519,
+    "text": "กิโลเมตร"
+  },
+  {
+    "ifi": 3520,
+    "text": "กิโลเมตร"
+  },
+  {
+    "ifi": 3521,
+    "text": "KM"
+  },
+  {
+    "ifi": 4000,
+    "text": "ค่าธรรมเนียม",
+    "note": "from 4000 to 4499 fee related"
+  },
+  {
+    "ifi": 4001,
+    "text": "ผู้ถือผลประโยชน์ iol app "
+  },
+  {
+    "ifi": 4002,
+    "text": "ขั้นต่ำ iol app "
+  },
+  {
+    "ifi": 4003,
+    "text": "ค่าลิขสิทธิ์ iol"
+  },
+  {
+    "ifi": 4004,
+    "text": "ค่าลิขสิทธิ์ iol ขั้นต่ำ"
+  },
+  {
+    "ifi": 4005,
+    "text": "การยกเลิกโดยลูกค้า"
+  },
+  {
+    "ifi": 4006,
+    "text": "การยกเลิกโดยคนงาน"
+  },
+  {
+    "ifi": 4007,
+    "text": "กรณีชำระเป็นเงินสด ค่าธรรมเนียมของลูกค้าจะถูกเพิ่มเข้ากับยอดเงินที่ต้องชำระและเรียกเก็บจากคนงาน"
+  },
+  {
+    "ifi": 4008,
+    "text": "รวมค่าธรรมเนียม"
+  }
 ]
